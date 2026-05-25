@@ -16,16 +16,16 @@ logger = Setup_logging('logs/integrations/netbox.log')
 
 class NetBoxClient():
     '''
-    NetBox API Client
+    Reusable NetBox API client.
 
     Supports:
-    - Raw REST API requests using requests library
+    - REST API operations using requests library
     - Pynetbox SDK operations
-    - Generic reusable GET methods
-    - Filtering support
     - Pagination handling
+    - Generic reusable CRUD methods
+    - Logging and exception handling
 
-    Tokens and URL are loaded from environment variables.
+    Designed for inventory and Source of Truth automation.
     '''
 
     @staticmethod
@@ -61,7 +61,9 @@ class NetBoxClient():
         try:
             logger.info(f'Connecting to Netbox to get inventory details from: {base_url+url}')
             response = requests.request('GET', url=base_url+url, headers=header, timeout=15)
-            response.raise_for_status()
+            
+            response.raise_for_status() # Raise exception automatically if HTTP status code is 4xx/5xx
+
             get_result = response.json()
             logging_message = 1
             while get_result.get('next'):
@@ -78,6 +80,8 @@ class NetBoxClient():
 
         except requests.exceptions.JSONDecodeError as J:
             logger.error(f'There is issue with pasring header/Token/url error message:{J}')
+        except requests.exceptions.HTTPError as e:
+            logger.error(f'HTTP error occurred: {e}')
         except Exception as e:
             logger.error(f'Encountered Error: {e}')
 
@@ -150,19 +154,169 @@ class NetBoxClient():
                 
         return result
 
+    @staticmethod
+    def post_requests(url, payload) -> dict:
+        '''
+        Generic POST method using requests library.
+
+        Used to create new objects in NetBox using REST API calls.
+
+        Args:
+            url (str):
+                NetBox API endpoint path.
+
+                Example:
+                    /api/dcim/sites/
+                    /api/dcim/locations/
+
+            payload (dict):
+                JSON payload containing object details to be created.
+
+        Returns:
+            dict:
+                API response containing created NetBox object details.
+
+        Features:
+            - Uses Read-Write token authentication
+            - Supports JSON payloads
+            - Handles HTTP error validation
+            - Logs API operations
+            - Supports reusable generic POST operations
+
+        Raises:
+            requests.exceptions.HTTPError:
+                Raised when NetBox returns HTTP 4xx/5xx errors.
+
+        Examples:
+            Create Site:
+
+                payload = {
+                    'name': 'hyd-site-01',
+                    'slug': 'hyd-site-01'
+                }
+
+                NetBoxClient.post_requests(
+                    url='/api/dcim/sites/',
+                    payload=payload
+                )
+        '''
+
+        logger.debug(f'Sending POST request to NetBox endpoint: {base_url+url}')
+
+        header = {
+                'Content-Type': 'application/json',
+                'Authorization': f"Bearer {v2_token_RW}",
+                    }
+        get_result = {}
+        try:
+            logger.info(f'Connecting to Netbox to add new record in inventory for: {base_url+url}')
+            if not payload:
+                logger.error('Payload is empty')
+                return {}
+            response = requests.request('POST', url=base_url+url, headers=header, timeout=15, json=payload)
+            response.raise_for_status()
+            logger.debug(f'NetBox returned status code: {response.status_code}')
+            get_result = response.json()
+
+            logger.info(f'Successfully created NetBox object using endpoint: {url}')
+
+        except requests.exceptions.JSONDecodeError as J:
+            logger.error(f'There is issue with pasring header/Token/url/payload error message:{J}')
+        except requests.exceptions.HTTPError as e:
+            logger.error(f'HTTP error occurred: {e}')
+        except Exception as e:
+            logger.error(f'Encountered Error: {e}')
+
+        return get_result
+    
+    @staticmethod
+    def post_pynetbox(api='', sub_api ='', **kwargs):
+        '''
+        Generic POST method using pynetbox SDK.
+
+        Used to create new objects in NetBox using the pynetbox library.
+
+        Args:
+            api (str):
+                NetBox application name.
+
+                Example:
+                    dcim
+                    ipam
+                    tenancy
+                    virtualization
+
+            sub_api (str):
+                NetBox endpoint inside application.
+
+                Example:
+                    sites
+                    devices
+                    locations
+                    prefixes
+
+            **kwargs:
+                Object fields passed dynamically to pynetbox create method.
+
+        Returns:
+            object:
+                Created NetBox object returned by pynetbox.
+
+        Features:
+            - Uses pynetbox SDK
+            - Supports dynamic API selection
+            - Supports reusable object creation
+            - Uses Read-Write token authentication
+            - Logs API operations and exceptions
+
+        Examples:
+            Create Site:
+
+                NetBoxClient.post_pynetbox(
+                    api='dcim',
+                    sub_api='sites',
+                    name='hyd-site-01',
+                    slug='hyd-site-01'
+                )
+
+            Create Location:
+
+                NetBoxClient.post_pynetbox(
+                    api='dcim',
+                    sub_api='locations',
+                    name='hyd-location-01',
+                    slug='hyd-location-01',
+                    site=1
+                )
+        '''
+        
+        logger.debug(f'Sending POST request to NetBox endpoint: {api, sub_api}')
+
+        nb = pynetbox.api(url=base_url, token=v1_token_Rw)
+        result = None
+        try:
+            if api.lower() in API_LIST:
+                if sub_api and sub_api.lower() in SUB_API_LIST:
+                    api_path = getattr(nb, api.lower())
+                    path = getattr(api_path, sub_api.lower())
+                    if kwargs:
+                        result = path.create(**kwargs)
+                    else:
+                        logger.error('Payload has not passed.')
+            elif api.lower() == 'status':
+                result = list(nb.status())
+            else:
+                logger.error('Passed wrong api/sub_api in get_pynetbox function correct it')
+        except Exception as e:
+            logger.error(f'Encountered exception while fetching NetBox data: {e}')
+                
+        return result
+
 
 
 if __name__ == "__main__":
-    result = NetBoxClient.get_requests(url='/api/dcim/locations')
-    
-    with open('tests/test_outputs_file/netbox_client.txt', 'w') as test:
-        json.dump(result, test, indent=4, ensure_ascii=False)
 
-    # result = NetBoxClient.get_pynetbox('sites')
-    # r_print(result)
-    # get_details = NetBoxClient.get_pynetbox(api='status')
-    # print(get_details)
+    paylaod = ({"name": "Test-SITE-08" , "slug":"test-site-08" , "status": "active"})
+    result  = NetBoxClient.post_pynetbox(api='dcim', sub_api ='sites', **paylaod)
+    print(list(result))
 
-
-
-        #    dcim = ['cable-terminations', 'cables', 'connected-device', 'console-port-templates', 'console-ports', 'console-server-port-templates', 'console-server-ports', 'device-bay-templates', 'device-bays', 'device-roles', 'device-types', 'devices', 'front-port-templates', 'front-ports', 'interface-templates', 'interfaces', 'inventory-item-roles', 'inventory-item-templates', 'inventory-items', 'locations', 'mac-addresses', 'manufacturers', 'module-bay-templates', 'module-bays', 'module-type-profiles', 'module-types', 'modules', 'platforms', 'power-feeds', 'power-outlet-templates', 'power-outlets', 'power-panels', 'power-port-templates', 'power-ports', 'rack-reservations', 'rack-roles', 'rack-types', 'racks', 'rear-port-templates', 'rear-ports', 'regions', 'site-groups', 'sites', 'virtual-chassis', 'virtual-device-contexts']
