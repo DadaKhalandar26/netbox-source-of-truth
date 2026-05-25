@@ -1,0 +1,5 @@
+requests
+pynetbox
+rich
+os
+dotenv

@@ -1,0 +1,52 @@
+name,parent,slug,description
+APAC,,apac,Geographical region
+India,APAC,india,Country
+Karnataka,India,karnataka,State
+Bengaluru,Karnataka,bengaluru,City
+Maharashtra,India,maharashtra,State
+Mumbai,Maharashtra,mumbai,City
+Telangana,India,telangana,State
+Hyderabad,Telangana,hyderabad,City
+Singapore,APAC,singapore,Country
+Australia,APAC,australia,Country
+New South Wales,Australia,new-south-wales,State
+Sydney,New South Wales,sydney,City
+EMEA,,emea,Geographical region
+United Kingdom,EMEA,united-kingdom,Country
+England,United Kingdom,england,State
+London,England,london,City
+Germany,EMEA,germany,Country
+Berlin,Germany,berlin,City
+Netherlands,EMEA,netherlands,Country
+Amsterdam,Netherlands,amsterdam,City
+United Arab Emirates,EMEA,united-arab-emirates,Country
+Dubai,United Arab Emirates,dubai,City
+South Africa,EMEA,south-africa,Country
+Cape Town,South Africa,cape-town,City
+AMER,,amer,Geographical region
+United States,AMER,united-states,Country
+California,United States,california,State
+San Francisco,California,san-francisco,City
+New York,United States,new-york,State
+New York City,New York,new-york-city,City
+Canada,AMER,canada,Country
+Ontario,Canada,ontario,State
+Toronto,Ontario,toronto,City
+Brazil,AMER,brazil,Country
+Sao Paulo,Brazil,sao-paulo,City
+Japan,APAC,japan,Country
+Tokyo,Japan,tokyo,City
+South Korea,APAC,south-korea,Country
+Seoul,South Korea,seoul,City
+Indonesia,APAC,indonesia,Country
+Jakarta,Indonesia,jakarta,City
+France,EMEA,france,Country
+Paris,France,paris,City
+Spain,EMEA,spain,Country
+Madrid,Spain,madrid,City
+Saudi Arabia,EMEA,saudi-arabia,Country
+Riyadh,Saudi Arabia,riyadh,City
+Mexico,AMER,mexico,Country
+Mexico City,Mexico,mexico-city,City
+Argentina,AMER,argentina,Country
+Buenos Aires,Argentina,buenos-aires,City

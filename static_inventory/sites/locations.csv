@@ -1,0 +1,116 @@
+name,site,parent,slug,status,tenant,description
+MDF Room,US-SFO-DC1,,mdf-room-us-sfo-dc1,active,Internal,Primary network distribution room
+Data Hall 01,US-SFO-DC1,,data-hall-01-us-sfo-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,US-SFO-DC1,,meet-me-room-us-sfo-dc1,active,Internal,Carrier and WAN handoff room
+Staging Area,US-SFO-DC1,,staging-area-us-sfo-dc1,active,Internal,Device staging and provisioning area
+Floor 01,US-NYC-CO1,,floor-01-us-nyc-co1,active,Internal,Corporate office floor 1
+Floor 02,US-NYC-CO1,,floor-02-us-nyc-co1,active,Internal,Corporate office floor 2
+MDF Room,US-NYC-CO1,,mdf-room-us-nyc-co1,active,Internal,Primary network distribution room
+IDF 01,US-NYC-CO1,,idf-01-us-nyc-co1,active,Internal,Access switching and patching room
+Floor 01,CA-TOR-BO1,,floor-01-ca-tor-bo1,active,Internal,Branch office floor 1
+MDF Room,CA-TOR-BO1,,mdf-room-ca-tor-bo1,active,Internal,Primary network distribution room
+IDF 01,CA-TOR-BO1,,idf-01-ca-tor-bo1,active,Internal,Access switching and patching room
+Floor 01,IN-MUM-CO1,,floor-01-in-mum-co1,active,Internal,Corporate office floor 1
+Floor 02,IN-MUM-CO1,,floor-02-in-mum-co1,active,Internal,Corporate office floor 2
+MDF Room,IN-MUM-CO1,,mdf-room-in-mum-co1,active,Internal,Primary network distribution room
+IDF 01,IN-MUM-CO1,,idf-01-in-mum-co1,active,Internal,Access switching and patching room
+Data Hall 01,IN-MUM-DC1,,data-hall-01-in-mum-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,IN-MUM-DC1,,meet-me-room-in-mum-dc1,active,Internal,Carrier and WAN handoff room
+MDF Room,IN-MUM-DC1,,mdf-room-in-mum-dc1,active,Internal,Core network room
+Staging Area,IN-MUM-DC1,,staging-area-in-mum-dc1,active,Internal,Device staging and provisioning area
+Lab Floor,IN-HYD-LAB1,,lab-floor-in-hyd-lab1,active,DevLab,Primary testing and validation area
+Workbench Area,IN-HYD-LAB1,,workbench-area-in-hyd-lab1,active,DevLab,Engineer workbench and testing space
+Storage Room,IN-HYD-LAB1,,storage-room-in-hyd-lab1,active,DevLab,Lab equipment and spare storage
+Data Hall 01,SG-SIN-DC1,,data-hall-01-sg-sin-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,SG-SIN-DC1,,meet-me-room-sg-sin-dc1,active,Internal,Carrier and WAN handoff room
+MDF Room,SG-SIN-DC1,,mdf-room-sg-sin-dc1,active,Internal,Core network room
+NOC Room,SG-SIN-DC1,,noc-room-sg-sin-dc1,active,Internal,Network operations center
+Floor 01,SG-SIN-BO1,,floor-01-sg-sin-bo1,active,Internal,Branch office floor 1
+MDF Room,SG-SIN-BO1,,mdf-room-sg-sin-bo1,active,Internal,Primary network distribution room
+IDF 01,SG-SIN-BO1,,idf-01-sg-sin-bo1,active,Internal,Access switching and patching room
+Data Hall 01,AU-SYD-DC1,,data-hall-01-au-syd-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,AU-SYD-DC1,,meet-me-room-au-syd-dc1,active,Internal,Carrier and WAN handoff room
+MDF Room,AU-SYD-DC1,,mdf-room-au-syd-dc1,active,Internal,Core network room
+Staging Area,AU-SYD-DC1,,staging-area-au-syd-dc1,active,Internal,Device staging and provisioning area
+Floor 01,UK-LON-CO1,,floor-01-uk-lon-co1,active,Internal,Corporate office floor 1
+Floor 02,UK-LON-CO1,,floor-02-uk-lon-co1,active,Internal,Corporate office floor 2
+MDF Room,UK-LON-CO1,,mdf-room-uk-lon-co1,active,Internal,Primary network distribution room
+IDF 01,UK-LON-CO1,,idf-01-uk-lon-co1,active,Internal,Access switching and patching room
+Data Hall 01,DE-BER-DC1,,data-hall-01-de-ber-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,DE-BER-DC1,,meet-me-room-de-ber-dc1,active,Internal,Carrier and WAN handoff room
+MDF Room,DE-BER-DC1,,mdf-room-de-ber-dc1,active,Internal,Core network room
+Staging Area,DE-BER-DC1,,staging-area-de-ber-dc1,active,Internal,Device staging and provisioning area
+Data Hall 01,JP-TYO-DC1,,data-hall-01-jp-tyo-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,JP-TYO-DC1,,meet-me-room-jp-tyo-dc1,active,Internal,Carrier and WAN handoff room
+MDF Room,JP-TYO-DC1,,mdf-room-jp-tyo-dc1,active,Internal,Core network room
+Floor 01,JP-TYO-CO1,,floor-01-jp-tyo-co1,active,Internal,Corporate office floor 1
+MDF Room,JP-TYO-CO1,,mdf-room-jp-tyo-co1,active,Internal,Primary network distribution room
+Data Hall 01,KR-SEL-DC1,,data-hall-01-kr-sel-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,KR-SEL-DC1,,meet-me-room-kr-sel-dc1,active,Internal,Carrier and WAN handoff room
+Floor 01,ID-JKT-BO1,,floor-01-id-jkt-bo1,active,Internal,Branch office floor 1
+MDF Room,ID-JKT-BO1,,mdf-room-id-jkt-bo1,active,Internal,Primary network distribution room
+Data Hall 01,FR-PAR-DC1,,data-hall-01-fr-par-dc1,active,Internal,Primary compute and network rack space
+Meet-Me Room,FR-PAR-DC1,,meet-me-room-fr-par-dc1,active,Internal,Carrier handoff room
+WAN Edge Room,SA-RYD-DC1,,wan-edge-room-sa-ryd-dc1,active,Internal,Regional WAN edge infrastructure room
+Floor 01,MX-MXC-BO1,,floor-01-mx-mxc-bo1,active,Internal,Branch office floor 1
+MDF Room,MX-MXC-BO1,,mdf-room-mx-mxc-bo1,active,Internal,Primary network distribution room
+UPS Room,US-SFO-DC1,,ups-room-us-sfo-dc1,active,Internal,UPS and power backup systems room
+Storage Room,US-SFO-DC1,,storage-room-us-sfo-dc1,active,Internal,Hardware and spare storage area
+NOC Room,US-SFO-DC1,,noc-room-us-sfo-dc1,active,Internal,Network operations center
+Conference Room,US-NYC-CO1,,conference-room-us-nyc-co1,active,Internal,Corporate conference and meeting room
+Storage Room,US-NYC-CO1,,storage-room-us-nyc-co1,active,Internal,Office IT equipment storage
+Reception Area,CA-TOR-BO1,,reception-area-ca-tor-bo1,active,Internal,Branch office reception area
+Storage Room,CA-TOR-BO1,,storage-room-ca-tor-bo1,active,Internal,Local IT and spare storage
+IDF 02,IN-MUM-CO1,,idf-02-in-mum-co1,active,Internal,Access switching and patching room floor 2
+Conference Room,IN-MUM-CO1,,conference-room-in-mum-co1,active,Internal,Corporate conference room
+Storage Room,IN-MUM-CO1,,storage-room-in-mum-co1,active,Internal,Office IT storage room
+UPS Room,IN-MUM-DC1,,ups-room-in-mum-dc1,active,Internal,UPS and power backup systems room
+NOC Room,IN-MUM-DC1,,noc-room-in-mum-dc1,active,Internal,Regional network operations center
+Storage Room,IN-MUM-DC1,,storage-room-in-mum-dc1,active,Internal,Hardware and spare storage area
+Rack Staging Area,IN-HYD-LAB1,,rack-staging-area-in-hyd-lab1,active,DevLab,Lab rack deployment and staging area
+Network Test Area,IN-HYD-LAB1,,network-test-area-in-hyd-lab1,active,DevLab,Automation and network testing area
+IDF 02,SG-SIN-BO1,,idf-02-sg-sin-bo1,active,Internal,Access switching and patching room floor 2
+Storage Room,SG-SIN-BO1,,storage-room-sg-sin-bo1,active,Internal,Local IT equipment storage
+UPS Room,SG-SIN-DC1,,ups-room-sg-sin-dc1,active,Internal,UPS and power backup systems room
+Storage Room,SG-SIN-DC1,,storage-room-sg-sin-dc1,active,Internal,Hardware and spare storage area
+Security Room,SG-SIN-DC1,,security-room-sg-sin-dc1,active,Internal,Physical security monitoring room
+UPS Room,AU-SYD-DC1,,ups-room-au-syd-dc1,active,Internal,UPS and power backup systems room
+NOC Room,AU-SYD-DC1,,noc-room-au-syd-dc1,active,Internal,Regional network operations center
+IDF 02,UK-LON-CO1,,idf-02-uk-lon-co1,active,Internal,Access switching and patching room floor 2
+Executive Meeting Room,UK-LON-CO1,,executive-meeting-room-uk-lon-co1,active,Internal,Executive meeting and collaboration room
+Storage Room,UK-LON-CO1,,storage-room-uk-lon-co1,active,Internal,Office IT equipment storage
+UPS Room,DE-BER-DC1,,ups-room-de-ber-dc1,active,Internal,UPS and power backup systems room
+NOC Room,DE-BER-DC1,,noc-room-de-ber-dc1,active,Internal,Regional network operations center
+Storage Room,DE-BER-DC1,,storage-room-de-ber-dc1,active,Internal,Hardware and spare storage area
+Reception Area,ZA-CPT-BO1,,reception-area-za-cpt-bo1,active,Internal,Branch office reception area
+Storage Room,ZA-CPT-BO1,,storage-room-za-cpt-bo1,active,Internal,Local IT and spare storage
+Fire Control Room,US-SFO-DC1,,fire-control-room-us-sfo-dc1,active,Internal,Fire suppression and environmental monitoring room
+Battery Room,US-SFO-DC1,,battery-room-us-sfo-dc1,active,Internal,Battery backup systems room
+Cross Connect Room,US-SFO-DC1,,cross-connect-room-us-sfo-dc1,active,Internal,Carrier cross-connect infrastructure room
+Breakout Area,US-NYC-CO1,,breakout-area-us-nyc-co1,active,Internal,Employee collaboration and breakout area
+IT Support Room,US-NYC-CO1,,it-support-room-us-nyc-co1,active,Internal,Corporate IT support operations room
+Patch Room,CA-TOR-BO1,,patch-room-ca-tor-bo1,active,Internal,Structured cabling and patch panel room
+Printer Room,CA-TOR-BO1,,printer-room-ca-tor-bo1,active,Internal,Shared office printing and utility room
+Reception Area,IN-MUM-CO1,,reception-area-in-mum-co1,active,Internal,Corporate reception and visitor management area
+IT Support Room,IN-MUM-CO1,,it-support-room-in-mum-co1,active,Internal,Corporate IT support operations room
+Patch Room,IN-MUM-CO1,,patch-room-in-mum-co1,active,Internal,Structured cabling and patch panel room
+Generator Room,IN-MUM-DC1,,generator-room-in-mum-dc1,active,Internal,Power generator and backup infrastructure room
+Cross Connect Room,IN-MUM-DC1,,cross-connect-room-in-mum-dc1,active,Internal,Carrier cross-connect infrastructure room
+Security Room,IN-MUM-DC1,,security-room-in-mum-dc1,active,Internal,Physical security and CCTV monitoring room
+Automation Testing Area,IN-HYD-LAB1,,automation-testing-area-in-hyd-lab1,active,DevLab,Python and network automation validation area
+Hardware Bench,IN-HYD-LAB1,,hardware-bench-in-hyd-lab1,active,DevLab,Physical hardware testing and troubleshooting area
+Patch Room,SG-SIN-BO1,,patch-room-sg-sin-bo1,active,Internal,Structured cabling and patch panel room
+Meeting Room,SG-SIN-BO1,,meeting-room-sg-sin-bo1,active,Internal,Regional office meeting room
+Generator Room,SG-SIN-DC1,,generator-room-sg-sin-dc1,active,Internal,Power generator and backup infrastructure room
+Cross Connect Room,SG-SIN-DC1,,cross-connect-room-sg-sin-dc1,active,Internal,Carrier cross-connect infrastructure room
+Fire Control Room,SG-SIN-DC1,,fire-control-room-sg-sin-dc1,active,Internal,Fire suppression and environmental monitoring room
+Patch Room,AU-SYD-DC1,,patch-room-au-syd-dc1,active,Internal,Structured cabling and patching operations room
+Security Room,AU-SYD-DC1,,security-room-au-syd-dc1,active,Internal,Physical security and CCTV monitoring room
+Reception Area,UK-LON-CO1,,reception-area-uk-lon-co1,active,Internal,Corporate reception and visitor management area
+IT Support Room,UK-LON-CO1,,it-support-room-uk-lon-co1,active,Internal,Corporate IT support operations room
+Patch Room,UK-LON-CO1,,patch-room-uk-lon-co1,active,Internal,Structured cabling and patch panel room
+Generator Room,DE-BER-DC1,,generator-room-de-ber-dc1,active,Internal,Power generator and backup infrastructure room
+Cross Connect Room,DE-BER-DC1,,cross-connect-room-de-ber-dc1,active,Internal,Carrier cross-connect infrastructure room
+Fire Control Room,DE-BER-DC1,,fire-control-room-de-ber-dc1,active,Internal,Fire suppression and environmental monitoring room
+Patch Room,ZA-CPT-BO1,,patch-room-za-cpt-bo1,active,Internal,Structured cabling and patch panel room
+Meeting Room,ZA-CPT-BO1,,meeting-room-za-cpt-bo1,active,Internal,Regional office meeting room

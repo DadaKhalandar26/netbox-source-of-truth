@@ -1,0 +1,11 @@
+name,slug,parent,description
+Data Center,data-center,,Production data center facilities
+Corporate Office,corporate-office,,Corporate office locations
+Branch Office,branch-office,,Regional branch office locations
+Lab Environment,lab-environment,,Testing and validation environments
+Cloud Region,cloud-region,,Cloud and virtual infrastructure regions
+Disaster Recovery,disaster-recovery,,Disaster recovery facilities
+Campus,campus,,Large enterprise campus environment
+Edge Site,edge-site,,WAN edge and regional connectivity site
+NOC,noc,,Centralized network operations facility
+Colocation,colocation,,Third-party colocation facility

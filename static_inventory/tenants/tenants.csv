@@ -1,0 +1,9 @@
+name,slug,group,description 
+Internal,internal,Internal Infrastructure,Corporate owned infrastructure and enterprise services
+Automation Platform,automation-platform,Shared Services,Network automation and orchestration services 
+Monitoring Platform,monitoring-platform,Shared Services,Monitoring and observability infrastructure 
+DevLab,devlab,Lab Environments,Internal testing and validation lab 
+Cisco Systems,cisco-systems,Partners,Cisco managed or partner integrated infrastructure 
+Price Bank,price-bank,Clients,Managed banking customer infrastructure 
+XYZ Retail,xyz-retail,Clients,Retail customer
+infrastructure Global Manufacturing,global-manufacturing,Clients,Manufacturing customer infrastructure

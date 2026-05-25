@@ -1,0 +1,27 @@
+name,slug,status,region,group,tenant,description
+US-SFO-DC1,us-sfo-dc1,active,San Francisco,Data Center,Internal,San Francisco primary data center
+US-NYC-CO1,us-nyc-co1,active,New York City,Corporate Office,Internal,New York corporate office
+CA-TOR-BO1,ca-tor-bo1,active,Toronto,Branch Office,Internal,Toronto branch office
+IN-MUM-CO1,in-mum-co1,active,Mumbai,Corporate Office,Internal,Mumbai corporate office
+IN-MUM-DC1,in-mum-dc1,active,Mumbai,Data Center,Internal,Mumbai primary data center
+IN-BLR-BO1,in-blr-bo1,active,Bengaluru,Branch Office,Internal,Bengaluru branch office
+IN-HYD-LAB1,in-hyd-lab1,active,Hyderabad,Lab Environment,DevLab,Hyderabad automation and testing lab
+SG-SIN-DC1,sg-sin-dc1,active,Singapore,Data Center,Internal,Singapore regional data center
+SG-SIN-BO1,sg-sin-bo1,active,Singapore,Branch Office,Internal,Singapore branch office
+AU-SYD-DC1,au-syd-dc1,active,Sydney,Data Center,Internal,Sydney regional data center
+UK-LON-CO1,uk-lon-co1,active,London,Corporate Office,Internal,London corporate office
+DE-BER-DC1,de-ber-dc1,active,Berlin,Data Center,Internal,Berlin regional data center
+NL-AMS-BO1,nl-ams-bo1,active,Amsterdam,Branch Office,Internal,Amsterdam branch office
+AE-DXB-DC1,ae-dxb-dc1,active,Dubai,Data Center,Internal,Dubai regional data center
+ZA-CPT-BO1,za-cpt-bo1,active,Cape Town,Branch Office,Internal,Cape Town branch office
+BR-SAO-BO1,br-sao-bo1,active,Sao Paulo,Branch Office,Internal,Sao Paulo branch office
+JP-TYO-DC1,jp-tyo-dc1,active,Tokyo,Data Center,Internal,Tokyo regional data center
+JP-TYO-CO1,jp-tyo-co1,active,Tokyo,Corporate Office,Internal,Tokyo corporate office
+KR-SEL-DC1,kr-sel-dc1,active,Seoul,Data Center,Internal,Seoul regional data center
+ID-JKT-BO1,id-jkt-bo1,active,Jakarta,Branch Office,Internal,Jakarta branch office
+FR-PAR-CO1,fr-par-co1,active,Paris,Corporate Office,Internal,Paris corporate office
+FR-PAR-DC1,fr-par-dc1,active,Paris,Colocation,Internal,Paris colocation data center
+ES-MAD-BO1,es-mad-bo1,active,Madrid,Branch Office,Internal,Madrid branch office
+SA-RYD-DC1,sa-ryd-dc1,active,Riyadh,Edge Site,Internal,Riyadh WAN edge facility
+MX-MXC-BO1,mx-mxc-bo1,active,Mexico City,Branch Office,Internal,Mexico City branch office
+AR-BUE-BO1,ar-bue-bo1,active,Buenos Aires,Branch Office,Internal,Buenos Aires branch office
