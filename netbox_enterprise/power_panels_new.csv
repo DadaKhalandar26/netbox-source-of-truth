@@ -1,0 +1,13 @@
+name,site,location,description
+US-CHI-DC1-PWR-PANEL-A,US-CHI-DC1,MDF - Network Room,Primary Power Panel – US-CHI-DC1
+US-CHI-DC1-PWR-PANEL-B,US-CHI-DC1,MDF - Network Room,Redundant Power Panel – US-CHI-DC1
+FR-PAR-DC1-PWR-PANEL-A,FR-PAR-DC1,MDF - Network Room,Primary Power Panel – FR-PAR-DC1
+FR-PAR-DC1-PWR-PANEL-B,FR-PAR-DC1,MDF - Network Room,Redundant Power Panel – FR-PAR-DC1
+AE-DXB-DC1-PWR-PANEL-A,AE-DXB-DC1,MDF - Network Room,Primary Power Panel – AE-DXB-DC1
+AE-DXB-DC1-PWR-PANEL-B,AE-DXB-DC1,MDF - Network Room,Redundant Power Panel – AE-DXB-DC1
+ZA-JNB-DC1-PWR-PANEL-A,ZA-JNB-DC1,MDF - Network Room,Primary Power Panel – ZA-JNB-DC1
+ZA-JNB-DC1-PWR-PANEL-B,ZA-JNB-DC1,MDF - Network Room,Redundant Power Panel – ZA-JNB-DC1
+HK-HKG-DC1-PWR-PANEL-A,HK-HKG-DC1,MDF - Network Room,Primary Power Panel – HK-HKG-DC1
+HK-HKG-DC1-PWR-PANEL-B,HK-HKG-DC1,MDF - Network Room,Redundant Power Panel – HK-HKG-DC1
+JP-TYO-DC1-PWR-PANEL-A,JP-TYO-DC1,MDF - Network Room,Primary Power Panel – JP-TYO-DC1
+JP-TYO-DC1-PWR-PANEL-B,JP-TYO-DC1,MDF - Network Room,Redundant Power Panel – JP-TYO-DC1

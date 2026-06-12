@@ -1,0 +1,21 @@
+name,account,provider,description
+ROGERS-CA-CORP,CA-CORP-2201,Rogers,Rogers Canada Corporate Account
+TELMEX-MX-CORP,MX-CORP-3301,Telmex,Telmex Mexico Corporate Account
+CLARO-LATAM-ENT,LA-ENT-4401,Claro,Claro LATAM Enterprise Account
+TELE-ES-CORP,ES-CORP-4501,Telefonica,Telefonica Spain Corporate Account
+ORANGE-FR-DC,FR-DC-4101,Orange,Orange France DC and MPLS Account
+DT-DE-ENT,DE-ENT-4301,Deutsche Telekom,Deutsche Telekom Enterprise Account
+VF-UK-OFFICE,UK-OFF-4601,Vodafone,Vodafone UK Office Circuits
+TELENOR-NORD-ENT,NO-ENT-5301,Telenor,Telenor Nordics Enterprise
+DU-UAE-DC,AE-DC-6101,du,du UAE Data Center Account
+STC-SA-ENT,SA-ENT-6301,STC,STC Saudi Enterprise Services
+TE-EG-ENT,EG-ENT-6401,TE Data,TE Data Egypt Enterprise
+MTN-ZA-DC,ZA-DC-7101,MTN,MTN South Africa DC Account
+SAFARICOM-KE-ENT,KE-ENT-7301,Safaricom,Safaricom Kenya Enterprise
+PCCW-HK-DC,HK-DC-8101,PCCW,PCCW Hong Kong DC Account
+CHINATELE-CN-ENT,CN-ENT-8301,China Telecom,China Telecom Enterprise Services
+NTT-JP-DC,JP-DC-1101,NTT,NTT Japan Data Center Account
+KT-KR-ENT,KR-ENT-1104,KT,KT Korea Enterprise Services
+SPARK-NZ-ENT,NZ-ENT-1301,Spark NZ,Spark New Zealand Enterprise
+ZAYO-GLOBAL-WAN,GL-WAN-0001,Zayo,Zayo Global WAN Backbone
+TATA-IN-MPLS,IN-MPLS-0002,TATA Communications,TATA Comms India and Global MPLS

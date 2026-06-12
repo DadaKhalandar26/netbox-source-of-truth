@@ -1,0 +1,131 @@
+object_type,object_name,contact,role,priority
+dcim.site,US-SFO-DC1,Michael Anderson,Technical Owner,primary
+dcim.site,US-SFO-DC1,Benjamin Carter,Technical Lead,primary
+dcim.site,US-SFO-DC1,Hiroshi Tanaka,Operations Center (NOC),secondary
+dcim.site,US-SFO-DC1,Wei Zhang,Security Auditor,secondary
+dcim.site,US-SFO-DC1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,US-NYC-CO1,Jessica Rodriguez,Technical Owner,primary
+dcim.site,US-NYC-CO1,Vanessa Morgan,Technical Lead,primary
+dcim.site,US-NYC-CO1,Yuki Nakamura,Operations Center (NOC),secondary
+dcim.site,US-NYC-CO1,Liang Chen,Security Auditor,secondary
+dcim.site,US-NYC-CO1,Patricia Livingston,Emergency Escalation,primary
+dcim.site,CA-TOR-BO1,Carlos Mendoza,Technical Owner,primary
+dcim.site,CA-TOR-BO1,Trevor Simmons,Technical Lead,primary
+dcim.site,CA-TOR-BO1,Kenji Sato,Operations Center (NOC),secondary
+dcim.site,CA-TOR-BO1,Xiaoyu Wang,Security Auditor,secondary
+dcim.site,CA-TOR-BO1,Jonathan Edwards,Emergency Escalation,primary
+dcim.site,IN-MUM-CO1,Priya Sharma,Technical Owner,primary
+dcim.site,IN-MUM-CO1,Vikram Singh,Technical Lead,primary
+dcim.site,IN-MUM-CO1,Aiko Yamamoto,Operations Center (NOC),secondary
+dcim.site,IN-MUM-CO1,Minjun Kim,Security Auditor,secondary
+dcim.site,IN-MUM-CO1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,IN-MUM-DC1,Rahul Verma,Technical Owner,primary
+dcim.site,IN-MUM-DC1,Arjun Patel,Technical Lead,primary
+dcim.site,IN-MUM-DC1,Takumi Suzuki,Operations Center (NOC),secondary
+dcim.site,IN-MUM-DC1,Jihoon Park,Security Auditor,secondary
+dcim.site,IN-MUM-DC1,Patricia Livingston,Emergency Escalation,primary
+dcim.site,IN-BLR-BO1,Ananya Reddy,Technical Owner,primary
+dcim.site,IN-BLR-BO1,Karthik Narayanan,Technical Lead,primary
+dcim.site,IN-BLR-BO1,Haruka Ito,Operations Center (NOC),secondary
+dcim.site,IN-BLR-BO1,Seoyeon Lee,Security Auditor,secondary
+dcim.site,IN-BLR-BO1,Jonathan Edwards,Emergency Escalation,primary
+dcim.site,IN-HYD-LAB1,Meera Nair,Technical Owner,primary
+dcim.site,IN-HYD-LAB1,Rohit Kulkarni,Technical Lead,primary
+dcim.site,IN-HYD-LAB1,Riku Kobayashi,Operations Center (NOC),secondary
+dcim.site,IN-HYD-LAB1,Yichen Liu,Security Auditor,secondary
+dcim.site,IN-HYD-LAB1,Catherine Holmes,Emergency Escalation,primary
+dcim.site,SG-SIN-DC1,Ahmed Al-Farsi,Technical Owner,primary
+dcim.site,SG-SIN-DC1,Yousef Al-Qahtani,Technical Lead,primary
+dcim.site,SG-SIN-DC1,Mio Watanabe,Operations Center (NOC),secondary
+dcim.site,SG-SIN-DC1,Haoran Xu,Security Auditor,secondary
+dcim.site,SG-SIN-DC1,Steven Richardson,Emergency Escalation,primary
+dcim.site,SG-SIN-BO1,Omar Al-Harbi,Technical Owner,primary
+dcim.site,SG-SIN-BO1,Ali Al-Mutairi,Technical Lead,primary
+dcim.site,SG-SIN-BO1,Daichi Mori,Operations Center (NOC),secondary
+dcim.site,SG-SIN-BO1,Wei Zhang,Security Auditor,secondary
+dcim.site,SG-SIN-BO1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,AU-SYD-DC1,Fatima Al-Mansoori,Technical Owner,primary
+dcim.site,AU-SYD-DC1,Sara Al-Najjar,Technical Lead,primary
+dcim.site,AU-SYD-DC1,Yuna Takahashi,Operations Center (NOC),secondary
+dcim.site,AU-SYD-DC1,Liang Chen,Security Auditor,secondary
+dcim.site,AU-SYD-DC1,Steven Richardson,Emergency Escalation,primary
+dcim.site,UK-LON-CO1,Lukas Schneider,Technical Owner,primary
+dcim.site,UK-LON-CO1,Oliver Fischer,Technical Lead,primary
+dcim.site,UK-LON-CO1,Hiroshi Tanaka,Operations Center (NOC),secondary
+dcim.site,UK-LON-CO1,Wei Zhang,Security Auditor,secondary
+dcim.site,UK-LON-CO1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,DE-BER-DC1,Anna Muller,Technical Owner,primary
+dcim.site,DE-BER-DC1,Pierre Dubois,Technical Lead,primary
+dcim.site,DE-BER-DC1,Yuki Nakamura,Operations Center (NOC),secondary
+dcim.site,DE-BER-DC1,Liang Chen,Security Auditor,secondary
+dcim.site,DE-BER-DC1,Patricia Livingston,Emergency Escalation,primary
+dcim.site,NL-AMS-BO1,Marco Rossi,Technical Owner,primary
+dcim.site,NL-AMS-BO1,Giulia Bianchi,Technical Lead,primary
+dcim.site,NL-AMS-BO1,Kenji Sato,Operations Center (NOC),secondary
+dcim.site,NL-AMS-BO1,Xiaoyu Wang,Security Auditor,secondary
+dcim.site,NL-AMS-BO1,Jonathan Edwards,Emergency Escalation,primary
+dcim.site,AE-DXB-DC1,Ahmed Al-Farsi,Technical Owner,primary
+dcim.site,AE-DXB-DC1,Omar Al-Harbi,Technical Lead,primary
+dcim.site,AE-DXB-DC1,Aiko Yamamoto,Operations Center (NOC),secondary
+dcim.site,AE-DXB-DC1,Minjun Kim,Security Auditor,secondary
+dcim.site,AE-DXB-DC1,Steven Richardson,Emergency Escalation,primary
+dcim.site,ZA-CPT-BO1,Kwame Mensah,Technical Owner,primary
+dcim.site,ZA-CPT-BO1,David Okafor,Technical Lead,primary
+dcim.site,ZA-CPT-BO1,Takumi Suzuki,Operations Center (NOC),secondary
+dcim.site,ZA-CPT-BO1,Jihoon Park,Security Auditor,secondary
+dcim.site,ZA-CPT-BO1,Catherine Holmes,Emergency Escalation,primary
+dcim.site,BR-SAO-BO1,Camila Garcia,Technical Owner,primary
+dcim.site,BR-SAO-BO1,Ricardo Costa,Technical Lead,primary
+dcim.site,BR-SAO-BO1,Haruka Ito,Operations Center (NOC),secondary
+dcim.site,BR-SAO-BO1,Seoyeon Lee,Security Auditor,secondary
+dcim.site,BR-SAO-BO1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,JP-TYO-DC1,Hiroshi Tanaka,Technical Owner,primary
+dcim.site,JP-TYO-DC1,Kenji Sato,Technical Lead,primary
+dcim.site,JP-TYO-DC1,Riku Kobayashi,Operations Center (NOC),secondary
+dcim.site,JP-TYO-DC1,Yichen Liu,Security Auditor,secondary
+dcim.site,JP-TYO-DC1,Steven Richardson,Emergency Escalation,primary
+dcim.site,JP-TYO-CO1,Yuki Nakamura,Technical Owner,primary
+dcim.site,JP-TYO-CO1,Aiko Yamamoto,Technical Lead,primary
+dcim.site,JP-TYO-CO1,Mio Watanabe,Operations Center (NOC),secondary
+dcim.site,JP-TYO-CO1,Haoran Xu,Security Auditor,secondary
+dcim.site,JP-TYO-CO1,Patricia Livingston,Emergency Escalation,primary
+dcim.site,KR-SEL-DC1,Minjun Kim,Technical Owner,primary
+dcim.site,KR-SEL-DC1,Jihoon Park,Technical Lead,primary
+dcim.site,KR-SEL-DC1,Daichi Mori,Operations Center (NOC),secondary
+dcim.site,KR-SEL-DC1,Wei Zhang,Security Auditor,secondary
+dcim.site,KR-SEL-DC1,Catherine Holmes,Emergency Escalation,primary
+dcim.site,ID-JKT-BO1,Budi Santoso,Technical Owner,primary
+dcim.site,ID-JKT-BO1,Siti Nurhaliza,Technical Lead,primary
+dcim.site,ID-JKT-BO1,Yuna Takahashi,Operations Center (NOC),secondary
+dcim.site,ID-JKT-BO1,Liang Chen,Security Auditor,secondary
+dcim.site,ID-JKT-BO1,Jonathan Edwards,Emergency Escalation,primary
+dcim.site,FR-PAR-CO1,Pierre Dubois,Technical Owner,primary
+dcim.site,FR-PAR-CO1,Sophie Laurent,Technical Lead,primary
+dcim.site,FR-PAR-CO1,Hiroshi Tanaka,Operations Center (NOC),secondary
+dcim.site,FR-PAR-CO1,Wei Zhang,Security Auditor,secondary
+dcim.site,FR-PAR-CO1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,FR-PAR-DC1,Luc Martin,Technical Owner,primary
+dcim.site,FR-PAR-DC1,Eva Kovacs,Technical Lead,primary
+dcim.site,FR-PAR-DC1,Yuki Nakamura,Operations Center (NOC),secondary
+dcim.site,FR-PAR-DC1,Liang Chen,Security Auditor,secondary
+dcim.site,FR-PAR-DC1,Patricia Livingston,Emergency Escalation,primary
+dcim.site,ES-MAD-BO1,Victor Alvarez,Technical Owner,primary
+dcim.site,ES-MAD-BO1,Elena Martinez,Technical Lead,primary
+dcim.site,ES-MAD-BO1,Kenji Sato,Operations Center (NOC),secondary
+dcim.site,ES-MAD-BO1,Xiaoyu Wang,Security Auditor,secondary
+dcim.site,ES-MAD-BO1,Jonathan Edwards,Emergency Escalation,primary
+dcim.site,SA-RYD-DC1,Mohammed Al-Zahrani,Technical Owner,primary
+dcim.site,SA-RYD-DC1,Abdullah Al-Saud,Technical Lead,primary
+dcim.site,SA-RYD-DC1,Aiko Yamamoto,Operations Center (NOC),secondary
+dcim.site,SA-RYD-DC1,Minjun Kim,Security Auditor,secondary
+dcim.site,SA-RYD-DC1,Catherine Holmes,Emergency Escalation,primary
+dcim.site,MX-MXC-BO1,Mateo Hernandez,Technical Owner,primary
+dcim.site,MX-MXC-BO1,Fernando Morales,Technical Lead,primary
+dcim.site,MX-MXC-BO1,Takumi Suzuki,Operations Center (NOC),secondary
+dcim.site,MX-MXC-BO1,Jihoon Park,Security Auditor,secondary
+dcim.site,MX-MXC-BO1,Richard Montgomery,Emergency Escalation,primary
+dcim.site,AR-BUE-BO1,Sofia Ramirez,Technical Owner,primary
+dcim.site,AR-BUE-BO1,Valentina Cruz,Technical Lead,primary
+dcim.site,AR-BUE-BO1,Haruka Ito,Operations Center (NOC),secondary
+dcim.site,AR-BUE-BO1,Seoyeon Lee,Security Auditor,secondary
+dcim.site,AR-BUE-BO1,Patricia Livingston,Emergency Escalation,primary

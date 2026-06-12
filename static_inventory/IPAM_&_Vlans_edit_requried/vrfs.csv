@@ -1,0 +1,5 @@
+name,rd,description
+CORP-VRF,65000:1,Corporate Internal Traffic
+GUEST-VRF,65000:100,Guest/Internet Only Traffic
+VPN-OVERLAY-VRF,65000:101,VPN Tennel Interface IPs VRF
+OOM-VRF,65000:99,Out-of-Band Management

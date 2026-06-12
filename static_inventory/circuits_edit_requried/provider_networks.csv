@@ -1,0 +1,8 @@
+name,provider,description
+Global Internet Transit,Lumen,Lumen Global IP Backbone
+Airtel MPLS Cloud,Airtel,Airtel Regional MPLS Core
+AWS DirectConnect Cloud,Lumen,AWS Direct Connect via Lumen
+AT&T Internet Transit,AT&T,AT&T Internet Backbone
+Singtel Internet Transit,Singtel,Singtel Internet Backbone
+BT Internet Transit,British Telecom,British Telecom Internet Backbone
+Telstra Internet Transit,Telstra,Telstra Internet Backbone

@@ -1,0 +1,73 @@
+device,name,type,lag_name,description
+US-CHI-DC1-LEAF-01,Port-channel1,lag,,LAG to ESX host A – US-CHI-DC1-LEAF-01
+US-CHI-DC1-LEAF-01,Port-channel2,lag,,LAG to ESX host B – US-CHI-DC1-LEAF-01
+US-CHI-DC1-LEAF-01,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on US-CHI-DC1-LEAF-01
+US-CHI-DC1-LEAF-01,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on US-CHI-DC1-LEAF-01
+US-CHI-DC1-LEAF-01,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on US-CHI-DC1-LEAF-01
+US-CHI-DC1-LEAF-01,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on US-CHI-DC1-LEAF-01
+US-CHI-DC1-LEAF-02,Port-channel1,lag,,LAG to ESX host A – US-CHI-DC1-LEAF-02
+US-CHI-DC1-LEAF-02,Port-channel2,lag,,LAG to ESX host B – US-CHI-DC1-LEAF-02
+US-CHI-DC1-LEAF-02,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on US-CHI-DC1-LEAF-02
+US-CHI-DC1-LEAF-02,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on US-CHI-DC1-LEAF-02
+US-CHI-DC1-LEAF-02,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on US-CHI-DC1-LEAF-02
+US-CHI-DC1-LEAF-02,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on US-CHI-DC1-LEAF-02
+FR-PAR-DC1-LEAF-01,Port-channel1,lag,,LAG to ESX host A – FR-PAR-DC1-LEAF-01
+FR-PAR-DC1-LEAF-01,Port-channel2,lag,,LAG to ESX host B – FR-PAR-DC1-LEAF-01
+FR-PAR-DC1-LEAF-01,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on FR-PAR-DC1-LEAF-01
+FR-PAR-DC1-LEAF-01,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on FR-PAR-DC1-LEAF-01
+FR-PAR-DC1-LEAF-01,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on FR-PAR-DC1-LEAF-01
+FR-PAR-DC1-LEAF-01,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on FR-PAR-DC1-LEAF-01
+FR-PAR-DC1-LEAF-02,Port-channel1,lag,,LAG to ESX host A – FR-PAR-DC1-LEAF-02
+FR-PAR-DC1-LEAF-02,Port-channel2,lag,,LAG to ESX host B – FR-PAR-DC1-LEAF-02
+FR-PAR-DC1-LEAF-02,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on FR-PAR-DC1-LEAF-02
+FR-PAR-DC1-LEAF-02,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on FR-PAR-DC1-LEAF-02
+FR-PAR-DC1-LEAF-02,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on FR-PAR-DC1-LEAF-02
+FR-PAR-DC1-LEAF-02,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on FR-PAR-DC1-LEAF-02
+AE-DXB-DC1-LEAF-01,Port-channel1,lag,,LAG to ESX host A – AE-DXB-DC1-LEAF-01
+AE-DXB-DC1-LEAF-01,Port-channel2,lag,,LAG to ESX host B – AE-DXB-DC1-LEAF-01
+AE-DXB-DC1-LEAF-01,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on AE-DXB-DC1-LEAF-01
+AE-DXB-DC1-LEAF-01,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on AE-DXB-DC1-LEAF-01
+AE-DXB-DC1-LEAF-01,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on AE-DXB-DC1-LEAF-01
+AE-DXB-DC1-LEAF-01,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on AE-DXB-DC1-LEAF-01
+AE-DXB-DC1-LEAF-02,Port-channel1,lag,,LAG to ESX host A – AE-DXB-DC1-LEAF-02
+AE-DXB-DC1-LEAF-02,Port-channel2,lag,,LAG to ESX host B – AE-DXB-DC1-LEAF-02
+AE-DXB-DC1-LEAF-02,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on AE-DXB-DC1-LEAF-02
+AE-DXB-DC1-LEAF-02,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on AE-DXB-DC1-LEAF-02
+AE-DXB-DC1-LEAF-02,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on AE-DXB-DC1-LEAF-02
+AE-DXB-DC1-LEAF-02,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on AE-DXB-DC1-LEAF-02
+ZA-JNB-DC1-LEAF-01,Port-channel1,lag,,LAG to ESX host A – ZA-JNB-DC1-LEAF-01
+ZA-JNB-DC1-LEAF-01,Port-channel2,lag,,LAG to ESX host B – ZA-JNB-DC1-LEAF-01
+ZA-JNB-DC1-LEAF-01,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on ZA-JNB-DC1-LEAF-01
+ZA-JNB-DC1-LEAF-01,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on ZA-JNB-DC1-LEAF-01
+ZA-JNB-DC1-LEAF-01,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on ZA-JNB-DC1-LEAF-01
+ZA-JNB-DC1-LEAF-01,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on ZA-JNB-DC1-LEAF-01
+ZA-JNB-DC1-LEAF-02,Port-channel1,lag,,LAG to ESX host A – ZA-JNB-DC1-LEAF-02
+ZA-JNB-DC1-LEAF-02,Port-channel2,lag,,LAG to ESX host B – ZA-JNB-DC1-LEAF-02
+ZA-JNB-DC1-LEAF-02,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on ZA-JNB-DC1-LEAF-02
+ZA-JNB-DC1-LEAF-02,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on ZA-JNB-DC1-LEAF-02
+ZA-JNB-DC1-LEAF-02,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on ZA-JNB-DC1-LEAF-02
+ZA-JNB-DC1-LEAF-02,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on ZA-JNB-DC1-LEAF-02
+HK-HKG-DC1-LEAF-01,Port-channel1,lag,,LAG to ESX host A – HK-HKG-DC1-LEAF-01
+HK-HKG-DC1-LEAF-01,Port-channel2,lag,,LAG to ESX host B – HK-HKG-DC1-LEAF-01
+HK-HKG-DC1-LEAF-01,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on HK-HKG-DC1-LEAF-01
+HK-HKG-DC1-LEAF-01,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on HK-HKG-DC1-LEAF-01
+HK-HKG-DC1-LEAF-01,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on HK-HKG-DC1-LEAF-01
+HK-HKG-DC1-LEAF-01,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on HK-HKG-DC1-LEAF-01
+HK-HKG-DC1-LEAF-02,Port-channel1,lag,,LAG to ESX host A – HK-HKG-DC1-LEAF-02
+HK-HKG-DC1-LEAF-02,Port-channel2,lag,,LAG to ESX host B – HK-HKG-DC1-LEAF-02
+HK-HKG-DC1-LEAF-02,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on HK-HKG-DC1-LEAF-02
+HK-HKG-DC1-LEAF-02,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on HK-HKG-DC1-LEAF-02
+HK-HKG-DC1-LEAF-02,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on HK-HKG-DC1-LEAF-02
+HK-HKG-DC1-LEAF-02,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on HK-HKG-DC1-LEAF-02
+JP-TYO-DC1-LEAF-01,Port-channel1,lag,,LAG to ESX host A – JP-TYO-DC1-LEAF-01
+JP-TYO-DC1-LEAF-01,Port-channel2,lag,,LAG to ESX host B – JP-TYO-DC1-LEAF-01
+JP-TYO-DC1-LEAF-01,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on JP-TYO-DC1-LEAF-01
+JP-TYO-DC1-LEAF-01,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on JP-TYO-DC1-LEAF-01
+JP-TYO-DC1-LEAF-01,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on JP-TYO-DC1-LEAF-01
+JP-TYO-DC1-LEAF-01,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on JP-TYO-DC1-LEAF-01
+JP-TYO-DC1-LEAF-02,Port-channel1,lag,,LAG to ESX host A – JP-TYO-DC1-LEAF-02
+JP-TYO-DC1-LEAF-02,Port-channel2,lag,,LAG to ESX host B – JP-TYO-DC1-LEAF-02
+JP-TYO-DC1-LEAF-02,Ethernet1/11,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on JP-TYO-DC1-LEAF-02
+JP-TYO-DC1-LEAF-02,Ethernet1/12,25gbase-x-sfp28,Port-channel1,Member of Port-channel1 on JP-TYO-DC1-LEAF-02
+JP-TYO-DC1-LEAF-02,Ethernet1/13,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on JP-TYO-DC1-LEAF-02
+JP-TYO-DC1-LEAF-02,Ethernet1/14,25gbase-x-sfp28,Port-channel2,Member of Port-channel2 on JP-TYO-DC1-LEAF-02

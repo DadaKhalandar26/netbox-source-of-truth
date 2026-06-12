@@ -1,0 +1,36 @@
+name,slug,description
+Cisco,cisco,Networking and computing solutions
+Arista,arista,Cloud networking and data center solutions
+Juniper Networks,juniper,Enterprise service provider and AI-driven networking solutions
+Palo Alto Networks,palo-alto,Next-generation firewalls and security platforms
+Fortinet,fortinet,Unified cybersecurity and secure networking solutions
+HPE,hpe,Enterprise servers storage and networking solutions
+Dell Technologies,dell,Enterprise compute storage and infrastructure solutions
+Lenovo,lenovo,Data center servers storage and edge computing solutions
+IBM,ibm,Enterprise systems storage and infrastructure platforms
+NetApp,netapp,Enterprise storage and data management solutions
+Pure Storage,pure-storage,All-flash enterprise storage solutions
+Nutanix,nutanix,Hyperconverged infrastructure and hybrid cloud platforms
+VMware,vmware,Virtualization and cloud infrastructure solutions
+F5,f5,Application delivery and load balancing solutions
+Citrix,citrix,Application delivery and secure access solutions
+Check Point,check-point,Network and cloud security solutions
+Sophos,sophos,Cybersecurity and network protection solutions
+Extreme Networks,extreme,Enterprise networking and wireless solutions
+Huawei,huawei,Networking compute and telecommunications solutions
+Nokia,nokia,Service provider networking and telecommunications infrastructure
+Ericsson,ericsson,Telecommunications and mobile network infrastructure
+Ubiquiti,ubiquiti,Enterprise wireless and network infrastructure solutions
+MikroTik,mikrotik,Routing switching and wireless networking solutions
+Ruckus,ruckus,Enterprise wireless networking solutions
+Cambium Networks,cambium,Wireless broadband and enterprise networking solutions
+APC,apc,Power distribution UPS and data center infrastructure
+Vertiv,vertiv,Critical infrastructure power and cooling solutions
+Eaton,eaton,Power management and data center infrastructure solutions
+Schneider Electric,schneider-electric,Data center power cooling and infrastructure solutions
+Supermicro,supermicro,High-performance server and storage platforms
+Oracle,oracle,Engineered systems and enterprise infrastructure solutions
+Infinera,infinera,Optical transport and networking solutions
+Ciena,ciena,Optical networking and transport infrastructure
+Broadcom,broadcom,Networking silicon adapters and infrastructure components
+Mellanox,mellanox,High-performance networking and interconnect solutions

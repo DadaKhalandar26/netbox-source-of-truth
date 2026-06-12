@@ -1,0 +1,27 @@
+name,slug,description
+Infrastructure Engineering,infra-eng,Core infrastructure platform and hardware ownership
+Network Operations Center,noc,24x7 network monitoring incident response and escalation
+Data Center Operations,dc-ops,Data center day to day operations and maintenance
+Data Center Facilities,dc-facilities,Power cooling and physical facility management
+Site Security,site-security,Physical security badge access and surveillance systems
+Security Operations Center,soc,Cybersecurity monitoring threat detection and incident response
+Cloud Platform Operations,cloud-ops,Public and private cloud infrastructure management
+Server Operations,server-ops,Operating system and server platform administration
+Storage Operations,storage-ops,SAN NAS and backup infrastructure management
+Virtualization Team,virtualization,VMware Hyper-V and virtualization platform ownership
+Database Administration,dba,Database infrastructure administration and support
+Unified Communications,uc-team,Voice collaboration and conferencing infrastructure
+Wireless Engineering,wireless-eng,Enterprise wireless infrastructure design and support
+Network Engineering,network-eng,Network architecture standards and escalation support
+Service Provider Management,sp-mgmt,Carrier relationship management and circuit governance
+ISP Support Tier 3,isp-t3,Escalation contacts for circuit providers and WAN services
+Project Management Office,pmo,Project planning governance and deployment coordination
+Change Management,change-mgmt,Change approval governance and implementation oversight
+Field Services,field-services,Remote hands and onsite technical support teams
+End User Computing,euc,Desktop laptop and endpoint management
+Application Operations,app-ops,Business application support and operational ownership
+DevOps Platform Team,devops,CI CD automation and platform engineering
+Business Continuity Team,bcp,Disaster recovery and continuity planning
+Vendor Management,vendor-mgmt,Third party vendor coordination and contract ownership
+Compliance and Risk,compliance-risk,Regulatory compliance audit and risk management
+Facilities Management,facilities-mgmt,Corporate office and site facility management

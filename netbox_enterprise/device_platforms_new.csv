@@ -1,0 +1,7 @@
+name,slug,manufacturer,description
+Cisco IOS-XE,cisco-ios-xe,Cisco,IOS-XE – Catalyst switches and ISR/ASR routers
+Cisco NX-OS,cisco-nx-os,Cisco,NX-OS – Nexus data-centre switches
+Cisco FTD,cisco-ftd,Cisco,Firepower Threat Defense (NGFW)
+Cisco IOS-XE WLC,cisco-iosxe-wlc,Cisco,IOS-XE Wireless LAN Controller (Catalyst 9800)
+Cisco AP CAPWAP,cisco-ap-capwap,Cisco,Cisco AP managed via CAPWAP / Catalyst Centre
+Cisco IOS-XE SDWAN,cisco-sdwan,Cisco,Cisco vManage SD-WAN (ISR/ASR SDWAN mode)

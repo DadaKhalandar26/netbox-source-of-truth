@@ -1,0 +1,8 @@
+name,vid,group,role,description,status
+DEVICE-MGMT-AU-SYD,10,HQ-Office,Infrastructure,Management Network,active
+VM-SERVERS-AU-SYD,20,HQ-Servers,Servers,VM Servers VLAN,active
+USERS-AU-SYD,100,HQ-Office,User-Data,Standard User Access,active
+VOICE-AU-SYD,110,HQ-Office,Voice,IP Telephony,active
+USR-WIFI-AU-SYD,120,HQ-Office,User-Data,Standard User Wifi Data,active
+IOT-AU-SYD,200,HQ-Office,IoT,Smart Building Sensors,active
+GUEST-AU-SYD,1000,HQ-Office,Guest-Data,Guest Wi-Fi Isolation,active

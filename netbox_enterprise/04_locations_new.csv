@@ -1,0 +1,253 @@
+name,site,parent,slug,status,tenant,description
+Data Hall 01,US-CHI-DC1,,data-hall-01-us-chi-dc1,active,IT Operations,Primary compute and server floor
+Data Hall 02,US-CHI-DC1,,data-hall-02-us-chi-dc1,active,IT Operations,Secondary compute and server floor
+MDF - Network Room,US-CHI-DC1,,mdf-network-room-us-chi-dc1,active,IT Operations,DC network core room (spine / leaf / core)
+Meet-Me Room (MMR),US-CHI-DC1,,mmr-us-chi-dc1,active,IT Operations,Carrier hand-off and cross-connect area
+Staging Area,US-CHI-DC1,,staging-area-us-chi-dc1,active,IT Operations,Equipment staging and burn-in area
+Office - NOC,US-CHI-DC1,,noc-us-chi-dc1,active,IT Operations,Network Operations Center
+MDF - Server Room,US-LAX-BO1,,mdf-server-room-us-lax-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-LAX-BO1,,idf01-us-lax-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-LAX-BO1,,floor-01-us-lax-bo1,active,IT Operations,Office floor 1
+Floor 02,US-LAX-BO1,,floor-02-us-lax-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-DAL-BO1,,mdf-server-room-us-dal-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-DAL-BO1,,idf01-us-dal-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-DAL-BO1,,floor-01-us-dal-bo1,active,IT Operations,Office floor 1
+Floor 02,US-DAL-BO1,,floor-02-us-dal-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-ATL-BO1,,mdf-server-room-us-atl-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-ATL-BO1,,idf01-us-atl-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-ATL-BO1,,floor-01-us-atl-bo1,active,IT Operations,Office floor 1
+Floor 02,US-ATL-BO1,,floor-02-us-atl-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-SEA-BO1,,mdf-server-room-us-sea-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-SEA-BO1,,idf01-us-sea-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-SEA-BO1,,floor-01-us-sea-bo1,active,IT Operations,Office floor 1
+Floor 02,US-SEA-BO1,,floor-02-us-sea-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-MIA-BO1,,mdf-server-room-us-mia-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-MIA-BO1,,idf01-us-mia-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-MIA-BO1,,floor-01-us-mia-bo1,active,IT Operations,Office floor 1
+Floor 02,US-MIA-BO1,,floor-02-us-mia-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-DEN-BO1,,mdf-server-room-us-den-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-DEN-BO1,,idf01-us-den-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-DEN-BO1,,floor-01-us-den-bo1,active,IT Operations,Office floor 1
+Floor 02,US-DEN-BO1,,floor-02-us-den-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-BOS-BO1,,mdf-server-room-us-bos-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-BOS-BO1,,idf01-us-bos-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-BOS-BO1,,floor-01-us-bos-bo1,active,IT Operations,Office floor 1
+Floor 02,US-BOS-BO1,,floor-02-us-bos-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-HOU-BO1,,mdf-server-room-us-hou-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-HOU-BO1,,idf01-us-hou-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-HOU-BO1,,floor-01-us-hou-bo1,active,IT Operations,Office floor 1
+Floor 02,US-HOU-BO1,,floor-02-us-hou-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,US-PHX-BO1,,mdf-server-room-us-phx-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,US-PHX-BO1,,idf01-us-phx-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,US-PHX-BO1,,floor-01-us-phx-bo1,active,IT Operations,Office floor 1
+Floor 02,US-PHX-BO1,,floor-02-us-phx-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CA-VAN-BO1,,mdf-server-room-ca-van-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CA-VAN-BO1,,idf01-ca-van-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CA-VAN-BO1,,floor-01-ca-van-bo1,active,IT Operations,Office floor 1
+Floor 02,CA-VAN-BO1,,floor-02-ca-van-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CA-MTL-BO1,,mdf-server-room-ca-mtl-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CA-MTL-BO1,,idf01-ca-mtl-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CA-MTL-BO1,,floor-01-ca-mtl-bo1,active,IT Operations,Office floor 1
+Floor 02,CA-MTL-BO1,,floor-02-ca-mtl-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,MX-MEX-BO1,,mdf-server-room-mx-mex-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,MX-MEX-BO1,,idf01-mx-mex-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,MX-MEX-BO1,,floor-01-mx-mex-bo1,active,IT Operations,Office floor 1
+Floor 02,MX-MEX-BO1,,floor-02-mx-mex-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,BR-RIO-BO1,,mdf-server-room-br-rio-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,BR-RIO-BO1,,idf01-br-rio-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,BR-RIO-BO1,,floor-01-br-rio-bo1,active,IT Operations,Office floor 1
+Floor 02,BR-RIO-BO1,,floor-02-br-rio-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CO-BOG-BO1,,mdf-server-room-co-bog-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CO-BOG-BO1,,idf01-co-bog-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CO-BOG-BO1,,floor-01-co-bog-bo1,active,IT Operations,Office floor 1
+Floor 02,CO-BOG-BO1,,floor-02-co-bog-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,AR-BUE-BO1,,mdf-server-room-ar-bue-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,AR-BUE-BO1,,idf01-ar-bue-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,AR-BUE-BO1,,floor-01-ar-bue-bo1,active,IT Operations,Office floor 1
+Floor 02,AR-BUE-BO1,,floor-02-ar-bue-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CL-SCL-BO1,,mdf-server-room-cl-scl-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CL-SCL-BO1,,idf01-cl-scl-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CL-SCL-BO1,,floor-01-cl-scl-bo1,active,IT Operations,Office floor 1
+Floor 02,CL-SCL-BO1,,floor-02-cl-scl-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,PE-LIM-BO1,,mdf-server-room-pe-lim-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,PE-LIM-BO1,,idf01-pe-lim-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,PE-LIM-BO1,,floor-01-pe-lim-bo1,active,IT Operations,Office floor 1
+Floor 02,PE-LIM-BO1,,floor-02-pe-lim-bo1,active,IT Operations,Office floor 2
+Data Hall 01,FR-PAR-DC1,,data-hall-01-fr-par-dc1,active,IT Operations,Primary compute and server floor
+Data Hall 02,FR-PAR-DC1,,data-hall-02-fr-par-dc1,active,IT Operations,Secondary compute and server floor
+MDF - Network Room,FR-PAR-DC1,,mdf-network-room-fr-par-dc1,active,IT Operations,DC network core room (spine / leaf / core)
+Meet-Me Room (MMR),FR-PAR-DC1,,mmr-fr-par-dc1,active,IT Operations,Carrier hand-off and cross-connect area
+Staging Area,FR-PAR-DC1,,staging-area-fr-par-dc1,active,IT Operations,Equipment staging and burn-in area
+Office - NOC,FR-PAR-DC1,,noc-fr-par-dc1,active,IT Operations,Network Operations Center
+MDF - Server Room,FR-PAR-BO1,,mdf-server-room-fr-par-bo1,active,IT Operations,Primary server / network room (HQ)
+IDF 01 - Network Closet,FR-PAR-BO1,,idf01-fr-par-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+IDF 02 - Network Closet,FR-PAR-BO1,,idf02-fr-par-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 2
+Floor 01,FR-PAR-BO1,,floor-01-fr-par-bo1,active,IT Operations,Office floor 1
+Floor 02,FR-PAR-BO1,,floor-02-fr-par-bo1,active,IT Operations,Office floor 2
+Floor 03,FR-PAR-BO1,,floor-03-fr-par-bo1,active,IT Operations,Office floor 3
+MDF - Server Room,DE-MUC-BO1,,mdf-server-room-de-muc-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,DE-MUC-BO1,,idf01-de-muc-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,DE-MUC-BO1,,floor-01-de-muc-bo1,active,IT Operations,Office floor 1
+Floor 02,DE-MUC-BO1,,floor-02-de-muc-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,DE-FRA-BO1,,mdf-server-room-de-fra-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,DE-FRA-BO1,,idf01-de-fra-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,DE-FRA-BO1,,floor-01-de-fra-bo1,active,IT Operations,Office floor 1
+Floor 02,DE-FRA-BO1,,floor-02-de-fra-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,ES-MAD-BO1,,mdf-server-room-es-mad-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,ES-MAD-BO1,,idf01-es-mad-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,ES-MAD-BO1,,floor-01-es-mad-bo1,active,IT Operations,Office floor 1
+Floor 02,ES-MAD-BO1,,floor-02-es-mad-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IT-MIL-BO1,,mdf-server-room-it-mil-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IT-MIL-BO1,,idf01-it-mil-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IT-MIL-BO1,,floor-01-it-mil-bo1,active,IT Operations,Office floor 1
+Floor 02,IT-MIL-BO1,,floor-02-it-mil-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IT-ROM-BO1,,mdf-server-room-it-rom-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IT-ROM-BO1,,idf01-it-rom-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IT-ROM-BO1,,floor-01-it-rom-bo1,active,IT Operations,Office floor 1
+Floor 02,IT-ROM-BO1,,floor-02-it-rom-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CH-ZRH-BO1,,mdf-server-room-ch-zrh-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CH-ZRH-BO1,,idf01-ch-zrh-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CH-ZRH-BO1,,floor-01-ch-zrh-bo1,active,IT Operations,Office floor 1
+Floor 02,CH-ZRH-BO1,,floor-02-ch-zrh-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IE-DUB-BO1,,mdf-server-room-ie-dub-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IE-DUB-BO1,,idf01-ie-dub-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IE-DUB-BO1,,floor-01-ie-dub-bo1,active,IT Operations,Office floor 1
+Floor 02,IE-DUB-BO1,,floor-02-ie-dub-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,BE-BRU-BO1,,mdf-server-room-be-bru-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,BE-BRU-BO1,,idf01-be-bru-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,BE-BRU-BO1,,floor-01-be-bru-bo1,active,IT Operations,Office floor 1
+Floor 02,BE-BRU-BO1,,floor-02-be-bru-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,AT-VIE-BO1,,mdf-server-room-at-vie-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,AT-VIE-BO1,,idf01-at-vie-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,AT-VIE-BO1,,floor-01-at-vie-bo1,active,IT Operations,Office floor 1
+Floor 02,AT-VIE-BO1,,floor-02-at-vie-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,PT-LIS-BO1,,mdf-server-room-pt-lis-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,PT-LIS-BO1,,idf01-pt-lis-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,PT-LIS-BO1,,floor-01-pt-lis-bo1,active,IT Operations,Office floor 1
+Floor 02,PT-LIS-BO1,,floor-02-pt-lis-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,SE-STO-BO1,,mdf-server-room-se-sto-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,SE-STO-BO1,,idf01-se-sto-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,SE-STO-BO1,,floor-01-se-sto-bo1,active,IT Operations,Office floor 1
+Floor 02,SE-STO-BO1,,floor-02-se-sto-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,PL-WAW-BO1,,mdf-server-room-pl-waw-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,PL-WAW-BO1,,idf01-pl-waw-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,PL-WAW-BO1,,floor-01-pl-waw-bo1,active,IT Operations,Office floor 1
+Floor 02,PL-WAW-BO1,,floor-02-pl-waw-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,NO-OSL-BO1,,mdf-server-room-no-osl-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,NO-OSL-BO1,,idf01-no-osl-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,NO-OSL-BO1,,floor-01-no-osl-bo1,active,IT Operations,Office floor 1
+Floor 02,NO-OSL-BO1,,floor-02-no-osl-bo1,active,IT Operations,Office floor 2
+Data Hall 01,AE-DXB-DC1,,data-hall-01-ae-dxb-dc1,active,IT Operations,Primary compute and server floor
+Data Hall 02,AE-DXB-DC1,,data-hall-02-ae-dxb-dc1,active,IT Operations,Secondary compute and server floor
+MDF - Network Room,AE-DXB-DC1,,mdf-network-room-ae-dxb-dc1,active,IT Operations,DC network core room (spine / leaf / core)
+Meet-Me Room (MMR),AE-DXB-DC1,,mmr-ae-dxb-dc1,active,IT Operations,Carrier hand-off and cross-connect area
+Staging Area,AE-DXB-DC1,,staging-area-ae-dxb-dc1,active,IT Operations,Equipment staging and burn-in area
+Office - NOC,AE-DXB-DC1,,noc-ae-dxb-dc1,active,IT Operations,Network Operations Center
+MDF - Server Room,AE-DXB-BO1,,mdf-server-room-ae-dxb-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,AE-DXB-BO1,,idf01-ae-dxb-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,AE-DXB-BO1,,floor-01-ae-dxb-bo1,active,IT Operations,Office floor 1
+Floor 02,AE-DXB-BO1,,floor-02-ae-dxb-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,SA-RUH-BO1,,mdf-server-room-sa-ruh-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,SA-RUH-BO1,,idf01-sa-ruh-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,SA-RUH-BO1,,floor-01-sa-ruh-bo1,active,IT Operations,Office floor 1
+Floor 02,SA-RUH-BO1,,floor-02-sa-ruh-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,EG-CAI-BO1,,mdf-server-room-eg-cai-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,EG-CAI-BO1,,idf01-eg-cai-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,EG-CAI-BO1,,floor-01-eg-cai-bo1,active,IT Operations,Office floor 1
+Floor 02,EG-CAI-BO1,,floor-02-eg-cai-bo1,active,IT Operations,Office floor 2
+Data Hall 01,ZA-JNB-DC1,,data-hall-01-za-jnb-dc1,active,IT Operations,Primary compute and server floor
+Data Hall 02,ZA-JNB-DC1,,data-hall-02-za-jnb-dc1,active,IT Operations,Secondary compute and server floor
+MDF - Network Room,ZA-JNB-DC1,,mdf-network-room-za-jnb-dc1,active,IT Operations,DC network core room (spine / leaf / core)
+Meet-Me Room (MMR),ZA-JNB-DC1,,mmr-za-jnb-dc1,active,IT Operations,Carrier hand-off and cross-connect area
+Staging Area,ZA-JNB-DC1,,staging-area-za-jnb-dc1,active,IT Operations,Equipment staging and burn-in area
+Office - NOC,ZA-JNB-DC1,,noc-za-jnb-dc1,active,IT Operations,Network Operations Center
+MDF - Server Room,NG-LOS-BO1,,mdf-server-room-ng-los-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,NG-LOS-BO1,,idf01-ng-los-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,NG-LOS-BO1,,floor-01-ng-los-bo1,active,IT Operations,Office floor 1
+Floor 02,NG-LOS-BO1,,floor-02-ng-los-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,KE-NBO-BO1,,mdf-server-room-ke-nbo-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,KE-NBO-BO1,,idf01-ke-nbo-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,KE-NBO-BO1,,floor-01-ke-nbo-bo1,active,IT Operations,Office floor 1
+Floor 02,KE-NBO-BO1,,floor-02-ke-nbo-bo1,active,IT Operations,Office floor 2
+Data Hall 01,HK-HKG-DC1,,data-hall-01-hk-hkg-dc1,active,IT Operations,Primary compute and server floor
+Data Hall 02,HK-HKG-DC1,,data-hall-02-hk-hkg-dc1,active,IT Operations,Secondary compute and server floor
+MDF - Network Room,HK-HKG-DC1,,mdf-network-room-hk-hkg-dc1,active,IT Operations,DC network core room (spine / leaf / core)
+Meet-Me Room (MMR),HK-HKG-DC1,,mmr-hk-hkg-dc1,active,IT Operations,Carrier hand-off and cross-connect area
+Staging Area,HK-HKG-DC1,,staging-area-hk-hkg-dc1,active,IT Operations,Equipment staging and burn-in area
+Office - NOC,HK-HKG-DC1,,noc-hk-hkg-dc1,active,IT Operations,Network Operations Center
+MDF - Server Room,HK-HKG-BO1,,mdf-server-room-hk-hkg-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,HK-HKG-BO1,,idf01-hk-hkg-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,HK-HKG-BO1,,floor-01-hk-hkg-bo1,active,IT Operations,Office floor 1
+Floor 02,HK-HKG-BO1,,floor-02-hk-hkg-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CN-SHA-BO1,,mdf-server-room-cn-sha-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CN-SHA-BO1,,idf01-cn-sha-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CN-SHA-BO1,,floor-01-cn-sha-bo1,active,IT Operations,Office floor 1
+Floor 02,CN-SHA-BO1,,floor-02-cn-sha-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,CN-BEJ-BO1,,mdf-server-room-cn-bej-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,CN-BEJ-BO1,,idf01-cn-bej-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,CN-BEJ-BO1,,floor-01-cn-bej-bo1,active,IT Operations,Office floor 1
+Floor 02,CN-BEJ-BO1,,floor-02-cn-bej-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,TW-TPE-BO1,,mdf-server-room-tw-tpe-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,TW-TPE-BO1,,idf01-tw-tpe-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,TW-TPE-BO1,,floor-01-tw-tpe-bo1,active,IT Operations,Office floor 1
+Floor 02,TW-TPE-BO1,,floor-02-tw-tpe-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,TH-BKK-BO1,,mdf-server-room-th-bkk-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,TH-BKK-BO1,,idf01-th-bkk-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,TH-BKK-BO1,,floor-01-th-bkk-bo1,active,IT Operations,Office floor 1
+Floor 02,TH-BKK-BO1,,floor-02-th-bkk-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,ID-JKT-BO1,,mdf-server-room-id-jkt-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,ID-JKT-BO1,,idf01-id-jkt-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,ID-JKT-BO1,,floor-01-id-jkt-bo1,active,IT Operations,Office floor 1
+Floor 02,ID-JKT-BO1,,floor-02-id-jkt-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,PH-MNL-BO1,,mdf-server-room-ph-mnl-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,PH-MNL-BO1,,idf01-ph-mnl-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,PH-MNL-BO1,,floor-01-ph-mnl-bo1,active,IT Operations,Office floor 1
+Floor 02,PH-MNL-BO1,,floor-02-ph-mnl-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,VN-HAN-BO1,,mdf-server-room-vn-han-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,VN-HAN-BO1,,idf01-vn-han-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,VN-HAN-BO1,,floor-01-vn-han-bo1,active,IT Operations,Office floor 1
+Floor 02,VN-HAN-BO1,,floor-02-vn-han-bo1,active,IT Operations,Office floor 2
+Data Hall 01,JP-TYO-DC1,,data-hall-01-jp-tyo-dc1,active,IT Operations,Primary compute and server floor
+Data Hall 02,JP-TYO-DC1,,data-hall-02-jp-tyo-dc1,active,IT Operations,Secondary compute and server floor
+MDF - Network Room,JP-TYO-DC1,,mdf-network-room-jp-tyo-dc1,active,IT Operations,DC network core room (spine / leaf / core)
+Meet-Me Room (MMR),JP-TYO-DC1,,mmr-jp-tyo-dc1,active,IT Operations,Carrier hand-off and cross-connect area
+Staging Area,JP-TYO-DC1,,staging-area-jp-tyo-dc1,active,IT Operations,Equipment staging and burn-in area
+Office - NOC,JP-TYO-DC1,,noc-jp-tyo-dc1,active,IT Operations,Network Operations Center
+MDF - Server Room,JP-TYO-BO1,,mdf-server-room-jp-tyo-bo1,active,IT Operations,Primary server / network room (HQ)
+IDF 01 - Network Closet,JP-TYO-BO1,,idf01-jp-tyo-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+IDF 02 - Network Closet,JP-TYO-BO1,,idf02-jp-tyo-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 2
+Floor 01,JP-TYO-BO1,,floor-01-jp-tyo-bo1,active,IT Operations,Office floor 1
+Floor 02,JP-TYO-BO1,,floor-02-jp-tyo-bo1,active,IT Operations,Office floor 2
+Floor 03,JP-TYO-BO1,,floor-03-jp-tyo-bo1,active,IT Operations,Office floor 3
+MDF - Server Room,JP-OSA-BO1,,mdf-server-room-jp-osa-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,JP-OSA-BO1,,idf01-jp-osa-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,JP-OSA-BO1,,floor-01-jp-osa-bo1,active,IT Operations,Office floor 1
+Floor 02,JP-OSA-BO1,,floor-02-jp-osa-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,KR-SEL-BO1,,mdf-server-room-kr-sel-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,KR-SEL-BO1,,idf01-kr-sel-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,KR-SEL-BO1,,floor-01-kr-sel-bo1,active,IT Operations,Office floor 1
+Floor 02,KR-SEL-BO1,,floor-02-kr-sel-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IN-DEL-BO1,,mdf-server-room-in-del-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IN-DEL-BO1,,idf01-in-del-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IN-DEL-BO1,,floor-01-in-del-bo1,active,IT Operations,Office floor 1
+Floor 02,IN-DEL-BO1,,floor-02-in-del-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IN-HYD-BO1,,mdf-server-room-in-hyd-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IN-HYD-BO1,,idf01-in-hyd-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IN-HYD-BO1,,floor-01-in-hyd-bo1,active,IT Operations,Office floor 1
+Floor 02,IN-HYD-BO1,,floor-02-in-hyd-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IN-CHE-BO1,,mdf-server-room-in-che-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IN-CHE-BO1,,idf01-in-che-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IN-CHE-BO1,,floor-01-in-che-bo1,active,IT Operations,Office floor 1
+Floor 02,IN-CHE-BO1,,floor-02-in-che-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,IN-PUN-BO1,,mdf-server-room-in-pun-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,IN-PUN-BO1,,idf01-in-pun-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,IN-PUN-BO1,,floor-01-in-pun-bo1,active,IT Operations,Office floor 1
+Floor 02,IN-PUN-BO1,,floor-02-in-pun-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,PK-KHI-BO1,,mdf-server-room-pk-khi-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,PK-KHI-BO1,,idf01-pk-khi-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,PK-KHI-BO1,,floor-01-pk-khi-bo1,active,IT Operations,Office floor 1
+Floor 02,PK-KHI-BO1,,floor-02-pk-khi-bo1,active,IT Operations,Office floor 2
+MDF - Server Room,NZ-AKL-BO1,,mdf-server-room-nz-akl-bo1,active,IT Operations,Main Distribution Frame (primary server / network room)
+IDF 01 - Network Closet,NZ-AKL-BO1,,idf01-nz-akl-bo1,active,IT Operations,Intermediate Distribution Frame – Floor 1
+Floor 01,NZ-AKL-BO1,,floor-01-nz-akl-bo1,active,IT Operations,Office floor 1
+Floor 02,NZ-AKL-BO1,,floor-02-nz-akl-bo1,active,IT Operations,Office floor 2

@@ -1,0 +1,21 @@
+name,slug,description
+Rogers,rogers,Canada national carrier
+Telmex,telmex,Mexico national carrier
+Claro,claro,Latin America ISP and MPLS
+Telefonica,telefonica,Spain and LATAM carrier
+Orange,orange,France and EMEA carrier
+Deutsche Telekom,deutsche-telekom,Germany national carrier
+Vodafone,vodafone,UK / Europe carrier
+Telenor,telenor,Nordics carrier (SE/NO)
+du,du,UAE carrier (Emirates Integrated)
+STC,stc,Saudi Telecom Company
+TE Data,te-data,Egypt Telecom backbone
+MTN,mtn,Africa pan-regional carrier
+Safaricom,safaricom,Kenya national carrier
+PCCW,pccw,Hong Kong carrier
+China Telecom,china-telecom,China national carrier
+NTT,ntt,Japan carrier (NTT Communications)
+KT,kt,Korea Telecom (KT Corp)
+Spark NZ,spark-nz,New Zealand national carrier
+Zayo,zayo,Global dark-fibre and wavelength provider
+TATA Communications,tata-comms,India and global MPLS / IP backbone

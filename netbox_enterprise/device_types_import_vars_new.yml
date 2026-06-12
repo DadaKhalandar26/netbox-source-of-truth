@@ -1,0 +1,30 @@
+---
+# Additional device types required by the enterprise dataset
+# Import via: ansible-playbook netbox_device_types.yml -e @device_types_import_vars_new.yml
+# or via the netbox-community/devicetype-library integration
+device_types:
+  Cisco:
+    # Data-centre switching
+    - Nexus 9508            # Modular spine (9500 platform)
+    - Nexus 93180YC-FX      # 48x25G + 6x100G ToR leaf / border leaf
+    # Campus / HQ switching
+    - Catalyst 9606R        # Modular core switch (6-slot)
+    - Catalyst 9500-48Y4C   # 48x25G + 4x100G distribution
+    - Catalyst 9300-48P     # 48-port PoE+ access (stackable)
+    - Catalyst 9200-48T     # 48-port non-PoE branch access
+    # Branch / WAN routing
+    - Catalyst 8300-1N1S-6T # Branch WAN router (ENCS/ISR 8000)
+    - ISR4451-X             # ISR 4451-X branch router
+    - ASR1001-X             # ASR 1001-X edge / peering router
+    # Security
+    - FPR2130-NGFW-K9       # Firepower 2130 NGFW
+    # Wireless
+    - Catalyst 9800-80-K9   # Catalyst 9800-80 centralised WLC
+    - Catalyst 9136I-E      # Wi-Fi 6E indoor AP (HQ tier)
+    - Catalyst 9130AXI-E    # Wi-Fi 6 indoor AP (branch tier)
+  HPE:
+    - ProLiant DL380 Gen10  # 2U dual-socket server (ESXi hosts)
+  APC:
+    - AP9572                # Rack PDU 3-phase metered
+  Dell:
+    - PowerEdge R740xd      # 2U storage-optimised server

@@ -1,0 +1,13 @@
+name,slug,color,description
+Spine Switch,spine-switch,673ab7,Spine tier in leaf-spine fabric
+Leaf Switch,leaf-switch,009688,Top-of-Rack leaf in spine-leaf fabric
+Border Leaf,border-leaf,607d8b,External connectivity leaf (internet/WAN hand-off)
+Core Switch,core-switch,2196f3,Campus or HQ core network switch
+Distribution Switch,dist-switch,03a9f4,Campus distribution layer switch
+Access Switch,access-switch,4caf50,User-facing access layer switch
+Branch Router,branch-router,ef6c00,WAN edge router for branch and remote offices
+Edge Router,edge-router,e65100,Internet edge and BGP peering router
+Firewall,firewall,b71c1c,Perimeter and micro-segmentation firewall
+Wireless Controller,wlc,00bcd4,Centralised wireless LAN controller
+Wireless Access Point,wap,8bc34a,Enterprise 802.11ax access point
+PDU,pdu,37474f,Rack-mounted power distribution unit

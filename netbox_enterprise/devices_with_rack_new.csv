@@ -1,0 +1,352 @@
+name,role,description,device_type,manufacturer,site,location,rack,status,platform,tenant,position,face
+US-CHI-DC1-SPINE-01,Spine Switch,Primary Fabric Spine 01,Nexus 9508,Cisco,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-01,active,Cisco NX-OS,IT Operations,1,front
+US-CHI-DC1-SPINE-02,Spine Switch,Primary Fabric Spine 02,Nexus 9508,Cisco,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-01,active,Cisco NX-OS,IT Operations,14,front
+US-CHI-DC1-BORDER-01,Border Leaf,External Connectivity A,Nexus 93180YC-FX,Cisco,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-01,active,Cisco NX-OS,IT Operations,45,front
+US-CHI-DC1-BORDER-02,Border Leaf,External Connectivity B,Nexus 93180YC-FX,Cisco,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-01,active,Cisco NX-OS,IT Operations,44,front
+US-CHI-DC1-FW-01,Firewall,DC Edge Firewall Primary,FPR2130-NGFW-K9,Cisco,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-02,active,Cisco FTD,IT Operations,48,front
+US-CHI-DC1-FW-02,Firewall,DC Edge Firewall Redundant,FPR2130-NGFW-K9,Cisco,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-02,active,Cisco FTD,IT Operations,46,front
+US-CHI-DC1-EDGE-01,Edge Router,Internet Peering Router A,ASR1001-X,Cisco,US-CHI-DC1,Meet-Me Room (MMR),RK-US-CHI-DC1-NET-01,active,Cisco IOS-XE,IT Operations,48,front
+US-CHI-DC1-EDGE-02,Edge Router,Internet Peering Router B,ASR1001-X,Cisco,US-CHI-DC1,Meet-Me Room (MMR),RK-US-CHI-DC1-NET-01,active,Cisco IOS-XE,IT Operations,46,front
+US-CHI-DC1-LEAF-01,Leaf Switch,ToR Leaf – Rack SRV-01,Nexus 93180YC-FX,Cisco,US-CHI-DC1,Data Hall 01,RK-US-CHI-DC1-SRV-01,active,Cisco NX-OS,IT Operations,42,front
+US-CHI-DC1-LEAF-02,Leaf Switch,ToR Leaf – Rack SRV-02,Nexus 93180YC-FX,Cisco,US-CHI-DC1,Data Hall 01,RK-US-CHI-DC1-SRV-02,active,Cisco NX-OS,IT Operations,42,front
+US-CHI-DC1-LEAF-03,Leaf Switch,ToR Leaf – Rack SRV-03,Nexus 93180YC-FX,Cisco,US-CHI-DC1,Data Hall 02,RK-US-CHI-DC1-SRV-03,active,Cisco NX-OS,IT Operations,42,front
+US-CHI-DC1-ACC-01,Access Switch,Staging Area Access,Catalyst 9300-48P,Cisco,US-CHI-DC1,Staging Area,RK-US-CHI-DC1-STG-01,active,Cisco IOS-XE,IT Operations,45,front
+US-LAX-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-LAX-BO1,MDF - Server Room,RK-US-LAX-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-LAX-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-LAX-BO1,IDF 01 - Network Closet,RK-US-LAX-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-LAX-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-LAX-BO1,Floor 01,RK-US-LAX-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-LAX-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-LAX-BO1,Floor 02,RK-US-LAX-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-LAX-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-LAX-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-DAL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-DAL-BO1,MDF - Server Room,RK-US-DAL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-DAL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-DAL-BO1,IDF 01 - Network Closet,RK-US-DAL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-DAL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-DAL-BO1,Floor 01,RK-US-DAL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-DAL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-DAL-BO1,Floor 02,RK-US-DAL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-DAL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-DAL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-ATL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-ATL-BO1,MDF - Server Room,RK-US-ATL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-ATL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-ATL-BO1,IDF 01 - Network Closet,RK-US-ATL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-ATL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-ATL-BO1,Floor 01,RK-US-ATL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-ATL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-ATL-BO1,Floor 02,RK-US-ATL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-ATL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-ATL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-SEA-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-SEA-BO1,MDF - Server Room,RK-US-SEA-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-SEA-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-SEA-BO1,IDF 01 - Network Closet,RK-US-SEA-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-SEA-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-SEA-BO1,Floor 01,RK-US-SEA-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-SEA-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-SEA-BO1,Floor 02,RK-US-SEA-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-SEA-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-SEA-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-MIA-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-MIA-BO1,MDF - Server Room,RK-US-MIA-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-MIA-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-MIA-BO1,IDF 01 - Network Closet,RK-US-MIA-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-MIA-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-MIA-BO1,Floor 01,RK-US-MIA-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-MIA-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-MIA-BO1,Floor 02,RK-US-MIA-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-MIA-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-MIA-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-DEN-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-DEN-BO1,MDF - Server Room,RK-US-DEN-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-DEN-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-DEN-BO1,IDF 01 - Network Closet,RK-US-DEN-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-DEN-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-DEN-BO1,Floor 01,RK-US-DEN-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-DEN-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-DEN-BO1,Floor 02,RK-US-DEN-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-DEN-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-DEN-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-BOS-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-BOS-BO1,MDF - Server Room,RK-US-BOS-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-BOS-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-BOS-BO1,IDF 01 - Network Closet,RK-US-BOS-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-BOS-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-BOS-BO1,Floor 01,RK-US-BOS-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-BOS-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-BOS-BO1,Floor 02,RK-US-BOS-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-BOS-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-BOS-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-HOU-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-HOU-BO1,MDF - Server Room,RK-US-HOU-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-HOU-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-HOU-BO1,IDF 01 - Network Closet,RK-US-HOU-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-HOU-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-HOU-BO1,Floor 01,RK-US-HOU-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-HOU-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-HOU-BO1,Floor 02,RK-US-HOU-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-HOU-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-HOU-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+US-PHX-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,US-PHX-BO1,MDF - Server Room,RK-US-PHX-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+US-PHX-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,US-PHX-BO1,IDF 01 - Network Closet,RK-US-PHX-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+US-PHX-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,US-PHX-BO1,Floor 01,RK-US-PHX-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+US-PHX-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,US-PHX-BO1,Floor 02,RK-US-PHX-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+US-PHX-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,US-PHX-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CA-VAN-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CA-VAN-BO1,MDF - Server Room,RK-CA-VAN-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CA-VAN-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CA-VAN-BO1,IDF 01 - Network Closet,RK-CA-VAN-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CA-VAN-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CA-VAN-BO1,Floor 01,RK-CA-VAN-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CA-VAN-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CA-VAN-BO1,Floor 02,RK-CA-VAN-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CA-VAN-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CA-VAN-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CA-MTL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CA-MTL-BO1,MDF - Server Room,RK-CA-MTL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CA-MTL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CA-MTL-BO1,IDF 01 - Network Closet,RK-CA-MTL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CA-MTL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CA-MTL-BO1,Floor 01,RK-CA-MTL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CA-MTL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CA-MTL-BO1,Floor 02,RK-CA-MTL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CA-MTL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CA-MTL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+MX-MEX-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,MX-MEX-BO1,MDF - Server Room,RK-MX-MEX-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+MX-MEX-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,MX-MEX-BO1,IDF 01 - Network Closet,RK-MX-MEX-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+MX-MEX-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,MX-MEX-BO1,Floor 01,RK-MX-MEX-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+MX-MEX-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,MX-MEX-BO1,Floor 02,RK-MX-MEX-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+MX-MEX-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,MX-MEX-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+BR-RIO-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,BR-RIO-BO1,MDF - Server Room,RK-BR-RIO-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+BR-RIO-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,BR-RIO-BO1,IDF 01 - Network Closet,RK-BR-RIO-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+BR-RIO-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,BR-RIO-BO1,Floor 01,RK-BR-RIO-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+BR-RIO-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,BR-RIO-BO1,Floor 02,RK-BR-RIO-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+BR-RIO-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,BR-RIO-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CO-BOG-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CO-BOG-BO1,MDF - Server Room,RK-CO-BOG-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CO-BOG-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CO-BOG-BO1,IDF 01 - Network Closet,RK-CO-BOG-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CO-BOG-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CO-BOG-BO1,Floor 01,RK-CO-BOG-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CO-BOG-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CO-BOG-BO1,Floor 02,RK-CO-BOG-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CO-BOG-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CO-BOG-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+AR-BUE-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,AR-BUE-BO1,MDF - Server Room,RK-AR-BUE-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+AR-BUE-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,AR-BUE-BO1,IDF 01 - Network Closet,RK-AR-BUE-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+AR-BUE-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,AR-BUE-BO1,Floor 01,RK-AR-BUE-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+AR-BUE-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,AR-BUE-BO1,Floor 02,RK-AR-BUE-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+AR-BUE-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,AR-BUE-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CL-SCL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CL-SCL-BO1,MDF - Server Room,RK-CL-SCL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CL-SCL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CL-SCL-BO1,IDF 01 - Network Closet,RK-CL-SCL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CL-SCL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CL-SCL-BO1,Floor 01,RK-CL-SCL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CL-SCL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CL-SCL-BO1,Floor 02,RK-CL-SCL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CL-SCL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CL-SCL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+PE-LIM-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,PE-LIM-BO1,MDF - Server Room,RK-PE-LIM-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+PE-LIM-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,PE-LIM-BO1,IDF 01 - Network Closet,RK-PE-LIM-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+PE-LIM-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,PE-LIM-BO1,Floor 01,RK-PE-LIM-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+PE-LIM-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,PE-LIM-BO1,Floor 02,RK-PE-LIM-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+PE-LIM-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,PE-LIM-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+FR-PAR-DC1-SPINE-01,Spine Switch,Primary Fabric Spine 01,Nexus 9508,Cisco,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-01,active,Cisco NX-OS,IT Operations,1,front
+FR-PAR-DC1-SPINE-02,Spine Switch,Primary Fabric Spine 02,Nexus 9508,Cisco,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-01,active,Cisco NX-OS,IT Operations,14,front
+FR-PAR-DC1-BORDER-01,Border Leaf,External Connectivity A,Nexus 93180YC-FX,Cisco,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-01,active,Cisco NX-OS,IT Operations,45,front
+FR-PAR-DC1-BORDER-02,Border Leaf,External Connectivity B,Nexus 93180YC-FX,Cisco,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-01,active,Cisco NX-OS,IT Operations,44,front
+FR-PAR-DC1-FW-01,Firewall,DC Edge Firewall Primary,FPR2130-NGFW-K9,Cisco,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-02,active,Cisco FTD,IT Operations,48,front
+FR-PAR-DC1-FW-02,Firewall,DC Edge Firewall Redundant,FPR2130-NGFW-K9,Cisco,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-02,active,Cisco FTD,IT Operations,46,front
+FR-PAR-DC1-EDGE-01,Edge Router,Internet Peering Router A,ASR1001-X,Cisco,FR-PAR-DC1,Meet-Me Room (MMR),RK-FR-PAR-DC1-NET-01,active,Cisco IOS-XE,IT Operations,48,front
+FR-PAR-DC1-EDGE-02,Edge Router,Internet Peering Router B,ASR1001-X,Cisco,FR-PAR-DC1,Meet-Me Room (MMR),RK-FR-PAR-DC1-NET-01,active,Cisco IOS-XE,IT Operations,46,front
+FR-PAR-DC1-LEAF-01,Leaf Switch,ToR Leaf – Rack SRV-01,Nexus 93180YC-FX,Cisco,FR-PAR-DC1,Data Hall 01,RK-FR-PAR-DC1-SRV-01,active,Cisco NX-OS,IT Operations,42,front
+FR-PAR-DC1-LEAF-02,Leaf Switch,ToR Leaf – Rack SRV-02,Nexus 93180YC-FX,Cisco,FR-PAR-DC1,Data Hall 01,RK-FR-PAR-DC1-SRV-02,active,Cisco NX-OS,IT Operations,42,front
+FR-PAR-DC1-LEAF-03,Leaf Switch,ToR Leaf – Rack SRV-03,Nexus 93180YC-FX,Cisco,FR-PAR-DC1,Data Hall 02,RK-FR-PAR-DC1-SRV-03,active,Cisco NX-OS,IT Operations,42,front
+FR-PAR-DC1-ACC-01,Access Switch,Staging Area Access,Catalyst 9300-48P,Cisco,FR-PAR-DC1,Staging Area,RK-FR-PAR-DC1-STG-01,active,Cisco IOS-XE,IT Operations,45,front
+FR-PAR-BO1-CORE-01,Core Switch,HQ Core Switch A,Catalyst 9606R,Cisco,FR-PAR-BO1,MDF - Server Room,RK-FR-PAR-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,1,front
+FR-PAR-BO1-DIST-01,Distribution Switch,HQ Distribution Switch,Catalyst 9500-48Y4C,Cisco,FR-PAR-BO1,MDF - Server Room,RK-FR-PAR-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,14,front
+FR-PAR-BO1-FW-01,Firewall,HQ Perimeter Firewall,FPR2130-NGFW-K9,Cisco,FR-PAR-BO1,MDF - Server Room,RK-FR-PAR-BO1-SRV-01,active,Cisco FTD,IT Operations,42,front
+FR-PAR-BO1-WLC-01,Wireless Controller,HQ Wireless Controller,Catalyst 9800-80-K9,Cisco,FR-PAR-BO1,MDF - Server Room,RK-FR-PAR-BO1-SRV-01,active,Cisco IOS-XE WLC,IT Operations,40,front
+FR-PAR-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9300-48P,Cisco,FR-PAR-BO1,IDF 01 - Network Closet,RK-FR-PAR-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+FR-PAR-BO1-ACC-02,Access Switch,IDF 02 Access Switch,Catalyst 9300-48P,Cisco,FR-PAR-BO1,IDF 02 - Network Closet,RK-FR-PAR-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+FR-PAR-BO1-ACC-03,Access Switch,Floor 01 Access Switch,Catalyst 9300-48P,Cisco,FR-PAR-BO1,Floor 01,RK-FR-PAR-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+FR-PAR-BO1-ACC-04,Access Switch,Floor 02 Access Switch,Catalyst 9300-48P,Cisco,FR-PAR-BO1,Floor 02,RK-FR-PAR-BO1-ACC-04,active,Cisco IOS-XE,IT Operations,12,front
+FR-PAR-BO1-ACC-05,Access Switch,Floor 03 Access Switch,Catalyst 9300-48P,Cisco,FR-PAR-BO1,Floor 03,RK-FR-PAR-BO1-ACC-05,active,Cisco IOS-XE,IT Operations,12,front
+FR-PAR-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP 01,Catalyst 9136I-E,Cisco,FR-PAR-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+FR-PAR-BO1-WAP-02,Wireless Access Point,Floor 02 WiFi AP 01,Catalyst 9136I-E,Cisco,FR-PAR-BO1,Floor 02,,active,Cisco AP CAPWAP,IT Operations,,
+FR-PAR-BO1-WAP-03,Wireless Access Point,Floor 03 WiFi AP 01,Catalyst 9136I-E,Cisco,FR-PAR-BO1,Floor 03,,active,Cisco AP CAPWAP,IT Operations,,
+DE-MUC-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,DE-MUC-BO1,MDF - Server Room,RK-DE-MUC-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+DE-MUC-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,DE-MUC-BO1,IDF 01 - Network Closet,RK-DE-MUC-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+DE-MUC-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,DE-MUC-BO1,Floor 01,RK-DE-MUC-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+DE-MUC-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,DE-MUC-BO1,Floor 02,RK-DE-MUC-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+DE-MUC-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,DE-MUC-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+DE-FRA-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,DE-FRA-BO1,MDF - Server Room,RK-DE-FRA-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+DE-FRA-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,DE-FRA-BO1,IDF 01 - Network Closet,RK-DE-FRA-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+DE-FRA-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,DE-FRA-BO1,Floor 01,RK-DE-FRA-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+DE-FRA-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,DE-FRA-BO1,Floor 02,RK-DE-FRA-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+DE-FRA-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,DE-FRA-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+ES-MAD-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,ES-MAD-BO1,MDF - Server Room,RK-ES-MAD-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+ES-MAD-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,ES-MAD-BO1,IDF 01 - Network Closet,RK-ES-MAD-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+ES-MAD-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,ES-MAD-BO1,Floor 01,RK-ES-MAD-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+ES-MAD-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,ES-MAD-BO1,Floor 02,RK-ES-MAD-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+ES-MAD-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,ES-MAD-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IT-MIL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IT-MIL-BO1,MDF - Server Room,RK-IT-MIL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IT-MIL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IT-MIL-BO1,IDF 01 - Network Closet,RK-IT-MIL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IT-MIL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IT-MIL-BO1,Floor 01,RK-IT-MIL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IT-MIL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IT-MIL-BO1,Floor 02,RK-IT-MIL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IT-MIL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IT-MIL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IT-ROM-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IT-ROM-BO1,MDF - Server Room,RK-IT-ROM-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IT-ROM-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IT-ROM-BO1,IDF 01 - Network Closet,RK-IT-ROM-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IT-ROM-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IT-ROM-BO1,Floor 01,RK-IT-ROM-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IT-ROM-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IT-ROM-BO1,Floor 02,RK-IT-ROM-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IT-ROM-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IT-ROM-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CH-ZRH-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CH-ZRH-BO1,MDF - Server Room,RK-CH-ZRH-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CH-ZRH-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CH-ZRH-BO1,IDF 01 - Network Closet,RK-CH-ZRH-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CH-ZRH-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CH-ZRH-BO1,Floor 01,RK-CH-ZRH-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CH-ZRH-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CH-ZRH-BO1,Floor 02,RK-CH-ZRH-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CH-ZRH-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CH-ZRH-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IE-DUB-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IE-DUB-BO1,MDF - Server Room,RK-IE-DUB-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IE-DUB-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IE-DUB-BO1,IDF 01 - Network Closet,RK-IE-DUB-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IE-DUB-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IE-DUB-BO1,Floor 01,RK-IE-DUB-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IE-DUB-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IE-DUB-BO1,Floor 02,RK-IE-DUB-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IE-DUB-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IE-DUB-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+BE-BRU-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,BE-BRU-BO1,MDF - Server Room,RK-BE-BRU-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+BE-BRU-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,BE-BRU-BO1,IDF 01 - Network Closet,RK-BE-BRU-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+BE-BRU-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,BE-BRU-BO1,Floor 01,RK-BE-BRU-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+BE-BRU-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,BE-BRU-BO1,Floor 02,RK-BE-BRU-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+BE-BRU-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,BE-BRU-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+AT-VIE-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,AT-VIE-BO1,MDF - Server Room,RK-AT-VIE-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+AT-VIE-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,AT-VIE-BO1,IDF 01 - Network Closet,RK-AT-VIE-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+AT-VIE-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,AT-VIE-BO1,Floor 01,RK-AT-VIE-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+AT-VIE-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,AT-VIE-BO1,Floor 02,RK-AT-VIE-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+AT-VIE-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,AT-VIE-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+PT-LIS-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,PT-LIS-BO1,MDF - Server Room,RK-PT-LIS-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+PT-LIS-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,PT-LIS-BO1,IDF 01 - Network Closet,RK-PT-LIS-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+PT-LIS-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,PT-LIS-BO1,Floor 01,RK-PT-LIS-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+PT-LIS-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,PT-LIS-BO1,Floor 02,RK-PT-LIS-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+PT-LIS-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,PT-LIS-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+SE-STO-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,SE-STO-BO1,MDF - Server Room,RK-SE-STO-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+SE-STO-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,SE-STO-BO1,IDF 01 - Network Closet,RK-SE-STO-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+SE-STO-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,SE-STO-BO1,Floor 01,RK-SE-STO-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+SE-STO-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,SE-STO-BO1,Floor 02,RK-SE-STO-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+SE-STO-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,SE-STO-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+PL-WAW-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,PL-WAW-BO1,MDF - Server Room,RK-PL-WAW-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+PL-WAW-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,PL-WAW-BO1,IDF 01 - Network Closet,RK-PL-WAW-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+PL-WAW-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,PL-WAW-BO1,Floor 01,RK-PL-WAW-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+PL-WAW-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,PL-WAW-BO1,Floor 02,RK-PL-WAW-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+PL-WAW-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,PL-WAW-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+NO-OSL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,NO-OSL-BO1,MDF - Server Room,RK-NO-OSL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+NO-OSL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,NO-OSL-BO1,IDF 01 - Network Closet,RK-NO-OSL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+NO-OSL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,NO-OSL-BO1,Floor 01,RK-NO-OSL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+NO-OSL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,NO-OSL-BO1,Floor 02,RK-NO-OSL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+NO-OSL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,NO-OSL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+AE-DXB-DC1-SPINE-01,Spine Switch,Primary Fabric Spine 01,Nexus 9508,Cisco,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,1,front
+AE-DXB-DC1-SPINE-02,Spine Switch,Primary Fabric Spine 02,Nexus 9508,Cisco,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,14,front
+AE-DXB-DC1-BORDER-01,Border Leaf,External Connectivity A,Nexus 93180YC-FX,Cisco,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,45,front
+AE-DXB-DC1-BORDER-02,Border Leaf,External Connectivity B,Nexus 93180YC-FX,Cisco,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,44,front
+AE-DXB-DC1-FW-01,Firewall,DC Edge Firewall Primary,FPR2130-NGFW-K9,Cisco,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-02,active,Cisco FTD,IT Operations,48,front
+AE-DXB-DC1-FW-02,Firewall,DC Edge Firewall Redundant,FPR2130-NGFW-K9,Cisco,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-02,active,Cisco FTD,IT Operations,46,front
+AE-DXB-DC1-EDGE-01,Edge Router,Internet Peering Router A,ASR1001-X,Cisco,AE-DXB-DC1,Meet-Me Room (MMR),RK-AE-DXB-DC1-NET-01,active,Cisco IOS-XE,IT Operations,48,front
+AE-DXB-DC1-EDGE-02,Edge Router,Internet Peering Router B,ASR1001-X,Cisco,AE-DXB-DC1,Meet-Me Room (MMR),RK-AE-DXB-DC1-NET-01,active,Cisco IOS-XE,IT Operations,46,front
+AE-DXB-DC1-LEAF-01,Leaf Switch,ToR Leaf – Rack SRV-01,Nexus 93180YC-FX,Cisco,AE-DXB-DC1,Data Hall 01,RK-AE-DXB-DC1-SRV-01,active,Cisco NX-OS,IT Operations,42,front
+AE-DXB-DC1-LEAF-02,Leaf Switch,ToR Leaf – Rack SRV-02,Nexus 93180YC-FX,Cisco,AE-DXB-DC1,Data Hall 01,RK-AE-DXB-DC1-SRV-02,active,Cisco NX-OS,IT Operations,42,front
+AE-DXB-DC1-LEAF-03,Leaf Switch,ToR Leaf – Rack SRV-03,Nexus 93180YC-FX,Cisco,AE-DXB-DC1,Data Hall 02,RK-AE-DXB-DC1-SRV-03,active,Cisco NX-OS,IT Operations,42,front
+AE-DXB-DC1-ACC-01,Access Switch,Staging Area Access,Catalyst 9300-48P,Cisco,AE-DXB-DC1,Staging Area,RK-AE-DXB-DC1-STG-01,active,Cisco IOS-XE,IT Operations,45,front
+AE-DXB-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,AE-DXB-BO1,MDF - Server Room,RK-AE-DXB-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+AE-DXB-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,AE-DXB-BO1,IDF 01 - Network Closet,RK-AE-DXB-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+AE-DXB-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,AE-DXB-BO1,Floor 01,RK-AE-DXB-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+AE-DXB-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,AE-DXB-BO1,Floor 02,RK-AE-DXB-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+AE-DXB-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,AE-DXB-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+SA-RUH-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,SA-RUH-BO1,MDF - Server Room,RK-SA-RUH-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+SA-RUH-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,SA-RUH-BO1,IDF 01 - Network Closet,RK-SA-RUH-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+SA-RUH-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,SA-RUH-BO1,Floor 01,RK-SA-RUH-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+SA-RUH-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,SA-RUH-BO1,Floor 02,RK-SA-RUH-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+SA-RUH-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,SA-RUH-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+EG-CAI-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,EG-CAI-BO1,MDF - Server Room,RK-EG-CAI-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+EG-CAI-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,EG-CAI-BO1,IDF 01 - Network Closet,RK-EG-CAI-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+EG-CAI-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,EG-CAI-BO1,Floor 01,RK-EG-CAI-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+EG-CAI-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,EG-CAI-BO1,Floor 02,RK-EG-CAI-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+EG-CAI-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,EG-CAI-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+ZA-JNB-DC1-SPINE-01,Spine Switch,Primary Fabric Spine 01,Nexus 9508,Cisco,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,1,front
+ZA-JNB-DC1-SPINE-02,Spine Switch,Primary Fabric Spine 02,Nexus 9508,Cisco,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,14,front
+ZA-JNB-DC1-BORDER-01,Border Leaf,External Connectivity A,Nexus 93180YC-FX,Cisco,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,45,front
+ZA-JNB-DC1-BORDER-02,Border Leaf,External Connectivity B,Nexus 93180YC-FX,Cisco,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-01,active,Cisco NX-OS,IT Operations,44,front
+ZA-JNB-DC1-FW-01,Firewall,DC Edge Firewall Primary,FPR2130-NGFW-K9,Cisco,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-02,active,Cisco FTD,IT Operations,48,front
+ZA-JNB-DC1-FW-02,Firewall,DC Edge Firewall Redundant,FPR2130-NGFW-K9,Cisco,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-02,active,Cisco FTD,IT Operations,46,front
+ZA-JNB-DC1-EDGE-01,Edge Router,Internet Peering Router A,ASR1001-X,Cisco,ZA-JNB-DC1,Meet-Me Room (MMR),RK-ZA-JNB-DC1-NET-01,active,Cisco IOS-XE,IT Operations,48,front
+ZA-JNB-DC1-EDGE-02,Edge Router,Internet Peering Router B,ASR1001-X,Cisco,ZA-JNB-DC1,Meet-Me Room (MMR),RK-ZA-JNB-DC1-NET-01,active,Cisco IOS-XE,IT Operations,46,front
+ZA-JNB-DC1-LEAF-01,Leaf Switch,ToR Leaf – Rack SRV-01,Nexus 93180YC-FX,Cisco,ZA-JNB-DC1,Data Hall 01,RK-ZA-JNB-DC1-SRV-01,active,Cisco NX-OS,IT Operations,42,front
+ZA-JNB-DC1-LEAF-02,Leaf Switch,ToR Leaf – Rack SRV-02,Nexus 93180YC-FX,Cisco,ZA-JNB-DC1,Data Hall 01,RK-ZA-JNB-DC1-SRV-02,active,Cisco NX-OS,IT Operations,42,front
+ZA-JNB-DC1-LEAF-03,Leaf Switch,ToR Leaf – Rack SRV-03,Nexus 93180YC-FX,Cisco,ZA-JNB-DC1,Data Hall 02,RK-ZA-JNB-DC1-SRV-03,active,Cisco NX-OS,IT Operations,42,front
+ZA-JNB-DC1-ACC-01,Access Switch,Staging Area Access,Catalyst 9300-48P,Cisco,ZA-JNB-DC1,Staging Area,RK-ZA-JNB-DC1-STG-01,active,Cisco IOS-XE,IT Operations,45,front
+NG-LOS-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,NG-LOS-BO1,MDF - Server Room,RK-NG-LOS-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+NG-LOS-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,NG-LOS-BO1,IDF 01 - Network Closet,RK-NG-LOS-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+NG-LOS-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,NG-LOS-BO1,Floor 01,RK-NG-LOS-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+NG-LOS-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,NG-LOS-BO1,Floor 02,RK-NG-LOS-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+NG-LOS-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,NG-LOS-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+KE-NBO-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,KE-NBO-BO1,MDF - Server Room,RK-KE-NBO-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+KE-NBO-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,KE-NBO-BO1,IDF 01 - Network Closet,RK-KE-NBO-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+KE-NBO-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,KE-NBO-BO1,Floor 01,RK-KE-NBO-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+KE-NBO-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,KE-NBO-BO1,Floor 02,RK-KE-NBO-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+KE-NBO-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,KE-NBO-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+HK-HKG-DC1-SPINE-01,Spine Switch,Primary Fabric Spine 01,Nexus 9508,Cisco,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-01,active,Cisco NX-OS,IT Operations,1,front
+HK-HKG-DC1-SPINE-02,Spine Switch,Primary Fabric Spine 02,Nexus 9508,Cisco,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-01,active,Cisco NX-OS,IT Operations,14,front
+HK-HKG-DC1-BORDER-01,Border Leaf,External Connectivity A,Nexus 93180YC-FX,Cisco,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-01,active,Cisco NX-OS,IT Operations,45,front
+HK-HKG-DC1-BORDER-02,Border Leaf,External Connectivity B,Nexus 93180YC-FX,Cisco,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-01,active,Cisco NX-OS,IT Operations,44,front
+HK-HKG-DC1-FW-01,Firewall,DC Edge Firewall Primary,FPR2130-NGFW-K9,Cisco,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-02,active,Cisco FTD,IT Operations,48,front
+HK-HKG-DC1-FW-02,Firewall,DC Edge Firewall Redundant,FPR2130-NGFW-K9,Cisco,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-02,active,Cisco FTD,IT Operations,46,front
+HK-HKG-DC1-EDGE-01,Edge Router,Internet Peering Router A,ASR1001-X,Cisco,HK-HKG-DC1,Meet-Me Room (MMR),RK-HK-HKG-DC1-NET-01,active,Cisco IOS-XE,IT Operations,48,front
+HK-HKG-DC1-EDGE-02,Edge Router,Internet Peering Router B,ASR1001-X,Cisco,HK-HKG-DC1,Meet-Me Room (MMR),RK-HK-HKG-DC1-NET-01,active,Cisco IOS-XE,IT Operations,46,front
+HK-HKG-DC1-LEAF-01,Leaf Switch,ToR Leaf – Rack SRV-01,Nexus 93180YC-FX,Cisco,HK-HKG-DC1,Data Hall 01,RK-HK-HKG-DC1-SRV-01,active,Cisco NX-OS,IT Operations,42,front
+HK-HKG-DC1-LEAF-02,Leaf Switch,ToR Leaf – Rack SRV-02,Nexus 93180YC-FX,Cisco,HK-HKG-DC1,Data Hall 01,RK-HK-HKG-DC1-SRV-02,active,Cisco NX-OS,IT Operations,42,front
+HK-HKG-DC1-LEAF-03,Leaf Switch,ToR Leaf – Rack SRV-03,Nexus 93180YC-FX,Cisco,HK-HKG-DC1,Data Hall 02,RK-HK-HKG-DC1-SRV-03,active,Cisco NX-OS,IT Operations,42,front
+HK-HKG-DC1-ACC-01,Access Switch,Staging Area Access,Catalyst 9300-48P,Cisco,HK-HKG-DC1,Staging Area,RK-HK-HKG-DC1-STG-01,active,Cisco IOS-XE,IT Operations,45,front
+HK-HKG-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,HK-HKG-BO1,MDF - Server Room,RK-HK-HKG-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+HK-HKG-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,HK-HKG-BO1,IDF 01 - Network Closet,RK-HK-HKG-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+HK-HKG-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,HK-HKG-BO1,Floor 01,RK-HK-HKG-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+HK-HKG-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,HK-HKG-BO1,Floor 02,RK-HK-HKG-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+HK-HKG-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,HK-HKG-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CN-SHA-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CN-SHA-BO1,MDF - Server Room,RK-CN-SHA-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CN-SHA-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CN-SHA-BO1,IDF 01 - Network Closet,RK-CN-SHA-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CN-SHA-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CN-SHA-BO1,Floor 01,RK-CN-SHA-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CN-SHA-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CN-SHA-BO1,Floor 02,RK-CN-SHA-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CN-SHA-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CN-SHA-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+CN-BEJ-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,CN-BEJ-BO1,MDF - Server Room,RK-CN-BEJ-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+CN-BEJ-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,CN-BEJ-BO1,IDF 01 - Network Closet,RK-CN-BEJ-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+CN-BEJ-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,CN-BEJ-BO1,Floor 01,RK-CN-BEJ-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+CN-BEJ-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,CN-BEJ-BO1,Floor 02,RK-CN-BEJ-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+CN-BEJ-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,CN-BEJ-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+TW-TPE-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,TW-TPE-BO1,MDF - Server Room,RK-TW-TPE-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+TW-TPE-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,TW-TPE-BO1,IDF 01 - Network Closet,RK-TW-TPE-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+TW-TPE-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,TW-TPE-BO1,Floor 01,RK-TW-TPE-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+TW-TPE-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,TW-TPE-BO1,Floor 02,RK-TW-TPE-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+TW-TPE-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,TW-TPE-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+TH-BKK-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,TH-BKK-BO1,MDF - Server Room,RK-TH-BKK-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+TH-BKK-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,TH-BKK-BO1,IDF 01 - Network Closet,RK-TH-BKK-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+TH-BKK-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,TH-BKK-BO1,Floor 01,RK-TH-BKK-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+TH-BKK-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,TH-BKK-BO1,Floor 02,RK-TH-BKK-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+TH-BKK-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,TH-BKK-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+ID-JKT-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,ID-JKT-BO1,MDF - Server Room,RK-ID-JKT-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+ID-JKT-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,ID-JKT-BO1,IDF 01 - Network Closet,RK-ID-JKT-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+ID-JKT-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,ID-JKT-BO1,Floor 01,RK-ID-JKT-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+ID-JKT-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,ID-JKT-BO1,Floor 02,RK-ID-JKT-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+ID-JKT-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,ID-JKT-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+PH-MNL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,PH-MNL-BO1,MDF - Server Room,RK-PH-MNL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+PH-MNL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,PH-MNL-BO1,IDF 01 - Network Closet,RK-PH-MNL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+PH-MNL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,PH-MNL-BO1,Floor 01,RK-PH-MNL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+PH-MNL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,PH-MNL-BO1,Floor 02,RK-PH-MNL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+PH-MNL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,PH-MNL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+VN-HAN-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,VN-HAN-BO1,MDF - Server Room,RK-VN-HAN-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+VN-HAN-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,VN-HAN-BO1,IDF 01 - Network Closet,RK-VN-HAN-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+VN-HAN-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,VN-HAN-BO1,Floor 01,RK-VN-HAN-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+VN-HAN-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,VN-HAN-BO1,Floor 02,RK-VN-HAN-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+VN-HAN-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,VN-HAN-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+JP-TYO-DC1-SPINE-01,Spine Switch,Primary Fabric Spine 01,Nexus 9508,Cisco,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-01,active,Cisco NX-OS,IT Operations,1,front
+JP-TYO-DC1-SPINE-02,Spine Switch,Primary Fabric Spine 02,Nexus 9508,Cisco,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-01,active,Cisco NX-OS,IT Operations,14,front
+JP-TYO-DC1-BORDER-01,Border Leaf,External Connectivity A,Nexus 93180YC-FX,Cisco,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-01,active,Cisco NX-OS,IT Operations,45,front
+JP-TYO-DC1-BORDER-02,Border Leaf,External Connectivity B,Nexus 93180YC-FX,Cisco,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-01,active,Cisco NX-OS,IT Operations,44,front
+JP-TYO-DC1-FW-01,Firewall,DC Edge Firewall Primary,FPR2130-NGFW-K9,Cisco,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-02,active,Cisco FTD,IT Operations,48,front
+JP-TYO-DC1-FW-02,Firewall,DC Edge Firewall Redundant,FPR2130-NGFW-K9,Cisco,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-02,active,Cisco FTD,IT Operations,46,front
+JP-TYO-DC1-EDGE-01,Edge Router,Internet Peering Router A,ASR1001-X,Cisco,JP-TYO-DC1,Meet-Me Room (MMR),RK-JP-TYO-DC1-NET-01,active,Cisco IOS-XE,IT Operations,48,front
+JP-TYO-DC1-EDGE-02,Edge Router,Internet Peering Router B,ASR1001-X,Cisco,JP-TYO-DC1,Meet-Me Room (MMR),RK-JP-TYO-DC1-NET-01,active,Cisco IOS-XE,IT Operations,46,front
+JP-TYO-DC1-LEAF-01,Leaf Switch,ToR Leaf – Rack SRV-01,Nexus 93180YC-FX,Cisco,JP-TYO-DC1,Data Hall 01,RK-JP-TYO-DC1-SRV-01,active,Cisco NX-OS,IT Operations,42,front
+JP-TYO-DC1-LEAF-02,Leaf Switch,ToR Leaf – Rack SRV-02,Nexus 93180YC-FX,Cisco,JP-TYO-DC1,Data Hall 01,RK-JP-TYO-DC1-SRV-02,active,Cisco NX-OS,IT Operations,42,front
+JP-TYO-DC1-LEAF-03,Leaf Switch,ToR Leaf – Rack SRV-03,Nexus 93180YC-FX,Cisco,JP-TYO-DC1,Data Hall 02,RK-JP-TYO-DC1-SRV-03,active,Cisco NX-OS,IT Operations,42,front
+JP-TYO-DC1-ACC-01,Access Switch,Staging Area Access,Catalyst 9300-48P,Cisco,JP-TYO-DC1,Staging Area,RK-JP-TYO-DC1-STG-01,active,Cisco IOS-XE,IT Operations,45,front
+JP-TYO-BO1-CORE-01,Core Switch,HQ Core Switch A,Catalyst 9606R,Cisco,JP-TYO-BO1,MDF - Server Room,RK-JP-TYO-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,1,front
+JP-TYO-BO1-DIST-01,Distribution Switch,HQ Distribution Switch,Catalyst 9500-48Y4C,Cisco,JP-TYO-BO1,MDF - Server Room,RK-JP-TYO-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,14,front
+JP-TYO-BO1-FW-01,Firewall,HQ Perimeter Firewall,FPR2130-NGFW-K9,Cisco,JP-TYO-BO1,MDF - Server Room,RK-JP-TYO-BO1-SRV-01,active,Cisco FTD,IT Operations,42,front
+JP-TYO-BO1-WLC-01,Wireless Controller,HQ Wireless Controller,Catalyst 9800-80-K9,Cisco,JP-TYO-BO1,MDF - Server Room,RK-JP-TYO-BO1-SRV-01,active,Cisco IOS-XE WLC,IT Operations,40,front
+JP-TYO-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9300-48P,Cisco,JP-TYO-BO1,IDF 01 - Network Closet,RK-JP-TYO-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+JP-TYO-BO1-ACC-02,Access Switch,IDF 02 Access Switch,Catalyst 9300-48P,Cisco,JP-TYO-BO1,IDF 02 - Network Closet,RK-JP-TYO-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+JP-TYO-BO1-ACC-03,Access Switch,Floor 01 Access Switch,Catalyst 9300-48P,Cisco,JP-TYO-BO1,Floor 01,RK-JP-TYO-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+JP-TYO-BO1-ACC-04,Access Switch,Floor 02 Access Switch,Catalyst 9300-48P,Cisco,JP-TYO-BO1,Floor 02,RK-JP-TYO-BO1-ACC-04,active,Cisco IOS-XE,IT Operations,12,front
+JP-TYO-BO1-ACC-05,Access Switch,Floor 03 Access Switch,Catalyst 9300-48P,Cisco,JP-TYO-BO1,Floor 03,RK-JP-TYO-BO1-ACC-05,active,Cisco IOS-XE,IT Operations,12,front
+JP-TYO-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP 01,Catalyst 9136I-E,Cisco,JP-TYO-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+JP-TYO-BO1-WAP-02,Wireless Access Point,Floor 02 WiFi AP 01,Catalyst 9136I-E,Cisco,JP-TYO-BO1,Floor 02,,active,Cisco AP CAPWAP,IT Operations,,
+JP-TYO-BO1-WAP-03,Wireless Access Point,Floor 03 WiFi AP 01,Catalyst 9136I-E,Cisco,JP-TYO-BO1,Floor 03,,active,Cisco AP CAPWAP,IT Operations,,
+JP-OSA-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,JP-OSA-BO1,MDF - Server Room,RK-JP-OSA-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+JP-OSA-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,JP-OSA-BO1,IDF 01 - Network Closet,RK-JP-OSA-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+JP-OSA-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,JP-OSA-BO1,Floor 01,RK-JP-OSA-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+JP-OSA-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,JP-OSA-BO1,Floor 02,RK-JP-OSA-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+JP-OSA-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,JP-OSA-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+KR-SEL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,KR-SEL-BO1,MDF - Server Room,RK-KR-SEL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+KR-SEL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,KR-SEL-BO1,IDF 01 - Network Closet,RK-KR-SEL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+KR-SEL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,KR-SEL-BO1,Floor 01,RK-KR-SEL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+KR-SEL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,KR-SEL-BO1,Floor 02,RK-KR-SEL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+KR-SEL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,KR-SEL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IN-DEL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IN-DEL-BO1,MDF - Server Room,RK-IN-DEL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IN-DEL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IN-DEL-BO1,IDF 01 - Network Closet,RK-IN-DEL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IN-DEL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IN-DEL-BO1,Floor 01,RK-IN-DEL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IN-DEL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IN-DEL-BO1,Floor 02,RK-IN-DEL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IN-DEL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IN-DEL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IN-HYD-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IN-HYD-BO1,MDF - Server Room,RK-IN-HYD-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IN-HYD-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IN-HYD-BO1,IDF 01 - Network Closet,RK-IN-HYD-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IN-HYD-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IN-HYD-BO1,Floor 01,RK-IN-HYD-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IN-HYD-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IN-HYD-BO1,Floor 02,RK-IN-HYD-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IN-HYD-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IN-HYD-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IN-CHE-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IN-CHE-BO1,MDF - Server Room,RK-IN-CHE-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IN-CHE-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IN-CHE-BO1,IDF 01 - Network Closet,RK-IN-CHE-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IN-CHE-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IN-CHE-BO1,Floor 01,RK-IN-CHE-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IN-CHE-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IN-CHE-BO1,Floor 02,RK-IN-CHE-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IN-CHE-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IN-CHE-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+IN-PUN-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,IN-PUN-BO1,MDF - Server Room,RK-IN-PUN-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+IN-PUN-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,IN-PUN-BO1,IDF 01 - Network Closet,RK-IN-PUN-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+IN-PUN-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,IN-PUN-BO1,Floor 01,RK-IN-PUN-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+IN-PUN-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,IN-PUN-BO1,Floor 02,RK-IN-PUN-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+IN-PUN-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,IN-PUN-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+PK-KHI-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,PK-KHI-BO1,MDF - Server Room,RK-PK-KHI-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+PK-KHI-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,PK-KHI-BO1,IDF 01 - Network Closet,RK-PK-KHI-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+PK-KHI-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,PK-KHI-BO1,Floor 01,RK-PK-KHI-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+PK-KHI-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,PK-KHI-BO1,Floor 02,RK-PK-KHI-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+PK-KHI-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,PK-KHI-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,
+NZ-AKL-BO1-BR-01,Branch Router,WAN Edge Router,Catalyst 8300-1N1S-6T,Cisco,NZ-AKL-BO1,MDF - Server Room,RK-NZ-AKL-BO1-SRV-01,active,Cisco IOS-XE,IT Operations,42,front
+NZ-AKL-BO1-ACC-01,Access Switch,IDF 01 Access Switch,Catalyst 9200-48T,Cisco,NZ-AKL-BO1,IDF 01 - Network Closet,RK-NZ-AKL-BO1-ACC-01,active,Cisco IOS-XE,IT Operations,12,front
+NZ-AKL-BO1-ACC-02,Access Switch,Floor 01 Access Switch,Catalyst 9200-48T,Cisco,NZ-AKL-BO1,Floor 01,RK-NZ-AKL-BO1-ACC-02,active,Cisco IOS-XE,IT Operations,12,front
+NZ-AKL-BO1-ACC-03,Access Switch,Floor 02 Access Switch,Catalyst 9200-48T,Cisco,NZ-AKL-BO1,Floor 02,RK-NZ-AKL-BO1-ACC-03,active,Cisco IOS-XE,IT Operations,12,front
+NZ-AKL-BO1-WAP-01,Wireless Access Point,Floor 01 WiFi AP,Catalyst 9130AXI-E,Cisco,NZ-AKL-BO1,Floor 01,,active,Cisco AP CAPWAP,IT Operations,,

@@ -1,0 +1,18 @@
+name,provider,description
+Rogers Canada Backbone,Rogers,Rogers national IP backbone
+Claro LATAM MPLS Cloud,Claro,Claro regional MPLS core
+Orange Global IP,Orange,Orange global IP backbone
+Deutsche Telekom MPLS,Deutsche Telekom,DT enterprise MPLS cloud
+Vodafone MPLS Europe,Vodafone,Vodafone European MPLS fabric
+Telenor Nordic IP,Telenor,Telenor Nordics internet backbone
+du UAE Internet Transit,du,du UAE internet exchange transit
+STC Global IP,STC,STC Saudi internet backbone
+MTN Business MPLS,MTN,MTN Africa enterprise MPLS
+PCCW Global Internet,PCCW,PCCW global IP transit
+China Telecom CN2 GIA,China Telecom,China Telecom CN2 Global Internet Access
+NTT Global IP Network,NTT,NTT global tier-1 backbone
+KT Global Network,KT,KT international IP network
+Spark NZ Backbone,Spark NZ,Spark NZ national IP core
+Zayo Wave & Ethernet,Zayo,Zayo dark-fibre and wavelength services
+TATA MPLS Asia,TATA Communications,TATA Comms MPLS across Asia
+Telefonica Global MPLS,Telefonica,Telefonica LATAM/Europe MPLS

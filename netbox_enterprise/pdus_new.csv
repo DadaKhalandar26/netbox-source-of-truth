@@ -1,0 +1,25 @@
+name,role,description,device_type,manufacturer,site,location,rack,status,tenant,face
+US-CHI-DC1-PDU-1A,PDU,US-CHI-DC1 Primary PDU 1,AP9572,APC,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-01,active,IT Operations,rear
+US-CHI-DC1-PDU-1B,PDU,US-CHI-DC1 Redundant PDU 1,AP9572,APC,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-01,active,IT Operations,rear
+US-CHI-DC1-PDU-2A,PDU,US-CHI-DC1 Primary PDU 2,AP9572,APC,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-02,active,IT Operations,rear
+US-CHI-DC1-PDU-2B,PDU,US-CHI-DC1 Redundant PDU 2,AP9572,APC,US-CHI-DC1,MDF - Network Room,RK-US-CHI-DC1-CORE-02,active,IT Operations,rear
+FR-PAR-DC1-PDU-1A,PDU,FR-PAR-DC1 Primary PDU 1,AP9572,APC,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-01,active,IT Operations,rear
+FR-PAR-DC1-PDU-1B,PDU,FR-PAR-DC1 Redundant PDU 1,AP9572,APC,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-01,active,IT Operations,rear
+FR-PAR-DC1-PDU-2A,PDU,FR-PAR-DC1 Primary PDU 2,AP9572,APC,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-02,active,IT Operations,rear
+FR-PAR-DC1-PDU-2B,PDU,FR-PAR-DC1 Redundant PDU 2,AP9572,APC,FR-PAR-DC1,MDF - Network Room,RK-FR-PAR-DC1-CORE-02,active,IT Operations,rear
+AE-DXB-DC1-PDU-1A,PDU,AE-DXB-DC1 Primary PDU 1,AP9572,APC,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-01,active,IT Operations,rear
+AE-DXB-DC1-PDU-1B,PDU,AE-DXB-DC1 Redundant PDU 1,AP9572,APC,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-01,active,IT Operations,rear
+AE-DXB-DC1-PDU-2A,PDU,AE-DXB-DC1 Primary PDU 2,AP9572,APC,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-02,active,IT Operations,rear
+AE-DXB-DC1-PDU-2B,PDU,AE-DXB-DC1 Redundant PDU 2,AP9572,APC,AE-DXB-DC1,MDF - Network Room,RK-AE-DXB-DC1-CORE-02,active,IT Operations,rear
+ZA-JNB-DC1-PDU-1A,PDU,ZA-JNB-DC1 Primary PDU 1,AP9572,APC,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-01,active,IT Operations,rear
+ZA-JNB-DC1-PDU-1B,PDU,ZA-JNB-DC1 Redundant PDU 1,AP9572,APC,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-01,active,IT Operations,rear
+ZA-JNB-DC1-PDU-2A,PDU,ZA-JNB-DC1 Primary PDU 2,AP9572,APC,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-02,active,IT Operations,rear
+ZA-JNB-DC1-PDU-2B,PDU,ZA-JNB-DC1 Redundant PDU 2,AP9572,APC,ZA-JNB-DC1,MDF - Network Room,RK-ZA-JNB-DC1-CORE-02,active,IT Operations,rear
+HK-HKG-DC1-PDU-1A,PDU,HK-HKG-DC1 Primary PDU 1,AP9572,APC,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-01,active,IT Operations,rear
+HK-HKG-DC1-PDU-1B,PDU,HK-HKG-DC1 Redundant PDU 1,AP9572,APC,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-01,active,IT Operations,rear
+HK-HKG-DC1-PDU-2A,PDU,HK-HKG-DC1 Primary PDU 2,AP9572,APC,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-02,active,IT Operations,rear
+HK-HKG-DC1-PDU-2B,PDU,HK-HKG-DC1 Redundant PDU 2,AP9572,APC,HK-HKG-DC1,MDF - Network Room,RK-HK-HKG-DC1-CORE-02,active,IT Operations,rear
+JP-TYO-DC1-PDU-1A,PDU,JP-TYO-DC1 Primary PDU 1,AP9572,APC,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-01,active,IT Operations,rear
+JP-TYO-DC1-PDU-1B,PDU,JP-TYO-DC1 Redundant PDU 1,AP9572,APC,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-01,active,IT Operations,rear
+JP-TYO-DC1-PDU-2A,PDU,JP-TYO-DC1 Primary PDU 2,AP9572,APC,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-02,active,IT Operations,rear
+JP-TYO-DC1-PDU-2B,PDU,JP-TYO-DC1 Redundant PDU 2,AP9572,APC,JP-TYO-DC1,MDF - Network Room,RK-JP-TYO-DC1-CORE-02,active,IT Operations,rear

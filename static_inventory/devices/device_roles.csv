@@ -1,0 +1,36 @@
+name,slug,color,description
+Spine Switch,spine-switch,aa1409,Core data center fabric spine switches
+Leaf Switch,leaf-switch,2196f3,Top of rack leaf switches within the data center fabric
+Border Leaf,border-leaf,009688,External connectivity leaf switches connecting to WAN and Internet services
+Core Switch,core-switch,f44336,Enterprise campus core switching layer
+Distribution Switch,distribution-switch,ff9800,Campus distribution and aggregation layer switches
+Access Switch,access-switch,4caf50,User and endpoint access layer switches
+Edge Router,edge-router,673ab7,WAN edge and Internet peering routers
+Branch Router,branch-router,9c27b0,Remote office and branch connectivity routers
+Virtual Router,virtual-router,00bcd4,Software defined and virtual routing platforms
+Firewall,firewall,e91e63,Network perimeter and internal segmentation firewalls
+Load Balancer,load-balancer,3f51b5,Application delivery controllers and load balancing platforms
+VPN Gateway,vpn-gateway,7b1fa2,Remote access and site-to-site VPN platforms
+IDS/IPS,ids-ips,d81b60,Intrusion detection and prevention systems
+Console Server,console-server,607d8b,Out-of-band management and console access servers
+Network Management,network-management,455a64,Network monitoring logging and management appliances
+Wireless Controller,wireless-controller,8e24aa,Centralized wireless LAN controllers
+Wireless Access Point,wireless-access-point,8bc34a,Enterprise wireless access points
+DHCP/DNS Server,dhcp-dns-server,43a047,Infrastructure services providing DHCP and DNS
+Authentication Server,authentication-server,1e88e5,RADIUS TACACS LDAP and identity services
+Hypervisor Host,hypervisor-host,3949ab,Virtualization compute hosts
+Physical Server,physical-server,1565c0,Bare metal compute platforms
+GPU Server,gpu-server,283593,High performance GPU accelerated compute systems
+Storage Array,storage-array,ef6c00,Enterprise SAN and NAS storage platforms
+Backup Appliance,backup-appliance,fb8c00,Backup and recovery infrastructure systems
+PDU,pdu,424242,Rack mounted power distribution units
+UPS,ups,5d4037,Uninterruptible power supply systems
+Environmental Monitor,environmental-monitor,6d4c41,Temperature humidity and environmental monitoring devices
+KVM Switch,kvm-switch,546e7a,Keyboard video mouse access infrastructure
+IPMI Gateway,ipmi-gateway,37474f,Remote server management and lights-out access platforms
+Media Converter,media-converter,827717,Fiber and copper media conversion devices
+Optical Transport,optical-transport,00897b,DWDM and optical transport infrastructure
+Security Appliance,security-appliance,c2185b,Dedicated security monitoring and analysis platforms
+Voice Gateway,voice-gateway,6a1b9a,Voice and unified communications gateways
+Session Border Controller,session-border-controller,4527a0,Voice security and SIP edge platforms
+IoT Gateway,iot-gateway,2e7d32,Industrial and IoT aggregation gateways

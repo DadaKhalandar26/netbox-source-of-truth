@@ -1,0 +1,3 @@
+name,site,location,power_panel,status,type,supply,phase,voltage,amperage,max_utilization,rack,description
+AU-SYD-DC1-PWR-FEED1,AU-SYD-DC1,MDF - Network Room,AU-SYD-DC1-PWR-PANEL1,active,primary,ac,three-phase,208,30,80,RK-AU-SYD-DC1-CORE-01,Primary Power Feed RK-AU-SYD-DC1-CORE
+AU-SYD-DC1-PWR-FEED2,AU-SYD-DC1,MDF - Network Room,AU-SYD-DC1-PWR-PANEL2,active,redundant,ac,three-phase,208,30,80,RK-AU-SYD-DC1-CORE-01,Redundant Power Feed RK-AU-SYD-DC1-CORE

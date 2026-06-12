@@ -1,0 +1,5 @@
+name,slug,description
+Direct Internet Access,dia,Dedicated symmetrical fiber internet
+MPLS,mpls,Multi-protocol Label Switching private WAN
+Point-to-Point,p2p,Layer 2 private leased line
+Cloud Connect,cloud-connect,Direct peering with CSPs (AWS/Azure)

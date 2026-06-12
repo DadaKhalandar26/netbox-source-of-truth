@@ -1,0 +1,8 @@
+prefix,vrf,status,scope_type,scope_id,vlan,description
+10.10.1.0/24,CORP-VRF,active,dcim.site,246,10,"Device MGMT Subnet - Sydney"
+10.10.2.0/24,CORP-VRF,active,dcim.site,246,20,"VM Servers Subnet"
+10.10.10.0/24,CORP-VRF,active,dcim.site,246,100,"Users Subnet - Sydney"
+10.10.20.0/24,CORP-VRF,active,dcim.site,246,110,"Voice Subnet - Sydney"
+10.10.30.0/24,CORP-VRF,active,dcim.site,246,200,"IoT Subnet - Sydney"
+10.10.40.0/24,CORP-VRF,active,dcim.site,246,120,"Users Subnet - Sydney"
+192.168.1.0/24,GUEST-VRF,active,dcim.site,246,1000,"Guest Subnet - Sydney"

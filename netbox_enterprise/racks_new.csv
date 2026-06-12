@@ -1,0 +1,265 @@
+site,name,status,location,tenant,role,rack_type
+US-CHI-DC1,RK-US-CHI-DC1-SRV-01,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+US-CHI-DC1,RK-US-CHI-DC1-SRV-02,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+US-CHI-DC1,RK-US-CHI-DC1-SRV-03,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+US-CHI-DC1,RK-US-CHI-DC1-SRV-04,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+US-CHI-DC1,RK-US-CHI-DC1-CORE-01,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+US-CHI-DC1,RK-US-CHI-DC1-CORE-02,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+US-CHI-DC1,RK-US-CHI-DC1-NET-01,active,Meet-Me Room (MMR),IT Operations,Core Networking,Net-Access N-Type
+US-CHI-DC1,RK-US-CHI-DC1-STG-01,active,Staging Area,IT Operations,Staging,Net-Access S-Type
+US-LAX-BO1,RK-US-LAX-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-LAX-BO1,RK-US-LAX-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-LAX-BO1,RK-US-LAX-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-LAX-BO1,RK-US-LAX-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-DAL-BO1,RK-US-DAL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-DAL-BO1,RK-US-DAL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-DAL-BO1,RK-US-DAL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-DAL-BO1,RK-US-DAL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-ATL-BO1,RK-US-ATL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-ATL-BO1,RK-US-ATL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-ATL-BO1,RK-US-ATL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-ATL-BO1,RK-US-ATL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-SEA-BO1,RK-US-SEA-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-SEA-BO1,RK-US-SEA-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-SEA-BO1,RK-US-SEA-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-SEA-BO1,RK-US-SEA-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-MIA-BO1,RK-US-MIA-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-MIA-BO1,RK-US-MIA-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-MIA-BO1,RK-US-MIA-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-MIA-BO1,RK-US-MIA-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-DEN-BO1,RK-US-DEN-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-DEN-BO1,RK-US-DEN-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-DEN-BO1,RK-US-DEN-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-DEN-BO1,RK-US-DEN-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-BOS-BO1,RK-US-BOS-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-BOS-BO1,RK-US-BOS-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-BOS-BO1,RK-US-BOS-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-BOS-BO1,RK-US-BOS-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-HOU-BO1,RK-US-HOU-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-HOU-BO1,RK-US-HOU-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-HOU-BO1,RK-US-HOU-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-HOU-BO1,RK-US-HOU-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+US-PHX-BO1,RK-US-PHX-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+US-PHX-BO1,RK-US-PHX-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+US-PHX-BO1,RK-US-PHX-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+US-PHX-BO1,RK-US-PHX-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CA-VAN-BO1,RK-CA-VAN-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CA-VAN-BO1,RK-CA-VAN-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CA-VAN-BO1,RK-CA-VAN-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CA-VAN-BO1,RK-CA-VAN-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CA-MTL-BO1,RK-CA-MTL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CA-MTL-BO1,RK-CA-MTL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CA-MTL-BO1,RK-CA-MTL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CA-MTL-BO1,RK-CA-MTL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+MX-MEX-BO1,RK-MX-MEX-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+MX-MEX-BO1,RK-MX-MEX-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+MX-MEX-BO1,RK-MX-MEX-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+MX-MEX-BO1,RK-MX-MEX-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+BR-RIO-BO1,RK-BR-RIO-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+BR-RIO-BO1,RK-BR-RIO-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+BR-RIO-BO1,RK-BR-RIO-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+BR-RIO-BO1,RK-BR-RIO-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CO-BOG-BO1,RK-CO-BOG-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CO-BOG-BO1,RK-CO-BOG-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CO-BOG-BO1,RK-CO-BOG-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CO-BOG-BO1,RK-CO-BOG-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+AR-BUE-BO1,RK-AR-BUE-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+AR-BUE-BO1,RK-AR-BUE-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+AR-BUE-BO1,RK-AR-BUE-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+AR-BUE-BO1,RK-AR-BUE-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CL-SCL-BO1,RK-CL-SCL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CL-SCL-BO1,RK-CL-SCL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CL-SCL-BO1,RK-CL-SCL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CL-SCL-BO1,RK-CL-SCL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+PE-LIM-BO1,RK-PE-LIM-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+PE-LIM-BO1,RK-PE-LIM-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+PE-LIM-BO1,RK-PE-LIM-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+PE-LIM-BO1,RK-PE-LIM-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+FR-PAR-DC1,RK-FR-PAR-DC1-SRV-01,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+FR-PAR-DC1,RK-FR-PAR-DC1-SRV-02,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+FR-PAR-DC1,RK-FR-PAR-DC1-SRV-03,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+FR-PAR-DC1,RK-FR-PAR-DC1-SRV-04,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+FR-PAR-DC1,RK-FR-PAR-DC1-CORE-01,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+FR-PAR-DC1,RK-FR-PAR-DC1-CORE-02,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+FR-PAR-DC1,RK-FR-PAR-DC1-NET-01,active,Meet-Me Room (MMR),IT Operations,Core Networking,Net-Access N-Type
+FR-PAR-DC1,RK-FR-PAR-DC1-STG-01,active,Staging Area,IT Operations,Staging,Net-Access S-Type
+FR-PAR-BO1,RK-FR-PAR-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+FR-PAR-BO1,RK-FR-PAR-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+FR-PAR-BO1,RK-FR-PAR-BO1-ACC-02,active,IDF 02 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+FR-PAR-BO1,RK-FR-PAR-BO1-ACC-03,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+FR-PAR-BO1,RK-FR-PAR-BO1-ACC-04,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+FR-PAR-BO1,RK-FR-PAR-BO1-ACC-05,active,Floor 03,IT Operations,Edge/Access,NetShelter Wallmount
+DE-MUC-BO1,RK-DE-MUC-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+DE-MUC-BO1,RK-DE-MUC-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+DE-MUC-BO1,RK-DE-MUC-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+DE-MUC-BO1,RK-DE-MUC-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+DE-FRA-BO1,RK-DE-FRA-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+DE-FRA-BO1,RK-DE-FRA-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+DE-FRA-BO1,RK-DE-FRA-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+DE-FRA-BO1,RK-DE-FRA-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+ES-MAD-BO1,RK-ES-MAD-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+ES-MAD-BO1,RK-ES-MAD-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+ES-MAD-BO1,RK-ES-MAD-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+ES-MAD-BO1,RK-ES-MAD-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IT-MIL-BO1,RK-IT-MIL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IT-MIL-BO1,RK-IT-MIL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IT-MIL-BO1,RK-IT-MIL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IT-MIL-BO1,RK-IT-MIL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IT-ROM-BO1,RK-IT-ROM-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IT-ROM-BO1,RK-IT-ROM-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IT-ROM-BO1,RK-IT-ROM-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IT-ROM-BO1,RK-IT-ROM-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CH-ZRH-BO1,RK-CH-ZRH-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CH-ZRH-BO1,RK-CH-ZRH-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CH-ZRH-BO1,RK-CH-ZRH-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CH-ZRH-BO1,RK-CH-ZRH-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IE-DUB-BO1,RK-IE-DUB-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IE-DUB-BO1,RK-IE-DUB-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IE-DUB-BO1,RK-IE-DUB-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IE-DUB-BO1,RK-IE-DUB-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+BE-BRU-BO1,RK-BE-BRU-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+BE-BRU-BO1,RK-BE-BRU-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+BE-BRU-BO1,RK-BE-BRU-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+BE-BRU-BO1,RK-BE-BRU-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+AT-VIE-BO1,RK-AT-VIE-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+AT-VIE-BO1,RK-AT-VIE-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+AT-VIE-BO1,RK-AT-VIE-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+AT-VIE-BO1,RK-AT-VIE-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+PT-LIS-BO1,RK-PT-LIS-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+PT-LIS-BO1,RK-PT-LIS-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+PT-LIS-BO1,RK-PT-LIS-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+PT-LIS-BO1,RK-PT-LIS-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+SE-STO-BO1,RK-SE-STO-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+SE-STO-BO1,RK-SE-STO-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+SE-STO-BO1,RK-SE-STO-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+SE-STO-BO1,RK-SE-STO-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+PL-WAW-BO1,RK-PL-WAW-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+PL-WAW-BO1,RK-PL-WAW-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+PL-WAW-BO1,RK-PL-WAW-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+PL-WAW-BO1,RK-PL-WAW-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+NO-OSL-BO1,RK-NO-OSL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+NO-OSL-BO1,RK-NO-OSL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+NO-OSL-BO1,RK-NO-OSL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+NO-OSL-BO1,RK-NO-OSL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+AE-DXB-DC1,RK-AE-DXB-DC1-SRV-01,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+AE-DXB-DC1,RK-AE-DXB-DC1-SRV-02,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+AE-DXB-DC1,RK-AE-DXB-DC1-SRV-03,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+AE-DXB-DC1,RK-AE-DXB-DC1-SRV-04,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+AE-DXB-DC1,RK-AE-DXB-DC1-CORE-01,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+AE-DXB-DC1,RK-AE-DXB-DC1-CORE-02,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+AE-DXB-DC1,RK-AE-DXB-DC1-NET-01,active,Meet-Me Room (MMR),IT Operations,Core Networking,Net-Access N-Type
+AE-DXB-DC1,RK-AE-DXB-DC1-STG-01,active,Staging Area,IT Operations,Staging,Net-Access S-Type
+AE-DXB-BO1,RK-AE-DXB-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+AE-DXB-BO1,RK-AE-DXB-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+AE-DXB-BO1,RK-AE-DXB-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+AE-DXB-BO1,RK-AE-DXB-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+SA-RUH-BO1,RK-SA-RUH-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+SA-RUH-BO1,RK-SA-RUH-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+SA-RUH-BO1,RK-SA-RUH-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+SA-RUH-BO1,RK-SA-RUH-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+EG-CAI-BO1,RK-EG-CAI-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+EG-CAI-BO1,RK-EG-CAI-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+EG-CAI-BO1,RK-EG-CAI-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+EG-CAI-BO1,RK-EG-CAI-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+ZA-JNB-DC1,RK-ZA-JNB-DC1-SRV-01,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+ZA-JNB-DC1,RK-ZA-JNB-DC1-SRV-02,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+ZA-JNB-DC1,RK-ZA-JNB-DC1-SRV-03,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+ZA-JNB-DC1,RK-ZA-JNB-DC1-SRV-04,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+ZA-JNB-DC1,RK-ZA-JNB-DC1-CORE-01,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+ZA-JNB-DC1,RK-ZA-JNB-DC1-CORE-02,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+ZA-JNB-DC1,RK-ZA-JNB-DC1-NET-01,active,Meet-Me Room (MMR),IT Operations,Core Networking,Net-Access N-Type
+ZA-JNB-DC1,RK-ZA-JNB-DC1-STG-01,active,Staging Area,IT Operations,Staging,Net-Access S-Type
+NG-LOS-BO1,RK-NG-LOS-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+NG-LOS-BO1,RK-NG-LOS-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+NG-LOS-BO1,RK-NG-LOS-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+NG-LOS-BO1,RK-NG-LOS-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+KE-NBO-BO1,RK-KE-NBO-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+KE-NBO-BO1,RK-KE-NBO-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+KE-NBO-BO1,RK-KE-NBO-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+KE-NBO-BO1,RK-KE-NBO-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+HK-HKG-DC1,RK-HK-HKG-DC1-SRV-01,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+HK-HKG-DC1,RK-HK-HKG-DC1-SRV-02,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+HK-HKG-DC1,RK-HK-HKG-DC1-SRV-03,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+HK-HKG-DC1,RK-HK-HKG-DC1-SRV-04,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+HK-HKG-DC1,RK-HK-HKG-DC1-CORE-01,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+HK-HKG-DC1,RK-HK-HKG-DC1-CORE-02,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+HK-HKG-DC1,RK-HK-HKG-DC1-NET-01,active,Meet-Me Room (MMR),IT Operations,Core Networking,Net-Access N-Type
+HK-HKG-DC1,RK-HK-HKG-DC1-STG-01,active,Staging Area,IT Operations,Staging,Net-Access S-Type
+HK-HKG-BO1,RK-HK-HKG-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+HK-HKG-BO1,RK-HK-HKG-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+HK-HKG-BO1,RK-HK-HKG-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+HK-HKG-BO1,RK-HK-HKG-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CN-SHA-BO1,RK-CN-SHA-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CN-SHA-BO1,RK-CN-SHA-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CN-SHA-BO1,RK-CN-SHA-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CN-SHA-BO1,RK-CN-SHA-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+CN-BEJ-BO1,RK-CN-BEJ-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+CN-BEJ-BO1,RK-CN-BEJ-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+CN-BEJ-BO1,RK-CN-BEJ-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+CN-BEJ-BO1,RK-CN-BEJ-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+TW-TPE-BO1,RK-TW-TPE-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+TW-TPE-BO1,RK-TW-TPE-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+TW-TPE-BO1,RK-TW-TPE-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+TW-TPE-BO1,RK-TW-TPE-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+TH-BKK-BO1,RK-TH-BKK-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+TH-BKK-BO1,RK-TH-BKK-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+TH-BKK-BO1,RK-TH-BKK-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+TH-BKK-BO1,RK-TH-BKK-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+ID-JKT-BO1,RK-ID-JKT-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+ID-JKT-BO1,RK-ID-JKT-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+ID-JKT-BO1,RK-ID-JKT-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+ID-JKT-BO1,RK-ID-JKT-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+PH-MNL-BO1,RK-PH-MNL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+PH-MNL-BO1,RK-PH-MNL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+PH-MNL-BO1,RK-PH-MNL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+PH-MNL-BO1,RK-PH-MNL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+VN-HAN-BO1,RK-VN-HAN-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+VN-HAN-BO1,RK-VN-HAN-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+VN-HAN-BO1,RK-VN-HAN-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+VN-HAN-BO1,RK-VN-HAN-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+JP-TYO-DC1,RK-JP-TYO-DC1-SRV-01,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+JP-TYO-DC1,RK-JP-TYO-DC1-SRV-02,active,Data Hall 01,IT Operations,Compute,NetShelter SX
+JP-TYO-DC1,RK-JP-TYO-DC1-SRV-03,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+JP-TYO-DC1,RK-JP-TYO-DC1-SRV-04,active,Data Hall 02,IT Operations,Compute,NetShelter SX
+JP-TYO-DC1,RK-JP-TYO-DC1-CORE-01,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+JP-TYO-DC1,RK-JP-TYO-DC1-CORE-02,active,MDF - Network Room,IT Operations,Core Networking,Net-Access N-Type
+JP-TYO-DC1,RK-JP-TYO-DC1-NET-01,active,Meet-Me Room (MMR),IT Operations,Core Networking,Net-Access N-Type
+JP-TYO-DC1,RK-JP-TYO-DC1-STG-01,active,Staging Area,IT Operations,Staging,Net-Access S-Type
+JP-TYO-BO1,RK-JP-TYO-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+JP-TYO-BO1,RK-JP-TYO-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+JP-TYO-BO1,RK-JP-TYO-BO1-ACC-02,active,IDF 02 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+JP-TYO-BO1,RK-JP-TYO-BO1-ACC-03,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+JP-TYO-BO1,RK-JP-TYO-BO1-ACC-04,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+JP-TYO-BO1,RK-JP-TYO-BO1-ACC-05,active,Floor 03,IT Operations,Edge/Access,NetShelter Wallmount
+JP-OSA-BO1,RK-JP-OSA-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+JP-OSA-BO1,RK-JP-OSA-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+JP-OSA-BO1,RK-JP-OSA-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+JP-OSA-BO1,RK-JP-OSA-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+KR-SEL-BO1,RK-KR-SEL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+KR-SEL-BO1,RK-KR-SEL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+KR-SEL-BO1,RK-KR-SEL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+KR-SEL-BO1,RK-KR-SEL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IN-DEL-BO1,RK-IN-DEL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IN-DEL-BO1,RK-IN-DEL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IN-DEL-BO1,RK-IN-DEL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IN-DEL-BO1,RK-IN-DEL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IN-HYD-BO1,RK-IN-HYD-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IN-HYD-BO1,RK-IN-HYD-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IN-HYD-BO1,RK-IN-HYD-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IN-HYD-BO1,RK-IN-HYD-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IN-CHE-BO1,RK-IN-CHE-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IN-CHE-BO1,RK-IN-CHE-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IN-CHE-BO1,RK-IN-CHE-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IN-CHE-BO1,RK-IN-CHE-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+IN-PUN-BO1,RK-IN-PUN-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+IN-PUN-BO1,RK-IN-PUN-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+IN-PUN-BO1,RK-IN-PUN-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+IN-PUN-BO1,RK-IN-PUN-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+PK-KHI-BO1,RK-PK-KHI-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+PK-KHI-BO1,RK-PK-KHI-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+PK-KHI-BO1,RK-PK-KHI-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+PK-KHI-BO1,RK-PK-KHI-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount
+NZ-AKL-BO1,RK-NZ-AKL-BO1-SRV-01,active,MDF - Server Room,IT Operations,Compute,NetShelter SX
+NZ-AKL-BO1,RK-NZ-AKL-BO1-ACC-01,active,IDF 01 - Network Closet,IT Operations,Edge/Access,NetShelter Wallmount
+NZ-AKL-BO1,RK-NZ-AKL-BO1-ACC-02,active,Floor 01,IT Operations,Edge/Access,NetShelter Wallmount
+NZ-AKL-BO1,RK-NZ-AKL-BO1-ACC-03,active,Floor 02,IT Operations,Edge/Access,NetShelter Wallmount

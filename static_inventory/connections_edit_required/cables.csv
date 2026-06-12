@@ -1,0 +1,12 @@
+side_a_device,side_a_type,side_a_name,side_a_site,side_b_device,side_b_type,side_b_name,side_b_site,type,status,color,length,length_unit,description
+AU-SYD-DC1-SPINE-01,dcim.interface,Ethernet1/1,AU-SYD-DC1,AU-SYD-DC1-LEAF-01,dcim.interface,Ethernet1/49,AU-SYD-DC1,smf-os2,connected,4caf50,15,m,Spine to Leaf - Primary Uplink
+AU-SYD-DC1-SPINE-01,dcim.interface,Ethernet1/2,AU-SYD-DC1,AU-SYD-DC1-LEAF-01,dcim.interface,Ethernet1/50,AU-SYD-DC1,smf-os2,connected,4caf50,15,m,Spine to Leaf - Secondary Uplink
+AU-SYD-DC1-SPINE-01,dcim.interface,Ethernet1/3,AU-SYD-DC1,AU-SYD-DC1-BORDER-01,dcim.interface,Ethernet1/1,AU-SYD-DC1,smf-os2,connected,2196f3,10,m,Spine to Border Leaf - Primary
+AU-SYD-DC1-SPINE-01,dcim.interface,Ethernet1/4,AU-SYD-DC1,AU-SYD-DC1-BORDER-01,dcim.interface,Ethernet1/2,AU-SYD-DC1,smf-os2,connected,2196f3,10,m,Spine to Border Leaf - Secondary
+AU-SYD-DC1-CORE-01,dcim.interface,TenGigabitEthernet1/0/1,AU-SYD-DC1,AU-SYD-DC1-BORDER-01,dcim.interface,Ethernet1/3,AU-SYD-DC1,mmf-om4,connected,ff9800,8,m,Core to Border Leaf - L3 Interconnect Primary
+AU-SYD-DC1-CORE-01,dcim.interface,TenGigabitEthernet1/0/2,AU-SYD-DC1,AU-SYD-DC1-BORDER-01,dcim.interface,Ethernet1/4,AU-SYD-DC1,mmf-om4,connected,ff9800,8,m,Core to Border Leaf - L3 Interconnect Secondary
+AU-SYD-DC1-CORE-01,dcim.interface,TenGigabitEthernet1/0/3,AU-SYD-DC1,AU-SYD-DC1-ACC-01,dcim.interface,GigabitEthernet1/0/47,AU-SYD-DC1,cat6a,connected,9c27b0,25,m,Core to Access Switch - Uplink Primary
+AU-SYD-DC1-CORE-01,dcim.interface,TenGigabitEthernet1/0/4,AU-SYD-DC1,AU-SYD-DC1-ACC-01,dcim.interface,GigabitEthernet1/0/48,AU-SYD-DC1,cat6a,connected,9c27b0,25,m,Core to Access Switch - Uplink Secondary
+AU-SYD-DC1-CORE-01,dcim.interface,TenGigabitEthernet1/0/5,AU-SYD-DC1,AU-SYD-DC1-SPINE-01,dcim.interface,Ethernet1/5,AU-SYD-DC1,mmf-om4,connected,607d8b,5,m,Core to Spine - Campus to DC Interconnect Primary
+AU-SYD-DC1-CORE-01,dcim.interface,TenGigabitEthernet1/0/6,AU-SYD-DC1,AU-SYD-DC1-SPINE-01,dcim.interface,Ethernet1/6,AU-SYD-DC1,mmf-om4,connected,607d8b,5,m,Core to Spine - Campus to DC Interconnect Secondary
+AU-SYD-DC1-LEAF-01,dcim.interface,Ethernet1/47,AU-SYD-DC1,AU-SYD-DC1-BORDER-01,dcim.interface,Ethernet1/5,AU-SYD-DC1,smf-os2,connected,00bcd4,12,m,Leaf to Border Leaf - Backup Path

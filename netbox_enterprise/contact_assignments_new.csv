@@ -1,0 +1,125 @@
+object_type,object_name,contact,role,priority
+site,US-CHI-DC1,Ariadne Moore,Technical Lead,primary
+site,US-CHI-DC1,Finnian O'Shea,Operations Center (NOC),secondary
+site,US-CHI-DC1,Lydia Sterling,Facilities Manager,primary
+site,US-LAX-BO1,Aurelia Glass,Technical Lead,primary
+site,US-LAX-BO1,Kenji Sato,Operations Center (NOC),secondary
+site,US-DAL-BO1,Beatrix Potter,Technical Lead,primary
+site,US-DAL-BO1,Lysandra Vane,Operations Center (NOC),secondary
+site,US-ATL-BO1,Celia Vora,Technical Lead,primary
+site,US-ATL-BO1,Sabina Glass,Operations Center (NOC),secondary
+site,US-SEA-BO1,Dante Moretti,Technical Lead,primary
+site,US-SEA-BO1,Atticus Thorne,Operations Center (NOC),secondary
+site,US-MIA-BO1,Elias Thorne,Technical Lead,primary
+site,US-MIA-BO1,Bram Stoker,Operations Center (NOC),secondary
+site,US-DEN-BO1,Felix Vane,Technical Lead,primary
+site,US-DEN-BO1,Calliope Glass,Operations Center (NOC),secondary
+site,US-BOS-BO1,Gideon Cross,Technical Lead,primary
+site,US-BOS-BO1,Elias Thorne,Operations Center (NOC),secondary
+site,US-HOU-BO1,Hugo Belmonte,Technical Lead,primary
+site,US-HOU-BO1,Lachlan Moore,Operations Center (NOC),secondary
+site,US-PHX-BO1,Isla McAllister,Technical Lead,primary
+site,US-PHX-BO1,Rafael Costa,Operations Center (NOC),secondary
+site,CA-VAN-BO1,Jasper Hale,Technical Lead,primary
+site,CA-VAN-BO1,Sia Sharma,Operations Center (NOC),secondary
+site,CA-MTL-BO1,Kaito Tanaka,Technical Lead,primary
+site,CA-MTL-BO1,Silas Vane,Operations Center (NOC),secondary
+site,MX-MEX-BO1,Leander Glass,Technical Lead,primary
+site,MX-MEX-BO1,Finnian O'Shea,Operations Center (NOC),secondary
+site,BR-RIO-BO1,Mira Kalu,Technical Lead,primary
+site,BR-RIO-BO1,Kenji Sato,Operations Center (NOC),secondary
+site,CO-BOG-BO1,Nora Whitlock,Technical Lead,primary
+site,CO-BOG-BO1,Lysandra Vane,Operations Center (NOC),secondary
+site,AR-BUE-BO1,Osiris Vance,Technical Lead,primary
+site,AR-BUE-BO1,Sabina Glass,Operations Center (NOC),secondary
+site,CL-SCL-BO1,Phoebe Glass,Technical Lead,primary
+site,CL-SCL-BO1,Atticus Thorne,Operations Center (NOC),secondary
+site,PE-LIM-BO1,Quintus Vane,Technical Lead,primary
+site,PE-LIM-BO1,Bram Stoker,Operations Center (NOC),secondary
+site,FR-PAR-DC1,Ronan Vance,Technical Lead,primary
+site,FR-PAR-DC1,Calliope Glass,Operations Center (NOC),secondary
+site,FR-PAR-DC1,Drusilla Glass,Facilities Manager,primary
+site,FR-PAR-BO1,Stellan Vance,Technical Lead,primary
+site,FR-PAR-BO1,Elias Thorne,Operations Center (NOC),secondary
+site,DE-MUC-BO1,Thalia Sterling,Technical Lead,primary
+site,DE-MUC-BO1,Lachlan Moore,Operations Center (NOC),secondary
+site,DE-FRA-BO1,Valerius Thorne,Technical Lead,primary
+site,DE-FRA-BO1,Rafael Costa,Operations Center (NOC),secondary
+site,ES-MAD-BO1,Xenia Vance,Technical Lead,primary
+site,ES-MAD-BO1,Sia Sharma,Operations Center (NOC),secondary
+site,IT-MIL-BO1,Ariadne Moore,Technical Lead,primary
+site,IT-MIL-BO1,Silas Vane,Operations Center (NOC),secondary
+site,IT-ROM-BO1,Aurelia Glass,Technical Lead,primary
+site,IT-ROM-BO1,Finnian O'Shea,Operations Center (NOC),secondary
+site,CH-ZRH-BO1,Beatrix Potter,Technical Lead,primary
+site,CH-ZRH-BO1,Kenji Sato,Operations Center (NOC),secondary
+site,IE-DUB-BO1,Celia Vora,Technical Lead,primary
+site,IE-DUB-BO1,Lysandra Vane,Operations Center (NOC),secondary
+site,BE-BRU-BO1,Dante Moretti,Technical Lead,primary
+site,BE-BRU-BO1,Sabina Glass,Operations Center (NOC),secondary
+site,AT-VIE-BO1,Elias Thorne,Technical Lead,primary
+site,AT-VIE-BO1,Atticus Thorne,Operations Center (NOC),secondary
+site,PT-LIS-BO1,Felix Vane,Technical Lead,primary
+site,PT-LIS-BO1,Bram Stoker,Operations Center (NOC),secondary
+site,SE-STO-BO1,Gideon Cross,Technical Lead,primary
+site,SE-STO-BO1,Calliope Glass,Operations Center (NOC),secondary
+site,PL-WAW-BO1,Hugo Belmonte,Technical Lead,primary
+site,PL-WAW-BO1,Elias Thorne,Operations Center (NOC),secondary
+site,NO-OSL-BO1,Isla McAllister,Technical Lead,primary
+site,NO-OSL-BO1,Lachlan Moore,Operations Center (NOC),secondary
+site,AE-DXB-DC1,Jasper Hale,Technical Lead,primary
+site,AE-DXB-DC1,Rafael Costa,Operations Center (NOC),secondary
+site,AE-DXB-DC1,Ophelia Thorne,Facilities Manager,primary
+site,AE-DXB-BO1,Kaito Tanaka,Technical Lead,primary
+site,AE-DXB-BO1,Sia Sharma,Operations Center (NOC),secondary
+site,SA-RUH-BO1,Leander Glass,Technical Lead,primary
+site,SA-RUH-BO1,Silas Vane,Operations Center (NOC),secondary
+site,EG-CAI-BO1,Mira Kalu,Technical Lead,primary
+site,EG-CAI-BO1,Finnian O'Shea,Operations Center (NOC),secondary
+site,ZA-JNB-DC1,Nora Whitlock,Technical Lead,primary
+site,ZA-JNB-DC1,Kenji Sato,Operations Center (NOC),secondary
+site,ZA-JNB-DC1,Ophelia Thorne,Facilities Manager,primary
+site,NG-LOS-BO1,Osiris Vance,Technical Lead,primary
+site,NG-LOS-BO1,Lysandra Vane,Operations Center (NOC),secondary
+site,KE-NBO-BO1,Phoebe Glass,Technical Lead,primary
+site,KE-NBO-BO1,Sabina Glass,Operations Center (NOC),secondary
+site,HK-HKG-DC1,Quintus Vane,Technical Lead,primary
+site,HK-HKG-DC1,Atticus Thorne,Operations Center (NOC),secondary
+site,HK-HKG-DC1,Freya Nilsen,Facilities Manager,primary
+site,HK-HKG-BO1,Ronan Vance,Technical Lead,primary
+site,HK-HKG-BO1,Bram Stoker,Operations Center (NOC),secondary
+site,CN-SHA-BO1,Stellan Vance,Technical Lead,primary
+site,CN-SHA-BO1,Calliope Glass,Operations Center (NOC),secondary
+site,CN-BEJ-BO1,Thalia Sterling,Technical Lead,primary
+site,CN-BEJ-BO1,Elias Thorne,Operations Center (NOC),secondary
+site,TW-TPE-BO1,Valerius Thorne,Technical Lead,primary
+site,TW-TPE-BO1,Lachlan Moore,Operations Center (NOC),secondary
+site,TH-BKK-BO1,Xenia Vance,Technical Lead,primary
+site,TH-BKK-BO1,Rafael Costa,Operations Center (NOC),secondary
+site,ID-JKT-BO1,Ariadne Moore,Technical Lead,primary
+site,ID-JKT-BO1,Sia Sharma,Operations Center (NOC),secondary
+site,PH-MNL-BO1,Aurelia Glass,Technical Lead,primary
+site,PH-MNL-BO1,Silas Vane,Operations Center (NOC),secondary
+site,VN-HAN-BO1,Beatrix Potter,Technical Lead,primary
+site,VN-HAN-BO1,Finnian O'Shea,Operations Center (NOC),secondary
+site,JP-TYO-DC1,Celia Vora,Technical Lead,primary
+site,JP-TYO-DC1,Kenji Sato,Operations Center (NOC),secondary
+site,JP-TYO-DC1,Freya Nilsen,Facilities Manager,primary
+site,JP-TYO-BO1,Dante Moretti,Technical Lead,primary
+site,JP-TYO-BO1,Lysandra Vane,Operations Center (NOC),secondary
+site,JP-OSA-BO1,Elias Thorne,Technical Lead,primary
+site,JP-OSA-BO1,Sabina Glass,Operations Center (NOC),secondary
+site,KR-SEL-BO1,Felix Vane,Technical Lead,primary
+site,KR-SEL-BO1,Atticus Thorne,Operations Center (NOC),secondary
+site,IN-DEL-BO1,Gideon Cross,Technical Lead,primary
+site,IN-DEL-BO1,Bram Stoker,Operations Center (NOC),secondary
+site,IN-HYD-BO1,Hugo Belmonte,Technical Lead,primary
+site,IN-HYD-BO1,Calliope Glass,Operations Center (NOC),secondary
+site,IN-CHE-BO1,Isla McAllister,Technical Lead,primary
+site,IN-CHE-BO1,Elias Thorne,Operations Center (NOC),secondary
+site,IN-PUN-BO1,Jasper Hale,Technical Lead,primary
+site,IN-PUN-BO1,Lachlan Moore,Operations Center (NOC),secondary
+site,PK-KHI-BO1,Kaito Tanaka,Technical Lead,primary
+site,PK-KHI-BO1,Rafael Costa,Operations Center (NOC),secondary
+site,NZ-AKL-BO1,Leander Glass,Technical Lead,primary
+site,NZ-AKL-BO1,Sia Sharma,Operations Center (NOC),secondary

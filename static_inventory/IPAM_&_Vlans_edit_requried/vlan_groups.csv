@@ -1,0 +1,4 @@
+name,slug,description
+Branch-Office,branch-office,Standard Branch Office Template
+HQ-Office,hq-office,Headquarters Campus
+HQ-Servers,hq-servers,Servers VLAN Group

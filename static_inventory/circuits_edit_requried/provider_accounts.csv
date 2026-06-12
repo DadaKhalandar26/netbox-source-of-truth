@@ -1,0 +1,7 @@
+name,account,provider,description
+ATT-US-CORP,ACCT-992831,AT&T,Main US Corporate Account
+AIR-IND-ENT,ENT-IND-4421,Airtel,India Enterprise Services
+BT-EMEA-OFFICE,BT-UK-8821,British Telecom,UK/EU Office Accounts
+SINGTEL-SG-DC,SG-DC-1102,Singtel,Singapore Data Center Account
+TELSTRA-AU-DC,AU-SYD-0222,Telstra,Sydney Data Center Account
+LUMEN-AWS-CC,US-NYC-4570,Lumen,Main US Corporate Account

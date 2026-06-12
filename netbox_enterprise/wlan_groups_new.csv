@@ -1,0 +1,10 @@
+name,slug,description
+AMER-Corporate-WLAN,amer-corp-wlan,Americas corporate wireless networks
+AMER-Guest-WLAN,amer-guest-wlan,Americas guest wireless – internet-only isolation
+AMER-IoT-WLAN,amer-iot-wlan,Americas IoT and building automation networks
+EMEA-Corporate-WLAN,emea-corp-wlan,EMEA corporate wireless networks
+EMEA-Guest-WLAN,emea-guest-wlan,EMEA guest wireless – internet-only isolation
+EMEA-IoT-WLAN,emea-iot-wlan,EMEA IoT and building automation networks
+APAC-Corporate-WLAN,apac-corp-wlan,APAC corporate wireless networks
+APAC-Guest-WLAN,apac-guest-wlan,APAC guest wireless – internet-only isolation
+APAC-IoT-WLAN,apac-iot-wlan,APAC IoT and building automation networks

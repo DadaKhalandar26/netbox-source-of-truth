@@ -1,0 +1,25 @@
+name,site,location,power_panel,status,type,supply,phase,voltage,amperage,max_utilization,rack,description
+US-CHI-DC1-FEED-A-CORE-01,US-CHI-DC1,MDF - Network Room,US-CHI-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-US-CHI-DC1-CORE-01,Primary feed to RK-US-CHI-DC1-CORE-01
+US-CHI-DC1-FEED-B-CORE-01,US-CHI-DC1,MDF - Network Room,US-CHI-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-US-CHI-DC1-CORE-01,Redundant feed to RK-US-CHI-DC1-CORE-01
+US-CHI-DC1-FEED-A-CORE-02,US-CHI-DC1,MDF - Network Room,US-CHI-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-US-CHI-DC1-CORE-02,Primary feed to RK-US-CHI-DC1-CORE-02
+US-CHI-DC1-FEED-B-CORE-02,US-CHI-DC1,MDF - Network Room,US-CHI-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-US-CHI-DC1-CORE-02,Redundant feed to RK-US-CHI-DC1-CORE-02
+FR-PAR-DC1-FEED-A-CORE-01,FR-PAR-DC1,MDF - Network Room,FR-PAR-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-FR-PAR-DC1-CORE-01,Primary feed to RK-FR-PAR-DC1-CORE-01
+FR-PAR-DC1-FEED-B-CORE-01,FR-PAR-DC1,MDF - Network Room,FR-PAR-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-FR-PAR-DC1-CORE-01,Redundant feed to RK-FR-PAR-DC1-CORE-01
+FR-PAR-DC1-FEED-A-CORE-02,FR-PAR-DC1,MDF - Network Room,FR-PAR-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-FR-PAR-DC1-CORE-02,Primary feed to RK-FR-PAR-DC1-CORE-02
+FR-PAR-DC1-FEED-B-CORE-02,FR-PAR-DC1,MDF - Network Room,FR-PAR-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-FR-PAR-DC1-CORE-02,Redundant feed to RK-FR-PAR-DC1-CORE-02
+AE-DXB-DC1-FEED-A-CORE-01,AE-DXB-DC1,MDF - Network Room,AE-DXB-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-AE-DXB-DC1-CORE-01,Primary feed to RK-AE-DXB-DC1-CORE-01
+AE-DXB-DC1-FEED-B-CORE-01,AE-DXB-DC1,MDF - Network Room,AE-DXB-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-AE-DXB-DC1-CORE-01,Redundant feed to RK-AE-DXB-DC1-CORE-01
+AE-DXB-DC1-FEED-A-CORE-02,AE-DXB-DC1,MDF - Network Room,AE-DXB-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-AE-DXB-DC1-CORE-02,Primary feed to RK-AE-DXB-DC1-CORE-02
+AE-DXB-DC1-FEED-B-CORE-02,AE-DXB-DC1,MDF - Network Room,AE-DXB-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-AE-DXB-DC1-CORE-02,Redundant feed to RK-AE-DXB-DC1-CORE-02
+ZA-JNB-DC1-FEED-A-CORE-01,ZA-JNB-DC1,MDF - Network Room,ZA-JNB-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-ZA-JNB-DC1-CORE-01,Primary feed to RK-ZA-JNB-DC1-CORE-01
+ZA-JNB-DC1-FEED-B-CORE-01,ZA-JNB-DC1,MDF - Network Room,ZA-JNB-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-ZA-JNB-DC1-CORE-01,Redundant feed to RK-ZA-JNB-DC1-CORE-01
+ZA-JNB-DC1-FEED-A-CORE-02,ZA-JNB-DC1,MDF - Network Room,ZA-JNB-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-ZA-JNB-DC1-CORE-02,Primary feed to RK-ZA-JNB-DC1-CORE-02
+ZA-JNB-DC1-FEED-B-CORE-02,ZA-JNB-DC1,MDF - Network Room,ZA-JNB-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-ZA-JNB-DC1-CORE-02,Redundant feed to RK-ZA-JNB-DC1-CORE-02
+HK-HKG-DC1-FEED-A-CORE-01,HK-HKG-DC1,MDF - Network Room,HK-HKG-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-HK-HKG-DC1-CORE-01,Primary feed to RK-HK-HKG-DC1-CORE-01
+HK-HKG-DC1-FEED-B-CORE-01,HK-HKG-DC1,MDF - Network Room,HK-HKG-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-HK-HKG-DC1-CORE-01,Redundant feed to RK-HK-HKG-DC1-CORE-01
+HK-HKG-DC1-FEED-A-CORE-02,HK-HKG-DC1,MDF - Network Room,HK-HKG-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-HK-HKG-DC1-CORE-02,Primary feed to RK-HK-HKG-DC1-CORE-02
+HK-HKG-DC1-FEED-B-CORE-02,HK-HKG-DC1,MDF - Network Room,HK-HKG-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-HK-HKG-DC1-CORE-02,Redundant feed to RK-HK-HKG-DC1-CORE-02
+JP-TYO-DC1-FEED-A-CORE-01,JP-TYO-DC1,MDF - Network Room,JP-TYO-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-JP-TYO-DC1-CORE-01,Primary feed to RK-JP-TYO-DC1-CORE-01
+JP-TYO-DC1-FEED-B-CORE-01,JP-TYO-DC1,MDF - Network Room,JP-TYO-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-JP-TYO-DC1-CORE-01,Redundant feed to RK-JP-TYO-DC1-CORE-01
+JP-TYO-DC1-FEED-A-CORE-02,JP-TYO-DC1,MDF - Network Room,JP-TYO-DC1-PWR-PANEL-A,active,primary,ac,three-phase,208,30,80,RK-JP-TYO-DC1-CORE-02,Primary feed to RK-JP-TYO-DC1-CORE-02
+JP-TYO-DC1-FEED-B-CORE-02,JP-TYO-DC1,MDF - Network Room,JP-TYO-DC1-PWR-PANEL-B,active,redundant,ac,three-phase,208,30,80,RK-JP-TYO-DC1-CORE-02,Redundant feed to RK-JP-TYO-DC1-CORE-02

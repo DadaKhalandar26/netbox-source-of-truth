@@ -1,0 +1,363 @@
+prefix,vrf,status,scope_type,scope_id,vlan,description
+10.1.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-CHI-DC1
+10.1.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-CHI-DC1
+10.1.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-CHI-DC1
+10.1.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-CHI-DC1
+10.1.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-CHI-DC1
+172.17.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-CHI-DC1
+10.1.51.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – US-CHI-DC1
+10.1.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-LAX-BO1
+10.1.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-LAX-BO1
+10.1.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-LAX-BO1
+10.1.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-LAX-BO1
+10.1.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-LAX-BO1
+172.17.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-LAX-BO1
+10.1.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-DAL-BO1
+10.1.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-DAL-BO1
+10.1.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-DAL-BO1
+10.1.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-DAL-BO1
+10.1.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-DAL-BO1
+172.17.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-DAL-BO1
+10.1.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-ATL-BO1
+10.1.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-ATL-BO1
+10.1.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-ATL-BO1
+10.1.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-ATL-BO1
+10.1.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-ATL-BO1
+172.17.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-ATL-BO1
+10.1.5.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-SEA-BO1
+10.1.105.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-SEA-BO1
+10.1.155.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-SEA-BO1
+10.1.175.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-SEA-BO1
+10.1.205.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-SEA-BO1
+172.17.5.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-SEA-BO1
+10.1.6.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-MIA-BO1
+10.1.106.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-MIA-BO1
+10.1.156.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-MIA-BO1
+10.1.176.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-MIA-BO1
+10.1.206.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-MIA-BO1
+172.17.6.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-MIA-BO1
+10.1.7.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-DEN-BO1
+10.1.107.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-DEN-BO1
+10.1.157.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-DEN-BO1
+10.1.177.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-DEN-BO1
+10.1.207.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-DEN-BO1
+172.17.7.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-DEN-BO1
+10.1.8.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-BOS-BO1
+10.1.108.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-BOS-BO1
+10.1.158.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-BOS-BO1
+10.1.178.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-BOS-BO1
+10.1.208.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-BOS-BO1
+172.17.8.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-BOS-BO1
+10.1.9.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-HOU-BO1
+10.1.109.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-HOU-BO1
+10.1.159.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-HOU-BO1
+10.1.179.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-HOU-BO1
+10.1.209.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-HOU-BO1
+172.17.9.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-HOU-BO1
+10.1.10.0/24,CORP-VRF,active,dcim.site,,10,Device Management – US-PHX-BO1
+10.1.110.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – US-PHX-BO1
+10.1.160.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – US-PHX-BO1
+10.1.180.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – US-PHX-BO1
+10.1.210.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – US-PHX-BO1
+172.17.10.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – US-PHX-BO1
+10.2.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CA-VAN-BO1
+10.2.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CA-VAN-BO1
+10.2.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CA-VAN-BO1
+10.2.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CA-VAN-BO1
+10.2.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CA-VAN-BO1
+172.18.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CA-VAN-BO1
+10.2.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CA-MTL-BO1
+10.2.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CA-MTL-BO1
+10.2.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CA-MTL-BO1
+10.2.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CA-MTL-BO1
+10.2.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CA-MTL-BO1
+172.18.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CA-MTL-BO1
+10.2.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – MX-MEX-BO1
+10.2.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – MX-MEX-BO1
+10.2.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – MX-MEX-BO1
+10.2.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – MX-MEX-BO1
+10.2.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – MX-MEX-BO1
+172.18.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – MX-MEX-BO1
+10.3.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – BR-RIO-BO1
+10.3.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – BR-RIO-BO1
+10.3.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – BR-RIO-BO1
+10.3.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – BR-RIO-BO1
+10.3.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – BR-RIO-BO1
+172.19.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – BR-RIO-BO1
+10.3.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CO-BOG-BO1
+10.3.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CO-BOG-BO1
+10.3.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CO-BOG-BO1
+10.3.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CO-BOG-BO1
+10.3.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CO-BOG-BO1
+172.19.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CO-BOG-BO1
+10.3.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – AR-BUE-BO1
+10.3.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – AR-BUE-BO1
+10.3.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – AR-BUE-BO1
+10.3.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – AR-BUE-BO1
+10.3.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – AR-BUE-BO1
+172.19.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – AR-BUE-BO1
+10.3.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CL-SCL-BO1
+10.3.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CL-SCL-BO1
+10.3.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CL-SCL-BO1
+10.3.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CL-SCL-BO1
+10.3.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CL-SCL-BO1
+172.19.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CL-SCL-BO1
+10.3.5.0/24,CORP-VRF,active,dcim.site,,10,Device Management – PE-LIM-BO1
+10.3.105.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – PE-LIM-BO1
+10.3.155.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – PE-LIM-BO1
+10.3.175.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – PE-LIM-BO1
+10.3.205.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – PE-LIM-BO1
+172.19.5.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – PE-LIM-BO1
+10.4.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – FR-PAR-DC1
+10.4.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – FR-PAR-DC1
+10.4.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – FR-PAR-DC1
+10.4.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – FR-PAR-DC1
+10.4.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – FR-PAR-DC1
+172.20.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – FR-PAR-DC1
+10.4.51.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – FR-PAR-DC1
+10.4.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – FR-PAR-BO1
+10.4.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – FR-PAR-BO1
+10.4.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – FR-PAR-BO1
+10.4.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – FR-PAR-BO1
+10.4.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – FR-PAR-BO1
+172.20.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – FR-PAR-BO1
+10.4.52.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – FR-PAR-BO1
+10.4.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – DE-MUC-BO1
+10.4.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – DE-MUC-BO1
+10.4.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – DE-MUC-BO1
+10.4.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – DE-MUC-BO1
+10.4.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – DE-MUC-BO1
+172.20.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – DE-MUC-BO1
+10.4.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – DE-FRA-BO1
+10.4.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – DE-FRA-BO1
+10.4.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – DE-FRA-BO1
+10.4.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – DE-FRA-BO1
+10.4.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – DE-FRA-BO1
+172.20.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – DE-FRA-BO1
+10.4.5.0/24,CORP-VRF,active,dcim.site,,10,Device Management – ES-MAD-BO1
+10.4.105.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – ES-MAD-BO1
+10.4.155.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – ES-MAD-BO1
+10.4.175.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – ES-MAD-BO1
+10.4.205.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – ES-MAD-BO1
+172.20.5.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – ES-MAD-BO1
+10.4.6.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IT-MIL-BO1
+10.4.106.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IT-MIL-BO1
+10.4.156.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IT-MIL-BO1
+10.4.176.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IT-MIL-BO1
+10.4.206.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IT-MIL-BO1
+172.20.6.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IT-MIL-BO1
+10.4.7.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IT-ROM-BO1
+10.4.107.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IT-ROM-BO1
+10.4.157.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IT-ROM-BO1
+10.4.177.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IT-ROM-BO1
+10.4.207.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IT-ROM-BO1
+172.20.7.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IT-ROM-BO1
+10.4.8.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CH-ZRH-BO1
+10.4.108.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CH-ZRH-BO1
+10.4.158.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CH-ZRH-BO1
+10.4.178.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CH-ZRH-BO1
+10.4.208.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CH-ZRH-BO1
+172.20.8.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CH-ZRH-BO1
+10.4.9.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IE-DUB-BO1
+10.4.109.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IE-DUB-BO1
+10.4.159.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IE-DUB-BO1
+10.4.179.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IE-DUB-BO1
+10.4.209.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IE-DUB-BO1
+172.20.9.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IE-DUB-BO1
+10.4.10.0/24,CORP-VRF,active,dcim.site,,10,Device Management – BE-BRU-BO1
+10.4.110.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – BE-BRU-BO1
+10.4.160.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – BE-BRU-BO1
+10.4.180.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – BE-BRU-BO1
+10.4.210.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – BE-BRU-BO1
+172.20.10.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – BE-BRU-BO1
+10.4.11.0/24,CORP-VRF,active,dcim.site,,10,Device Management – AT-VIE-BO1
+10.4.111.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – AT-VIE-BO1
+10.4.161.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – AT-VIE-BO1
+10.4.181.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – AT-VIE-BO1
+10.4.211.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – AT-VIE-BO1
+172.20.11.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – AT-VIE-BO1
+10.4.12.0/24,CORP-VRF,active,dcim.site,,10,Device Management – PT-LIS-BO1
+10.4.112.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – PT-LIS-BO1
+10.4.162.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – PT-LIS-BO1
+10.4.182.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – PT-LIS-BO1
+10.4.212.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – PT-LIS-BO1
+172.20.12.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – PT-LIS-BO1
+10.5.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – SE-STO-BO1
+10.5.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – SE-STO-BO1
+10.5.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – SE-STO-BO1
+10.5.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – SE-STO-BO1
+10.5.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – SE-STO-BO1
+172.21.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – SE-STO-BO1
+10.5.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – PL-WAW-BO1
+10.5.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – PL-WAW-BO1
+10.5.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – PL-WAW-BO1
+10.5.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – PL-WAW-BO1
+10.5.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – PL-WAW-BO1
+172.21.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – PL-WAW-BO1
+10.5.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – NO-OSL-BO1
+10.5.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – NO-OSL-BO1
+10.5.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – NO-OSL-BO1
+10.5.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – NO-OSL-BO1
+10.5.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – NO-OSL-BO1
+172.21.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – NO-OSL-BO1
+10.6.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – AE-DXB-DC1
+10.6.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – AE-DXB-DC1
+10.6.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – AE-DXB-DC1
+10.6.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – AE-DXB-DC1
+10.6.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – AE-DXB-DC1
+172.22.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – AE-DXB-DC1
+10.6.51.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – AE-DXB-DC1
+10.6.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – AE-DXB-BO1
+10.6.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – AE-DXB-BO1
+10.6.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – AE-DXB-BO1
+10.6.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – AE-DXB-BO1
+10.6.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – AE-DXB-BO1
+172.22.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – AE-DXB-BO1
+10.6.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – SA-RUH-BO1
+10.6.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – SA-RUH-BO1
+10.6.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – SA-RUH-BO1
+10.6.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – SA-RUH-BO1
+10.6.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – SA-RUH-BO1
+172.22.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – SA-RUH-BO1
+10.6.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – EG-CAI-BO1
+10.6.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – EG-CAI-BO1
+10.6.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – EG-CAI-BO1
+10.6.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – EG-CAI-BO1
+10.6.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – EG-CAI-BO1
+172.22.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – EG-CAI-BO1
+10.7.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – ZA-JNB-DC1
+10.7.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – ZA-JNB-DC1
+10.7.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – ZA-JNB-DC1
+10.7.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – ZA-JNB-DC1
+10.7.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – ZA-JNB-DC1
+172.23.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – ZA-JNB-DC1
+10.7.51.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – ZA-JNB-DC1
+10.7.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – NG-LOS-BO1
+10.7.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – NG-LOS-BO1
+10.7.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – NG-LOS-BO1
+10.7.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – NG-LOS-BO1
+10.7.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – NG-LOS-BO1
+172.23.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – NG-LOS-BO1
+10.7.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – KE-NBO-BO1
+10.7.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – KE-NBO-BO1
+10.7.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – KE-NBO-BO1
+10.7.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – KE-NBO-BO1
+10.7.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – KE-NBO-BO1
+172.23.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – KE-NBO-BO1
+10.8.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – HK-HKG-DC1
+10.8.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – HK-HKG-DC1
+10.8.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – HK-HKG-DC1
+10.8.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – HK-HKG-DC1
+10.8.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – HK-HKG-DC1
+172.24.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – HK-HKG-DC1
+10.8.51.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – HK-HKG-DC1
+10.8.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – HK-HKG-BO1
+10.8.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – HK-HKG-BO1
+10.8.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – HK-HKG-BO1
+10.8.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – HK-HKG-BO1
+10.8.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – HK-HKG-BO1
+172.24.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – HK-HKG-BO1
+10.8.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CN-SHA-BO1
+10.8.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CN-SHA-BO1
+10.8.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CN-SHA-BO1
+10.8.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CN-SHA-BO1
+10.8.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CN-SHA-BO1
+172.24.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CN-SHA-BO1
+10.8.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – CN-BEJ-BO1
+10.8.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – CN-BEJ-BO1
+10.8.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – CN-BEJ-BO1
+10.8.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – CN-BEJ-BO1
+10.8.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – CN-BEJ-BO1
+172.24.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – CN-BEJ-BO1
+10.8.5.0/24,CORP-VRF,active,dcim.site,,10,Device Management – TW-TPE-BO1
+10.8.105.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – TW-TPE-BO1
+10.8.155.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – TW-TPE-BO1
+10.8.175.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – TW-TPE-BO1
+10.8.205.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – TW-TPE-BO1
+172.24.5.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – TW-TPE-BO1
+10.9.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – TH-BKK-BO1
+10.9.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – TH-BKK-BO1
+10.9.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – TH-BKK-BO1
+10.9.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – TH-BKK-BO1
+10.9.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – TH-BKK-BO1
+172.25.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – TH-BKK-BO1
+10.9.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – ID-JKT-BO1
+10.9.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – ID-JKT-BO1
+10.9.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – ID-JKT-BO1
+10.9.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – ID-JKT-BO1
+10.9.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – ID-JKT-BO1
+172.25.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – ID-JKT-BO1
+10.9.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – PH-MNL-BO1
+10.9.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – PH-MNL-BO1
+10.9.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – PH-MNL-BO1
+10.9.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – PH-MNL-BO1
+10.9.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – PH-MNL-BO1
+172.25.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – PH-MNL-BO1
+10.9.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – VN-HAN-BO1
+10.9.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – VN-HAN-BO1
+10.9.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – VN-HAN-BO1
+10.9.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – VN-HAN-BO1
+10.9.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – VN-HAN-BO1
+172.25.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – VN-HAN-BO1
+10.11.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – JP-TYO-DC1
+10.11.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – JP-TYO-DC1
+10.11.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – JP-TYO-DC1
+10.11.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – JP-TYO-DC1
+10.11.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – JP-TYO-DC1
+172.27.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – JP-TYO-DC1
+10.11.51.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – JP-TYO-DC1
+10.11.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – JP-TYO-BO1
+10.11.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – JP-TYO-BO1
+10.11.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – JP-TYO-BO1
+10.11.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – JP-TYO-BO1
+10.11.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – JP-TYO-BO1
+172.27.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – JP-TYO-BO1
+10.11.52.0/24,CORP-VRF,active,dcim.site,,20,Servers / VMs – JP-TYO-BO1
+10.11.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – JP-OSA-BO1
+10.11.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – JP-OSA-BO1
+10.11.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – JP-OSA-BO1
+10.11.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – JP-OSA-BO1
+10.11.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – JP-OSA-BO1
+172.27.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – JP-OSA-BO1
+10.11.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – KR-SEL-BO1
+10.11.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – KR-SEL-BO1
+10.11.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – KR-SEL-BO1
+10.11.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – KR-SEL-BO1
+10.11.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – KR-SEL-BO1
+172.27.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – KR-SEL-BO1
+10.12.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IN-DEL-BO1
+10.12.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IN-DEL-BO1
+10.12.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IN-DEL-BO1
+10.12.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IN-DEL-BO1
+10.12.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IN-DEL-BO1
+172.28.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IN-DEL-BO1
+10.12.2.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IN-HYD-BO1
+10.12.102.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IN-HYD-BO1
+10.12.152.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IN-HYD-BO1
+10.12.172.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IN-HYD-BO1
+10.12.202.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IN-HYD-BO1
+172.28.2.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IN-HYD-BO1
+10.12.3.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IN-CHE-BO1
+10.12.103.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IN-CHE-BO1
+10.12.153.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IN-CHE-BO1
+10.12.173.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IN-CHE-BO1
+10.12.203.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IN-CHE-BO1
+172.28.3.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IN-CHE-BO1
+10.12.4.0/24,CORP-VRF,active,dcim.site,,10,Device Management – IN-PUN-BO1
+10.12.104.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – IN-PUN-BO1
+10.12.154.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – IN-PUN-BO1
+10.12.174.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – IN-PUN-BO1
+10.12.204.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – IN-PUN-BO1
+172.28.4.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – IN-PUN-BO1
+10.12.5.0/24,CORP-VRF,active,dcim.site,,10,Device Management – PK-KHI-BO1
+10.12.105.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – PK-KHI-BO1
+10.12.155.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – PK-KHI-BO1
+10.12.175.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – PK-KHI-BO1
+10.12.205.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – PK-KHI-BO1
+172.28.5.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – PK-KHI-BO1
+10.13.1.0/24,CORP-VRF,active,dcim.site,,10,Device Management – NZ-AKL-BO1
+10.13.101.0/24,CORP-VRF,active,dcim.site,,100,Corporate Users – NZ-AKL-BO1
+10.13.151.0/24,CORP-VRF,active,dcim.site,,110,VoIP / Telephony – NZ-AKL-BO1
+10.13.171.0/24,CORP-VRF,active,dcim.site,,120,Corporate Wireless – NZ-AKL-BO1
+10.13.201.0/24,CORP-VRF,active,dcim.site,,200,IoT / Smart Building – NZ-AKL-BO1
+172.29.1.0/24,GUEST-VRF,active,dcim.site,,1000,Guest WiFi – NZ-AKL-BO1

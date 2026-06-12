@@ -1,0 +1,2 @@
+side_a_device,side_a_type,side_a_name,side_a_site,side_b_device,side_b_type,side_b_name,side_b_site,type,status,color,length,length_unit,description
+CIR-5005-SYD,circuits.circuittermination,A,AU-SYD-DC1,AU-SYD-DC1-BORDER-01,dcim.interface,Ethernet1/54,AU-SYD-DC1,smf-os2,connected,2196f3,5,m,WAN Circuit to Border Leaf

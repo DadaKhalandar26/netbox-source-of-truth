@@ -1,0 +1,15 @@
+name,role,description,device_type,manufacturer,site,location,rack,status,platform,tenant,position,face
+AU-SYD-DC1-CORE-01,Core Switch,Sydney Core 01,Catalyst 9606R,Cisco,AU-SYD-DC1,MDF Room,RK-AU-SYD-DC1-CORE-01,active,Cisco IOS-XE,Internal,10,front
+AU-SYD-DC1-CORE-02,Core Switch,Sydney Core 02,Catalyst 9606R,Cisco,AU-SYD-DC1,MDF Room,RK-AU-SYD-DC1-CORE-02,active,Cisco IOS-XE,Internal,10,front
+AU-SYD-DC1-SPINE-01,Spine Switch,Sydney Spine 01,N9K-C9508,Cisco,AU-SYD-DC1,Data Hall 01,RK-AU-SYD-DC1-CMP-01,active,Cisco NX-OS,Internal,2,front
+AU-SYD-DC1-SPINE-02,Spine Switch,Sydney Spine 02,N9K-C9508,Cisco,AU-SYD-DC1,Data Hall 01,RK-AU-SYD-DC1-CMP-02,active,Cisco NX-OS,Internal,2,front
+AU-SYD-DC1-LEAF-01,Leaf Switch,Sydney Leaf 01,N9K-C93180YC-FX,Cisco,AU-SYD-DC1,Data Hall 01,RK-AU-SYD-DC1-CMP-01,active,Cisco NX-OS,Internal,20,front
+AU-SYD-DC1-LEAF-02,Leaf Switch,Sydney Leaf 02,N9K-C93180YC-FX,Cisco,AU-SYD-DC1,Data Hall 01,RK-AU-SYD-DC1-CMP-01,active,Cisco NX-OS,Internal,22,front
+AU-SYD-DC1-LEAF-03,Leaf Switch,Sydney Leaf 03,N9K-C93180YC-FX,Cisco,AU-SYD-DC1,Data Hall 01,RK-AU-SYD-DC1-CMP-02,active,Cisco NX-OS,Internal,20,front
+AU-SYD-DC1-LEAF-04,Leaf Switch,Sydney Leaf 04,N9K-C93180YC-FX,Cisco,AU-SYD-DC1,Data Hall 01,RK-AU-SYD-DC1-CMP-02,active,Cisco NX-OS,Internal,22,front
+AU-SYD-DC1-BL-01,Border Leaf,Sydney Border Leaf 01,N9K-C93180YC-FX,Cisco,AU-SYD-DC1,Data Hall 02,RK-AU-SYD-DC1-CMP-03,active,Cisco NX-OS,Internal,20,front
+AU-SYD-DC1-BL-02,Border Leaf,Sydney Border Leaf 02,N9K-C93180YC-FX,Cisco,AU-SYD-DC1,Data Hall 02,RK-AU-SYD-DC1-CMP-03,active,Cisco NX-OS,Internal,22,front
+AU-SYD-DC1-WAN-01,Branch Router,Sydney WAN 01,C8300-1N1S-6T,Cisco,AU-SYD-DC1,Meet-Me Room,RK-AU-SYD-DC1-ISP-01,active,Cisco IOS-XE,Internal,40,front
+AU-SYD-DC1-WAN-02,Branch Router,Sydney WAN 02,C8300-1N1S-6T,Cisco,AU-SYD-DC1,Meet-Me Room,RK-AU-SYD-DC1-ISP-01,active,Cisco IOS-XE,Internal,42,front
+AU-SYD-DC1-FW-01,Firewall,Sydney Firewall 01,PA-3410,Cisco,AU-SYD-DC1,Security Room,RK-AU-SYD-DC1-SEC-01,active,PAN-OS,Internal,30,front
+AU-SYD-DC1-FW-02,Firewall,Sydney Firewall 02,PA-3410,Cisco,AU-SYD-DC1,Security Room,RK-AU-SYD-DC1-SEC-01,active,PAN-OS,Internal,32,front

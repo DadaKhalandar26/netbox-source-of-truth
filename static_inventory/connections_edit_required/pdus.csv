@@ -1,0 +1,3 @@
+name,role,description,device_type,manufacturer,site,location,rack,status,tenant,face
+AU-SYD-DC1-PDU-01,PDU,Sydney DC Primary PDU,AP9572,APC,AU-SYD-DC1,MDF - Network Room,RK-AU-SYD-DC1-CORE-01,active,IT Operations,rear
+AU-SYD-DC1-PDU-02,PDU,Sydney DC Secondary PDU,AP9572,APC,AU-SYD-DC1,MDF - Network Room,RK-AU-SYD-DC1-CORE-01,active,IT Operations,rear

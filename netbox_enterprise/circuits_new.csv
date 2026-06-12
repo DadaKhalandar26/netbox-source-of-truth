@@ -1,0 +1,74 @@
+cid,provider,type,provider_account,status,commit_rate
+CIR-10001-CHI,AT&T,Direct Internet Access,ATT-US-CORP,active,10000000
+CIR-10002-CHI-MPLS,Lumen,MPLS,LUMEN-AWS-CC,active,2000000
+CIR-10003-CHI-CC,Lumen,Cloud Connect,LUMEN-AWS-CC,active,10000000
+CIR-10004-LAX,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10005-DAL,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10006-ATL,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10007-SEA,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10008-MIA,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10009-DEN,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10010-BOS,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10011-HOU,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10012-PHX,AT&T,Direct Internet Access,ATT-US-CORP,active,500000
+CIR-10013-VAN,Rogers,Direct Internet Access,ROGERS-CA-CORP,active,500000
+CIR-10014-MTL,Rogers,Direct Internet Access,ROGERS-CA-CORP,active,500000
+CIR-10015-MEX,Rogers,Direct Internet Access,ROGERS-CA-CORP,active,500000
+CIR-10016-RIO,Claro,Direct Internet Access,CLARO-LATAM-ENT,active,500000
+CIR-10017-BOG,Claro,Direct Internet Access,CLARO-LATAM-ENT,active,500000
+CIR-10018-BUE,Claro,Direct Internet Access,CLARO-LATAM-ENT,active,500000
+CIR-10019-SCL,Claro,Direct Internet Access,CLARO-LATAM-ENT,active,500000
+CIR-10020-LIM,Claro,Direct Internet Access,CLARO-LATAM-ENT,active,500000
+CIR-10021-PAR,Orange,Direct Internet Access,ORANGE-FR-DC,active,10000000
+CIR-10022-PAR-MPLS,Deutsche Telekom,MPLS,DT-DE-ENT,active,2000000
+CIR-10023-PAR-CC,Zayo,Cloud Connect,ZAYO-GLOBAL-WAN,active,10000000
+CIR-10024-PAR,Orange,Direct Internet Access,ORANGE-FR-DC,active,1000000
+CIR-10025-PAR-MPLS,Deutsche Telekom,MPLS,DT-DE-ENT,active,500000
+CIR-10026-MUC,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10027-FRA,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10028-MAD,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10029-MIL,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10030-ROM,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10031-ZRH,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10032-DUB,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10033-BRU,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10034-VIE,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10035-LIS,Orange,Direct Internet Access,ORANGE-FR-DC,active,500000
+CIR-10036-STO,Telenor,Direct Internet Access,TELENOR-NORD-ENT,active,500000
+CIR-10037-WAW,Telenor,Direct Internet Access,TELENOR-NORD-ENT,active,500000
+CIR-10038-OSL,Telenor,Direct Internet Access,TELENOR-NORD-ENT,active,500000
+CIR-10039-DXB,du,Direct Internet Access,DU-UAE-DC,active,10000000
+CIR-10040-DXB-MPLS,STC,MPLS,STC-SA-ENT,active,2000000
+CIR-10041-DXB-CC,TATA Communications,Cloud Connect,TATA-IN-MPLS,active,10000000
+CIR-10042-DXB,du,Direct Internet Access,DU-UAE-DC,active,500000
+CIR-10043-RUH,du,Direct Internet Access,DU-UAE-DC,active,500000
+CIR-10044-CAI,du,Direct Internet Access,DU-UAE-DC,active,500000
+CIR-10045-JNB,MTN,Direct Internet Access,MTN-ZA-DC,active,10000000
+CIR-10046-JNB-MPLS,MTN,MPLS,MTN-ZA-DC,active,2000000
+CIR-10047-JNB-CC,TATA Communications,Cloud Connect,TATA-IN-MPLS,active,10000000
+CIR-10048-LOS,MTN,Direct Internet Access,MTN-ZA-DC,active,500000
+CIR-10049-NBO,MTN,Direct Internet Access,MTN-ZA-DC,active,500000
+CIR-10050-HKG,PCCW,Direct Internet Access,PCCW-HK-DC,active,10000000
+CIR-10051-HKG-MPLS,China Telecom,MPLS,CHINATELE-CN-ENT,active,2000000
+CIR-10052-HKG-CC,NTT,Cloud Connect,NTT-JP-DC,active,10000000
+CIR-10053-HKG,PCCW,Direct Internet Access,PCCW-HK-DC,active,500000
+CIR-10054-SHA,PCCW,Direct Internet Access,PCCW-HK-DC,active,500000
+CIR-10055-BEJ,PCCW,Direct Internet Access,PCCW-HK-DC,active,500000
+CIR-10056-TPE,PCCW,Direct Internet Access,PCCW-HK-DC,active,500000
+CIR-10057-BKK,Singtel,Direct Internet Access,SINGTEL-SG-DC,active,500000
+CIR-10058-JKT,Singtel,Direct Internet Access,SINGTEL-SG-DC,active,500000
+CIR-10059-MNL,Singtel,Direct Internet Access,SINGTEL-SG-DC,active,500000
+CIR-10060-HAN,Singtel,Direct Internet Access,SINGTEL-SG-DC,active,500000
+CIR-10061-TYO,NTT,Direct Internet Access,NTT-JP-DC,active,10000000
+CIR-10062-TYO-MPLS,KT,MPLS,KT-KR-ENT,active,2000000
+CIR-10063-TYO-CC,NTT,Cloud Connect,NTT-JP-DC,active,10000000
+CIR-10064-TYO,NTT,Direct Internet Access,NTT-JP-DC,active,1000000
+CIR-10065-TYO-MPLS,KT,MPLS,KT-KR-ENT,active,500000
+CIR-10066-OSA,NTT,Direct Internet Access,NTT-JP-DC,active,500000
+CIR-10067-SEL,NTT,Direct Internet Access,NTT-JP-DC,active,500000
+CIR-10068-DEL,Airtel,Direct Internet Access,AIR-IND-ENT,active,500000
+CIR-10069-HYD,Airtel,Direct Internet Access,AIR-IND-ENT,active,500000
+CIR-10070-CHE,Airtel,Direct Internet Access,AIR-IND-ENT,active,500000
+CIR-10071-PUN,Airtel,Direct Internet Access,AIR-IND-ENT,active,500000
+CIR-10072-KHI,Airtel,Direct Internet Access,AIR-IND-ENT,active,500000
+CIR-10073-AKL,Spark NZ,Direct Internet Access,SPARK-NZ-ENT,active,500000

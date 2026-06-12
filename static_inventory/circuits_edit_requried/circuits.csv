@@ -1,0 +1,7 @@
+cid,provider,type,provider_account,status,commit_rate
+CIR-1001-NYC,AT&T,Direct Internet Access,ATT-US-CORP,active,1000000
+CIR-2002-MUM,Airtel,MPLS,AIR-IND-ENT,active,500000
+CIR-3003-SIN,Singtel,Direct Internet Access,SINGTEL-SG-DC,active,10000000
+CIR-4004-LON,British Telecom,Direct Internet Access,BT-EMEA-OFFICE,active,1000000
+CIR-5005-SYD,Telstra,Direct Internet Access,TELSTRA-AU-DC,active,2000000
+CIR-9901-AWS,Lumen,Cloud Connect,LUMEN-AWS-CC,active,10000000

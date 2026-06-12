@@ -1,0 +1,11 @@
+manufacturer,model,slug,width,u_height,form_factor,description
+APC,NetShelter SX 42U,netshelter-sx-42u,19,42,4-post-cabinet,Standard enterprise server rack
+APC,NetShelter SX 48U,netshelter-sx-48u,19,48,4-post-cabinet,High density server rack
+Panduit,Net-Access S-Type 45U,net-access-s-type-45u,19,45,4-post-frame,Standard network rack
+Rittal,VX IT 42U,vx-it-42u,19,42,4-post-cabinet,Enterprise data center cabinet
+Vertiv,VR Rack 42U,vr-rack-42u,19,42,4-post-cabinet,Data center server rack
+HPE,G2 Enterprise Rack 42U,hpe-g2-42u,19,42,4-post-cabinet,Enterprise server rack
+NavePoint,22U Network Cabinet,navepoint-22u,19,22,4-post-cabinet,Branch office network cabinet
+StarTech.com,12U Wall Mount Rack,startech-wall-12u,19,12,wall-cabinet,Wall mounted IDF cabinet
+Minkels,Nexpand 42U,nexpand-42u,19,42,4-post-cabinet,Data center rack enclosure
+Systeme Electric,Easy Rack 42U,easy-rack-42u,19,42,4-post-cabinet,Enterprise server rack

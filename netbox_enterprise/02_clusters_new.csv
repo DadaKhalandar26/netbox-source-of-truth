@@ -1,0 +1,7 @@
+name,type,status,description
+US-CHI-DC1-ESX-CLUSTER,vSphere Cluster,active,Production VMware vSphere Cluster for US-CHI-DC1
+FR-PAR-DC1-ESX-CLUSTER,vSphere Cluster,active,Production VMware vSphere Cluster for FR-PAR-DC1
+AE-DXB-DC1-ESX-CLUSTER,vSphere Cluster,active,Production VMware vSphere Cluster for AE-DXB-DC1
+ZA-JNB-DC1-ESX-CLUSTER,vSphere Cluster,active,Production VMware vSphere Cluster for ZA-JNB-DC1
+HK-HKG-DC1-ESX-CLUSTER,vSphere Cluster,active,Production VMware vSphere Cluster for HK-HKG-DC1
+JP-TYO-DC1-ESX-CLUSTER,vSphere Cluster,active,Production VMware vSphere Cluster for JP-TYO-DC1

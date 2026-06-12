@@ -1,0 +1,15 @@
+{
+    "dns": [
+        "8.8.8.8",
+        "1.1.1.1"
+    ],
+    "ntp": [
+        "0.asia.pool.ntp.org",
+        "1.asia.pool.ntp.org"
+    ],
+    "snmp_community": "APAC-CORP",
+    "syslog": [
+        "10.8.1.250",
+        "10.8.1.251"
+    ]
+}

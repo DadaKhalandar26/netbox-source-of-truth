@@ -1,0 +1,60 @@
+name,slug,status,region,group,tenant,description
+US-CHI-DC1,us-chi-dc1,active,Chicago,Data Center,IT Operations,Chicago Primary Data Center 1
+US-LAX-BO1,us-lax-bo1,active,Los Angeles,Branch Office,IT Operations,Los Angeles Branch Office 1
+US-DAL-BO1,us-dal-bo1,active,Dallas,Branch Office,IT Operations,Dallas Branch Office 1
+US-ATL-BO1,us-atl-bo1,active,Atlanta,Branch Office,IT Operations,Atlanta Branch Office 1
+US-SEA-BO1,us-sea-bo1,active,Seattle,Branch Office,IT Operations,Seattle Branch Office 1
+US-MIA-BO1,us-mia-bo1,active,Miami,Branch Office,IT Operations,Miami Branch Office 1
+US-DEN-BO1,us-den-bo1,active,Denver,Branch Office,IT Operations,Denver Branch Office 1
+US-BOS-BO1,us-bos-bo1,active,Boston,Branch Office,IT Operations,Boston Branch Office 1
+US-HOU-BO1,us-hou-bo1,active,Houston,Branch Office,IT Operations,Houston Branch Office 1
+US-PHX-BO1,us-phx-bo1,active,Phoenix,Branch Office,IT Operations,Phoenix Branch Office 1
+CA-VAN-BO1,ca-van-bo1,active,Vancouver,Branch Office,IT Operations,Vancouver Branch Office 1
+CA-MTL-BO1,ca-mtl-bo1,active,Montreal,Branch Office,IT Operations,Montreal Branch Office 1
+MX-MEX-BO1,mx-mex-bo1,active,Mexico City,Branch Office,IT Operations,Mexico City Branch Office 1
+BR-RIO-BO1,br-rio-bo1,active,Rio de Janeiro,Branch Office,IT Operations,Rio de Janeiro Branch Office 1
+CO-BOG-BO1,co-bog-bo1,active,Bogota,Branch Office,IT Operations,Bogota Branch Office 1
+AR-BUE-BO1,ar-bue-bo1,active,Buenos Aires,Branch Office,IT Operations,Buenos Aires Branch Office 1
+CL-SCL-BO1,cl-scl-bo1,active,Santiago,Branch Office,IT Operations,Santiago Branch Office 1
+PE-LIM-BO1,pe-lim-bo1,active,Lima,Branch Office,IT Operations,Lima Branch Office 1
+FR-PAR-DC1,fr-par-dc1,active,Paris,Data Center,IT Operations,Paris Data Center 1
+FR-PAR-BO1,fr-par-bo1,active,Paris,Corporate Office,IT Operations,Paris EMEA Corporate Office 1
+DE-MUC-BO1,de-muc-bo1,active,Munich,Branch Office,IT Operations,Munich Branch Office 1
+DE-FRA-BO1,de-fra-bo1,active,Frankfurt,Branch Office,IT Operations,Frankfurt Branch Office 1
+ES-MAD-BO1,es-mad-bo1,active,Madrid,Branch Office,IT Operations,Madrid Branch Office 1
+IT-MIL-BO1,it-mil-bo1,active,Milan,Branch Office,IT Operations,Milan Branch Office 1
+IT-ROM-BO1,it-rom-bo1,active,Rome,Branch Office,IT Operations,Rome Branch Office 1
+CH-ZRH-BO1,ch-zrh-bo1,active,Zurich,Branch Office,IT Operations,Zurich Branch Office 1
+IE-DUB-BO1,ie-dub-bo1,active,Dublin,Branch Office,IT Operations,Dublin Branch Office 1
+BE-BRU-BO1,be-bru-bo1,active,Brussels,Branch Office,IT Operations,Brussels Branch Office 1
+AT-VIE-BO1,at-vie-bo1,active,Vienna,Branch Office,IT Operations,Vienna Branch Office 1
+PT-LIS-BO1,pt-lis-bo1,active,Lisbon,Branch Office,IT Operations,Lisbon Branch Office 1
+SE-STO-BO1,se-sto-bo1,active,Stockholm,Branch Office,IT Operations,Stockholm Branch Office 1
+PL-WAW-BO1,pl-waw-bo1,active,Warsaw,Branch Office,IT Operations,Warsaw Branch Office 1
+NO-OSL-BO1,no-osl-bo1,active,Oslo,Branch Office,IT Operations,Oslo Branch Office 1
+AE-DXB-DC1,ae-dxb-dc1,active,Dubai,Data Center,IT Operations,Dubai Data Center 1
+AE-DXB-BO1,ae-dxb-bo1,active,Dubai,Branch Office,IT Operations,Dubai Branch Office 1
+SA-RUH-BO1,sa-ruh-bo1,active,Riyadh,Branch Office,IT Operations,Riyadh Branch Office 1
+EG-CAI-BO1,eg-cai-bo1,active,Cairo,Branch Office,IT Operations,Cairo Branch Office 1
+ZA-JNB-DC1,za-jnb-dc1,active,Johannesburg,Data Center,IT Operations,Johannesburg Data Center 1
+NG-LOS-BO1,ng-los-bo1,active,Lagos,Branch Office,IT Operations,Lagos Branch Office 1
+KE-NBO-BO1,ke-nbo-bo1,active,Nairobi,Branch Office,IT Operations,Nairobi Branch Office 1
+HK-HKG-DC1,hk-hkg-dc1,active,Hong Kong City,Data Center,IT Operations,Hong Kong Data Center 1
+HK-HKG-BO1,hk-hkg-bo1,active,Hong Kong City,Branch Office,IT Operations,Hong Kong Branch Office 1
+CN-SHA-BO1,cn-sha-bo1,active,Shanghai,Branch Office,IT Operations,Shanghai Branch Office 1
+CN-BEJ-BO1,cn-bej-bo1,active,Beijing,Branch Office,IT Operations,Beijing Branch Office 1
+TW-TPE-BO1,tw-tpe-bo1,active,Taipei,Branch Office,IT Operations,Taipei Branch Office 1
+TH-BKK-BO1,th-bkk-bo1,active,Bangkok,Branch Office,IT Operations,Bangkok Branch Office 1
+ID-JKT-BO1,id-jkt-bo1,active,Jakarta,Branch Office,IT Operations,Jakarta Branch Office 1
+PH-MNL-BO1,ph-mnl-bo1,active,Manila,Branch Office,IT Operations,Manila Branch Office 1
+VN-HAN-BO1,vn-han-bo1,active,Hanoi,Branch Office,IT Operations,Hanoi Branch Office 1
+JP-TYO-DC1,jp-tyo-dc1,active,Tokyo,Data Center,IT Operations,Tokyo Data Center 1
+JP-TYO-BO1,jp-tyo-bo1,active,Tokyo,Corporate Office,IT Operations,Tokyo APAC Corporate Office 1
+JP-OSA-BO1,jp-osa-bo1,active,Osaka,Branch Office,IT Operations,Osaka Branch Office 1
+KR-SEL-BO1,kr-sel-bo1,active,Seoul,Branch Office,IT Operations,Seoul Branch Office 1
+IN-DEL-BO1,in-del-bo1,active,Delhi,Branch Office,IT Operations,Delhi Branch Office 1
+IN-HYD-BO1,in-hyd-bo1,active,Hyderabad,Branch Office,IT Operations,Hyderabad Branch Office 1
+IN-CHE-BO1,in-che-bo1,active,Chennai,Branch Office,IT Operations,Chennai Branch Office 1
+IN-PUN-BO1,in-pun-bo1,active,Pune,Branch Office,IT Operations,Pune Branch Office 1
+PK-KHI-BO1,pk-khi-bo1,active,Karachi,Branch Office,IT Operations,Karachi Branch Office 1
+NZ-AKL-BO1,nz-akl-bo1,active,Auckland,Branch Office,IT Operations,Auckland Branch Office 1

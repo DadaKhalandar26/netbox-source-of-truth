@@ -1,0 +1,136 @@
+name,parent,slug,description
+Middle East,,middle-east,Region (Continent)
+Illinois,United States,illinois,State/Province
+Chicago,Illinois,chicago,City
+Texas,United States,texas,State/Province
+Dallas,Texas,dallas,City
+Houston,Texas,houston,City
+Georgia,United States,georgia-us,State/Province
+Atlanta,Georgia,atlanta,City
+Washington State,United States,washington-state,State/Province
+Seattle,Washington State,seattle,City
+Florida,United States,florida,State/Province
+Miami,Florida,miami,City
+Colorado,United States,colorado,State/Province
+Denver,Colorado,denver,City
+Massachusetts,United States,massachusetts,State/Province
+Boston,Massachusetts,boston,City
+Arizona,United States,arizona,State/Province
+Phoenix,Arizona,phoenix,City
+Los Angeles,California,los-angeles,City
+British Columbia,Canada,british-columbia,State/Province
+Vancouver,British Columbia,vancouver,City
+Quebec,Canada,quebec,State/Province
+Montreal,Quebec,montreal,City
+Mexico,North America,mexico,Country
+Mexico City,Mexico,mexico-city,City
+Rio de Janeiro State,Brazil,rio-de-janeiro-state,State/Province
+Rio de Janeiro,Rio de Janeiro State,rio-de-janeiro,City
+Colombia,South America,colombia,Country
+Bogota,Colombia,bogota,City
+Argentina,South America,argentina,Country
+Buenos Aires,Argentina,buenos-aires,City
+Chile,South America,chile,Country
+Santiago,Chile,santiago,City
+Peru,South America,peru,Country
+Lima,Peru,lima,City
+France,Europe,france,Country
+Ile-de-France,France,ile-de-france,State/Province
+Paris,Ile-de-France,paris,City
+Bavaria,Germany,bavaria,State/Province
+Munich,Bavaria,munich,City
+Hesse,Germany,hesse,State/Province
+Frankfurt,Hesse,frankfurt,City
+Spain,Europe,spain,Country
+Community of Madrid,Spain,community-of-madrid,State/Province
+Madrid,Community of Madrid,madrid,City
+Italy,Europe,italy,Country
+Lombardy,Italy,lombardy,State/Province
+Milan,Lombardy,milan,City
+Lazio,Italy,lazio,State/Province
+Rome,Lazio,rome,City
+Sweden,Europe,sweden,Country
+Stockholm County,Sweden,stockholm-county,State/Province
+Stockholm,Stockholm County,stockholm,City
+Poland,Europe,poland,Country
+Masovian Voivodeship,Poland,masovian,State/Province
+Warsaw,Masovian Voivodeship,warsaw,City
+Switzerland,Europe,switzerland,Country
+Canton of Zurich,Switzerland,canton-of-zurich,State/Province
+Zurich,Canton of Zurich,zurich,City
+Ireland,Europe,ireland,Country
+Leinster,Ireland,leinster,State/Province
+Dublin,Leinster,dublin,City
+Belgium,Europe,belgium,Country
+Brussels Capital,Belgium,brussels-capital,State/Province
+Brussels,Brussels Capital,brussels,City
+Austria,Europe,austria,Country
+Vienna State,Austria,vienna-state,State/Province
+Vienna,Vienna State,vienna,City
+Norway,Europe,norway,Country
+Oslo County,Norway,oslo-county,State/Province
+Oslo,Oslo County,oslo,City
+Portugal,Europe,portugal,Country
+Lisbon District,Portugal,lisbon-district,State/Province
+Lisbon,Lisbon District,lisbon,City
+United Arab Emirates,Middle East,uae,Country
+Dubai Emirate,United Arab Emirates,dubai-emirate,State/Province
+Dubai,Dubai Emirate,dubai,City
+Saudi Arabia,Middle East,saudi-arabia,Country
+Riyadh Province,Saudi Arabia,riyadh-province,State/Province
+Riyadh,Riyadh Province,riyadh,City
+Egypt,Africa,egypt,Country
+Cairo Governorate,Egypt,cairo-governorate,State/Province
+Cairo,Cairo Governorate,cairo,City
+Gauteng,South Africa,gauteng,State/Province
+Johannesburg,Gauteng,johannesburg,City
+Nigeria,Africa,nigeria,Country
+Lagos State,Nigeria,lagos-state,State/Province
+Lagos,Lagos State,lagos,City
+Kenya,Africa,kenya,Country
+Nairobi County,Kenya,nairobi-county,State/Province
+Nairobi,Nairobi County,nairobi,City
+Japan,Asia Pacific,japan,Country
+Tokyo Prefecture,Japan,tokyo-prefecture,State/Province
+Tokyo,Tokyo Prefecture,tokyo,City
+Osaka Prefecture,Japan,osaka-prefecture,State/Province
+Osaka,Osaka Prefecture,osaka,City
+Hong Kong,Asia Pacific,hong-kong,Country
+Hong Kong SAR,Hong Kong,hong-kong-sar,State/Province
+Hong Kong City,Hong Kong SAR,hong-kong-city,City
+China,Asia Pacific,china,Country
+Shanghai Municipality,China,shanghai-municipality,State/Province
+Shanghai,Shanghai Municipality,shanghai,City
+Beijing Municipality,China,beijing-municipality,State/Province
+Beijing,Beijing Municipality,beijing,City
+South Korea,Asia Pacific,south-korea,Country
+Seoul Capital Area,South Korea,seoul-capital-area,State/Province
+Seoul,Seoul Capital Area,seoul,City
+Taiwan,Asia Pacific,taiwan,Country
+Taipei City Region,Taiwan,taipei-city-region,State/Province
+Taipei,Taipei City Region,taipei,City
+Thailand,Asia Pacific,thailand,Country
+Bangkok Province,Thailand,bangkok-province,State/Province
+Bangkok,Bangkok Province,bangkok,City
+Indonesia,Asia Pacific,indonesia,Country
+DKI Jakarta,Indonesia,dki-jakarta,State/Province
+Jakarta,DKI Jakarta,jakarta,City
+Philippines,Asia Pacific,philippines,Country
+Metro Manila,Philippines,metro-manila,State/Province
+Manila,Metro Manila,manila,City
+Vietnam,Asia Pacific,vietnam,Country
+Hanoi Municipality,Vietnam,hanoi-municipality,State/Province
+Hanoi,Hanoi Municipality,hanoi,City
+Delhi Territory,India,delhi-territory,State/Province
+Delhi,Delhi Territory,delhi,City
+Telangana,India,telangana,State/Province
+Hyderabad,Telangana,hyderabad,City
+Tamil Nadu,India,tamil-nadu,State/Province
+Chennai,Tamil Nadu,chennai,City
+Pune,Maharashtra,pune,City
+Pakistan,Asia Pacific,pakistan,Country
+Sindh,Pakistan,sindh,State/Province
+Karachi,Sindh,karachi,City
+New Zealand,Asia Pacific,new-zealand,Country
+Auckland Region,New Zealand,auckland-region,State/Province
+Auckland,Auckland Region,auckland,City

@@ -1,0 +1,34 @@
+name,slug,manufacturer,description
+Cisco IOS-XE,cisco-ios-xe,Cisco,Enterprise operating system for Catalyst and ISR platforms
+Cisco NX-OS,cisco-nx-os,Cisco,Data center operating system for Nexus switches
+Cisco IOS,cisco-ios,Cisco,Legacy Cisco routing and switching operating system
+Cisco ASA,cisco-asa,Cisco,Adaptive Security Appliance firewall operating system
+Cisco FTD,cisco-ftd,Cisco,Firepower Threat Defense next-generation firewall operating system
+Cisco IOS-XE WLC,cisco-ios-xe-wlc,Cisco,Wireless LAN controller operating system for Catalyst 9800
+Cisco AP CAPWAP,cisco-ap-capwap,Cisco,Lightweight access point firmware managed by WLC
+Arista EOS,arista-eos,Arista,Extensible operating system for Arista switches and routers
+Juniper Junos,juniper-junos,Juniper Networks,Network operating system for Juniper routing switching and security platforms
+PAN-OS,pan-os,Palo Alto Networks,Next-generation firewall operating system
+FortiOS,fortios,Fortinet,Security operating system for FortiGate FortiManager and FortiAnalyzer
+ExtremeXOS,extremexos,Extreme Networks,Enterprise switching operating system
+Extreme Fabric Engine,extreme-fabric-engine,Extreme Networks,Fabric Connect network operating system
+RouterOS,routeros,MikroTik,Routing switching and wireless operating system
+UniFi Network,unifi-network,Ubiquiti,Network operating platform for UniFi devices
+airOS,airos,Ubiquiti,Wireless broadband operating system
+SmartZone OS,smartzone-os,Ruckus,Wireless controller operating system
+Ruckus AP Firmware,ruckus-ap-firmware,Ruckus,Wireless access point operating software
+AOS-CX,aos-cx,HPE,Modern Aruba CX switching operating system
+ArubaOS,arubaos,HPE,Wireless controller and mobility operating system
+Dell OS10,dell-os10,Dell Technologies,Enterprise network operating system
+iDRAC,idrac,Dell Technologies,Out-of-band server management platform
+VMware ESXi,vmware-esxi,VMware,Enterprise hypervisor operating system
+VMware vCenter,vmware-vcenter,VMware,Virtualization management platform
+Nutanix AOS,nutanix-aos,Nutanix,Hyperconverged infrastructure operating system
+ONTAP,ontap,NetApp,Enterprise storage operating system
+Purity OS,purity-os,Pure Storage,All-flash storage operating system
+Supermicro IPMI,supermicro-ipmi,Supermicro,Server management controller platform
+APC NetworkOS,apc-networkos,APC,Management operating system for APC power infrastructure
+Vertiv Geist OS,vertiv-geist-os,Vertiv,Management platform for rack power distribution systems
+Ubuntu Server,ubuntu-server,Dell Technologies,Linux server operating system
+Red Hat Enterprise Linux,rhel,HPE,Enterprise Linux operating system
+Microsoft Windows Server,windows-server,Dell Technologies,Microsoft server operating system

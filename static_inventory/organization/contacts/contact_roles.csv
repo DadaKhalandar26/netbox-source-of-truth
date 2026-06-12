@@ -1,0 +1,31 @@
+name,slug,description
+Technical Owner,tech-owner,Primary technical owner responsible for the asset or service
+Technical Lead,tech-lead,Senior SME responsible for architecture and design decisions
+Service Owner,service-owner,Overall owner accountable for service delivery
+Emergency Escalation,emergency,Contact for P1 and critical outage escalations
+Operations Support,ops-support,Day to day operational support contact
+On-Call Engineer,oncall-engineer,After hours support and incident response contact
+Network Engineer,network-engineer,Responsible for network infrastructure support
+Systems Engineer,systems-engineer,Responsible for server and platform administration
+Cloud Engineer,cloud-engineer,Responsible for cloud platform operations and support
+Security Contact,security-contact,Primary contact for security incidents and reviews
+Security Auditor,security-auditor,Responsible for compliance and security assessments
+Vendor Support,vendor-support,Direct manufacturer or provider escalation contact
+Account Manager,account-manager,Business relationship and commercial contact
+Billing Administrator,billing-admin,Responsible for invoices contracts and renewals
+Procurement Specialist,procurement,Responsible for purchasing and asset acquisition
+Remote Hands,remote-hands,Physical support for installations and troubleshooting
+On-Site Technician,onsite-tech,Local staff authorized for hardware replacements and cabling
+Site Manager,site-manager,Responsible for site operations and local coordination
+Facilities Manager,facilities-manager,Responsible for power cooling and facility infrastructure
+Data Center Manager,dc-manager,Responsible for data center operations and capacity planning
+Power Specialist,power-specialist,Electrical and UPS infrastructure specialist
+Change Approver,change-approver,Authorized approver for infrastructure changes
+Project Manager,project-manager,Responsible for project delivery and coordination
+Compliance Officer,compliance-officer,Responsible for regulatory and audit requirements
+Business Owner,business-owner,Business stakeholder accountable for service requirements
+Software Owner,software-owner,Responsible for operating systems and applications
+Database Owner,database-owner,Responsible for database platforms and services
+Circuit Owner,circuit-owner,Responsible for WAN circuits and carrier services
+Rack Owner,rack-owner,Responsible for rack allocation and infrastructure planning
+Asset Custodian,asset-custodian,Responsible for asset lifecycle and inventory accuracy

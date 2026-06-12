@@ -1,0 +1,13 @@
+name,slug,color,description
+Core Networking,core-networking,aa1409,Core backbone routing and distribution switching infrastructure
+Edge Networking,edge-networking,4caf50,Access layer switches and user connectivity infrastructure
+Compute,compute,2196f3,General purpose physical and virtual server infrastructure
+Storage,storage,ff9800,SAN NAS backup and high-density storage systems
+Security,security,f44336,Firewalls IDS IPS and security monitoring infrastructure
+Management,management,673ab7,Out-of-band management monitoring and infrastructure services
+ISP Demarcation,isp-demarcation,607d8b,Carrier handoff circuits and telecommunications equipment
+Patching,patching,9c27b0,Structured cabling patch panels and cross-connect infrastructure
+Power,power,ffc107,UPS PDU and power distribution infrastructure
+Staging,staging,9e9e9e,Temporary racks for deployment testing and burn-in activities
+Lab,lab,009688,Engineering lab and proof-of-concept infrastructure
+Disaster Recovery,disaster-recovery,d32f2f,Disaster recovery and business continuity systems

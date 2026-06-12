@@ -1,0 +1,363 @@
+name,vid,group,role,description,status
+DEVICE-MGMT-US-CHI-DC1,10,US-CHI-DC1-VLANS,Infrastructure,Device Management – US-CHI-DC1,active
+USERS-US-CHI-DC1,100,US-CHI-DC1-VLANS,User-Data,Corporate User Access – US-CHI-DC1,active
+VOICE-US-CHI-DC1,110,US-CHI-DC1-VLANS,Voice,IP Telephony – US-CHI-DC1,active
+USR-WIFI-US-CHI-DC1,120,US-CHI-DC1-VLANS,User-Data,Corporate Wireless Data – US-CHI-DC1,active
+IOT-US-CHI-DC1,200,US-CHI-DC1-VLANS,IoT,Smart Building and IoT – US-CHI-DC1,active
+GUEST-US-CHI-DC1,1000,US-CHI-DC1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-CHI-DC1,active
+VM-SERVERS-US-CHI-DC1,20,US-CHI-DC1-VLANS,Servers,VM and Server Network – US-CHI-DC1,active
+DEVICE-MGMT-US-LAX-BO1,10,US-LAX-BO1-VLANS,Infrastructure,Device Management – US-LAX-BO1,active
+USERS-US-LAX-BO1,100,US-LAX-BO1-VLANS,User-Data,Corporate User Access – US-LAX-BO1,active
+VOICE-US-LAX-BO1,110,US-LAX-BO1-VLANS,Voice,IP Telephony – US-LAX-BO1,active
+USR-WIFI-US-LAX-BO1,120,US-LAX-BO1-VLANS,User-Data,Corporate Wireless Data – US-LAX-BO1,active
+IOT-US-LAX-BO1,200,US-LAX-BO1-VLANS,IoT,Smart Building and IoT – US-LAX-BO1,active
+GUEST-US-LAX-BO1,1000,US-LAX-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-LAX-BO1,active
+DEVICE-MGMT-US-DAL-BO1,10,US-DAL-BO1-VLANS,Infrastructure,Device Management – US-DAL-BO1,active
+USERS-US-DAL-BO1,100,US-DAL-BO1-VLANS,User-Data,Corporate User Access – US-DAL-BO1,active
+VOICE-US-DAL-BO1,110,US-DAL-BO1-VLANS,Voice,IP Telephony – US-DAL-BO1,active
+USR-WIFI-US-DAL-BO1,120,US-DAL-BO1-VLANS,User-Data,Corporate Wireless Data – US-DAL-BO1,active
+IOT-US-DAL-BO1,200,US-DAL-BO1-VLANS,IoT,Smart Building and IoT – US-DAL-BO1,active
+GUEST-US-DAL-BO1,1000,US-DAL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-DAL-BO1,active
+DEVICE-MGMT-US-ATL-BO1,10,US-ATL-BO1-VLANS,Infrastructure,Device Management – US-ATL-BO1,active
+USERS-US-ATL-BO1,100,US-ATL-BO1-VLANS,User-Data,Corporate User Access – US-ATL-BO1,active
+VOICE-US-ATL-BO1,110,US-ATL-BO1-VLANS,Voice,IP Telephony – US-ATL-BO1,active
+USR-WIFI-US-ATL-BO1,120,US-ATL-BO1-VLANS,User-Data,Corporate Wireless Data – US-ATL-BO1,active
+IOT-US-ATL-BO1,200,US-ATL-BO1-VLANS,IoT,Smart Building and IoT – US-ATL-BO1,active
+GUEST-US-ATL-BO1,1000,US-ATL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-ATL-BO1,active
+DEVICE-MGMT-US-SEA-BO1,10,US-SEA-BO1-VLANS,Infrastructure,Device Management – US-SEA-BO1,active
+USERS-US-SEA-BO1,100,US-SEA-BO1-VLANS,User-Data,Corporate User Access – US-SEA-BO1,active
+VOICE-US-SEA-BO1,110,US-SEA-BO1-VLANS,Voice,IP Telephony – US-SEA-BO1,active
+USR-WIFI-US-SEA-BO1,120,US-SEA-BO1-VLANS,User-Data,Corporate Wireless Data – US-SEA-BO1,active
+IOT-US-SEA-BO1,200,US-SEA-BO1-VLANS,IoT,Smart Building and IoT – US-SEA-BO1,active
+GUEST-US-SEA-BO1,1000,US-SEA-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-SEA-BO1,active
+DEVICE-MGMT-US-MIA-BO1,10,US-MIA-BO1-VLANS,Infrastructure,Device Management – US-MIA-BO1,active
+USERS-US-MIA-BO1,100,US-MIA-BO1-VLANS,User-Data,Corporate User Access – US-MIA-BO1,active
+VOICE-US-MIA-BO1,110,US-MIA-BO1-VLANS,Voice,IP Telephony – US-MIA-BO1,active
+USR-WIFI-US-MIA-BO1,120,US-MIA-BO1-VLANS,User-Data,Corporate Wireless Data – US-MIA-BO1,active
+IOT-US-MIA-BO1,200,US-MIA-BO1-VLANS,IoT,Smart Building and IoT – US-MIA-BO1,active
+GUEST-US-MIA-BO1,1000,US-MIA-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-MIA-BO1,active
+DEVICE-MGMT-US-DEN-BO1,10,US-DEN-BO1-VLANS,Infrastructure,Device Management – US-DEN-BO1,active
+USERS-US-DEN-BO1,100,US-DEN-BO1-VLANS,User-Data,Corporate User Access – US-DEN-BO1,active
+VOICE-US-DEN-BO1,110,US-DEN-BO1-VLANS,Voice,IP Telephony – US-DEN-BO1,active
+USR-WIFI-US-DEN-BO1,120,US-DEN-BO1-VLANS,User-Data,Corporate Wireless Data – US-DEN-BO1,active
+IOT-US-DEN-BO1,200,US-DEN-BO1-VLANS,IoT,Smart Building and IoT – US-DEN-BO1,active
+GUEST-US-DEN-BO1,1000,US-DEN-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-DEN-BO1,active
+DEVICE-MGMT-US-BOS-BO1,10,US-BOS-BO1-VLANS,Infrastructure,Device Management – US-BOS-BO1,active
+USERS-US-BOS-BO1,100,US-BOS-BO1-VLANS,User-Data,Corporate User Access – US-BOS-BO1,active
+VOICE-US-BOS-BO1,110,US-BOS-BO1-VLANS,Voice,IP Telephony – US-BOS-BO1,active
+USR-WIFI-US-BOS-BO1,120,US-BOS-BO1-VLANS,User-Data,Corporate Wireless Data – US-BOS-BO1,active
+IOT-US-BOS-BO1,200,US-BOS-BO1-VLANS,IoT,Smart Building and IoT – US-BOS-BO1,active
+GUEST-US-BOS-BO1,1000,US-BOS-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-BOS-BO1,active
+DEVICE-MGMT-US-HOU-BO1,10,US-HOU-BO1-VLANS,Infrastructure,Device Management – US-HOU-BO1,active
+USERS-US-HOU-BO1,100,US-HOU-BO1-VLANS,User-Data,Corporate User Access – US-HOU-BO1,active
+VOICE-US-HOU-BO1,110,US-HOU-BO1-VLANS,Voice,IP Telephony – US-HOU-BO1,active
+USR-WIFI-US-HOU-BO1,120,US-HOU-BO1-VLANS,User-Data,Corporate Wireless Data – US-HOU-BO1,active
+IOT-US-HOU-BO1,200,US-HOU-BO1-VLANS,IoT,Smart Building and IoT – US-HOU-BO1,active
+GUEST-US-HOU-BO1,1000,US-HOU-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-HOU-BO1,active
+DEVICE-MGMT-US-PHX-BO1,10,US-PHX-BO1-VLANS,Infrastructure,Device Management – US-PHX-BO1,active
+USERS-US-PHX-BO1,100,US-PHX-BO1-VLANS,User-Data,Corporate User Access – US-PHX-BO1,active
+VOICE-US-PHX-BO1,110,US-PHX-BO1-VLANS,Voice,IP Telephony – US-PHX-BO1,active
+USR-WIFI-US-PHX-BO1,120,US-PHX-BO1-VLANS,User-Data,Corporate Wireless Data – US-PHX-BO1,active
+IOT-US-PHX-BO1,200,US-PHX-BO1-VLANS,IoT,Smart Building and IoT – US-PHX-BO1,active
+GUEST-US-PHX-BO1,1000,US-PHX-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – US-PHX-BO1,active
+DEVICE-MGMT-CA-VAN-BO1,10,CA-VAN-BO1-VLANS,Infrastructure,Device Management – CA-VAN-BO1,active
+USERS-CA-VAN-BO1,100,CA-VAN-BO1-VLANS,User-Data,Corporate User Access – CA-VAN-BO1,active
+VOICE-CA-VAN-BO1,110,CA-VAN-BO1-VLANS,Voice,IP Telephony – CA-VAN-BO1,active
+USR-WIFI-CA-VAN-BO1,120,CA-VAN-BO1-VLANS,User-Data,Corporate Wireless Data – CA-VAN-BO1,active
+IOT-CA-VAN-BO1,200,CA-VAN-BO1-VLANS,IoT,Smart Building and IoT – CA-VAN-BO1,active
+GUEST-CA-VAN-BO1,1000,CA-VAN-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CA-VAN-BO1,active
+DEVICE-MGMT-CA-MTL-BO1,10,CA-MTL-BO1-VLANS,Infrastructure,Device Management – CA-MTL-BO1,active
+USERS-CA-MTL-BO1,100,CA-MTL-BO1-VLANS,User-Data,Corporate User Access – CA-MTL-BO1,active
+VOICE-CA-MTL-BO1,110,CA-MTL-BO1-VLANS,Voice,IP Telephony – CA-MTL-BO1,active
+USR-WIFI-CA-MTL-BO1,120,CA-MTL-BO1-VLANS,User-Data,Corporate Wireless Data – CA-MTL-BO1,active
+IOT-CA-MTL-BO1,200,CA-MTL-BO1-VLANS,IoT,Smart Building and IoT – CA-MTL-BO1,active
+GUEST-CA-MTL-BO1,1000,CA-MTL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CA-MTL-BO1,active
+DEVICE-MGMT-MX-MEX-BO1,10,MX-MEX-BO1-VLANS,Infrastructure,Device Management – MX-MEX-BO1,active
+USERS-MX-MEX-BO1,100,MX-MEX-BO1-VLANS,User-Data,Corporate User Access – MX-MEX-BO1,active
+VOICE-MX-MEX-BO1,110,MX-MEX-BO1-VLANS,Voice,IP Telephony – MX-MEX-BO1,active
+USR-WIFI-MX-MEX-BO1,120,MX-MEX-BO1-VLANS,User-Data,Corporate Wireless Data – MX-MEX-BO1,active
+IOT-MX-MEX-BO1,200,MX-MEX-BO1-VLANS,IoT,Smart Building and IoT – MX-MEX-BO1,active
+GUEST-MX-MEX-BO1,1000,MX-MEX-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – MX-MEX-BO1,active
+DEVICE-MGMT-BR-RIO-BO1,10,BR-RIO-BO1-VLANS,Infrastructure,Device Management – BR-RIO-BO1,active
+USERS-BR-RIO-BO1,100,BR-RIO-BO1-VLANS,User-Data,Corporate User Access – BR-RIO-BO1,active
+VOICE-BR-RIO-BO1,110,BR-RIO-BO1-VLANS,Voice,IP Telephony – BR-RIO-BO1,active
+USR-WIFI-BR-RIO-BO1,120,BR-RIO-BO1-VLANS,User-Data,Corporate Wireless Data – BR-RIO-BO1,active
+IOT-BR-RIO-BO1,200,BR-RIO-BO1-VLANS,IoT,Smart Building and IoT – BR-RIO-BO1,active
+GUEST-BR-RIO-BO1,1000,BR-RIO-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – BR-RIO-BO1,active
+DEVICE-MGMT-CO-BOG-BO1,10,CO-BOG-BO1-VLANS,Infrastructure,Device Management – CO-BOG-BO1,active
+USERS-CO-BOG-BO1,100,CO-BOG-BO1-VLANS,User-Data,Corporate User Access – CO-BOG-BO1,active
+VOICE-CO-BOG-BO1,110,CO-BOG-BO1-VLANS,Voice,IP Telephony – CO-BOG-BO1,active
+USR-WIFI-CO-BOG-BO1,120,CO-BOG-BO1-VLANS,User-Data,Corporate Wireless Data – CO-BOG-BO1,active
+IOT-CO-BOG-BO1,200,CO-BOG-BO1-VLANS,IoT,Smart Building and IoT – CO-BOG-BO1,active
+GUEST-CO-BOG-BO1,1000,CO-BOG-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CO-BOG-BO1,active
+DEVICE-MGMT-AR-BUE-BO1,10,AR-BUE-BO1-VLANS,Infrastructure,Device Management – AR-BUE-BO1,active
+USERS-AR-BUE-BO1,100,AR-BUE-BO1-VLANS,User-Data,Corporate User Access – AR-BUE-BO1,active
+VOICE-AR-BUE-BO1,110,AR-BUE-BO1-VLANS,Voice,IP Telephony – AR-BUE-BO1,active
+USR-WIFI-AR-BUE-BO1,120,AR-BUE-BO1-VLANS,User-Data,Corporate Wireless Data – AR-BUE-BO1,active
+IOT-AR-BUE-BO1,200,AR-BUE-BO1-VLANS,IoT,Smart Building and IoT – AR-BUE-BO1,active
+GUEST-AR-BUE-BO1,1000,AR-BUE-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – AR-BUE-BO1,active
+DEVICE-MGMT-CL-SCL-BO1,10,CL-SCL-BO1-VLANS,Infrastructure,Device Management – CL-SCL-BO1,active
+USERS-CL-SCL-BO1,100,CL-SCL-BO1-VLANS,User-Data,Corporate User Access – CL-SCL-BO1,active
+VOICE-CL-SCL-BO1,110,CL-SCL-BO1-VLANS,Voice,IP Telephony – CL-SCL-BO1,active
+USR-WIFI-CL-SCL-BO1,120,CL-SCL-BO1-VLANS,User-Data,Corporate Wireless Data – CL-SCL-BO1,active
+IOT-CL-SCL-BO1,200,CL-SCL-BO1-VLANS,IoT,Smart Building and IoT – CL-SCL-BO1,active
+GUEST-CL-SCL-BO1,1000,CL-SCL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CL-SCL-BO1,active
+DEVICE-MGMT-PE-LIM-BO1,10,PE-LIM-BO1-VLANS,Infrastructure,Device Management – PE-LIM-BO1,active
+USERS-PE-LIM-BO1,100,PE-LIM-BO1-VLANS,User-Data,Corporate User Access – PE-LIM-BO1,active
+VOICE-PE-LIM-BO1,110,PE-LIM-BO1-VLANS,Voice,IP Telephony – PE-LIM-BO1,active
+USR-WIFI-PE-LIM-BO1,120,PE-LIM-BO1-VLANS,User-Data,Corporate Wireless Data – PE-LIM-BO1,active
+IOT-PE-LIM-BO1,200,PE-LIM-BO1-VLANS,IoT,Smart Building and IoT – PE-LIM-BO1,active
+GUEST-PE-LIM-BO1,1000,PE-LIM-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – PE-LIM-BO1,active
+DEVICE-MGMT-FR-PAR-DC1,10,FR-PAR-DC1-VLANS,Infrastructure,Device Management – FR-PAR-DC1,active
+USERS-FR-PAR-DC1,100,FR-PAR-DC1-VLANS,User-Data,Corporate User Access – FR-PAR-DC1,active
+VOICE-FR-PAR-DC1,110,FR-PAR-DC1-VLANS,Voice,IP Telephony – FR-PAR-DC1,active
+USR-WIFI-FR-PAR-DC1,120,FR-PAR-DC1-VLANS,User-Data,Corporate Wireless Data – FR-PAR-DC1,active
+IOT-FR-PAR-DC1,200,FR-PAR-DC1-VLANS,IoT,Smart Building and IoT – FR-PAR-DC1,active
+GUEST-FR-PAR-DC1,1000,FR-PAR-DC1-VLANS,Guest-Data,Guest WiFi – Internet Only – FR-PAR-DC1,active
+VM-SERVERS-FR-PAR-DC1,20,FR-PAR-DC1-VLANS,Servers,VM and Server Network – FR-PAR-DC1,active
+DEVICE-MGMT-FR-PAR-BO1,10,FR-PAR-BO1-VLANS,Infrastructure,Device Management – FR-PAR-BO1,active
+USERS-FR-PAR-BO1,100,FR-PAR-BO1-VLANS,User-Data,Corporate User Access – FR-PAR-BO1,active
+VOICE-FR-PAR-BO1,110,FR-PAR-BO1-VLANS,Voice,IP Telephony – FR-PAR-BO1,active
+USR-WIFI-FR-PAR-BO1,120,FR-PAR-BO1-VLANS,User-Data,Corporate Wireless Data – FR-PAR-BO1,active
+IOT-FR-PAR-BO1,200,FR-PAR-BO1-VLANS,IoT,Smart Building and IoT – FR-PAR-BO1,active
+GUEST-FR-PAR-BO1,1000,FR-PAR-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – FR-PAR-BO1,active
+VM-SERVERS-FR-PAR-BO1,20,FR-PAR-BO1-VLANS,Servers,VM and Server Network – FR-PAR-BO1,active
+DEVICE-MGMT-DE-MUC-BO1,10,DE-MUC-BO1-VLANS,Infrastructure,Device Management – DE-MUC-BO1,active
+USERS-DE-MUC-BO1,100,DE-MUC-BO1-VLANS,User-Data,Corporate User Access – DE-MUC-BO1,active
+VOICE-DE-MUC-BO1,110,DE-MUC-BO1-VLANS,Voice,IP Telephony – DE-MUC-BO1,active
+USR-WIFI-DE-MUC-BO1,120,DE-MUC-BO1-VLANS,User-Data,Corporate Wireless Data – DE-MUC-BO1,active
+IOT-DE-MUC-BO1,200,DE-MUC-BO1-VLANS,IoT,Smart Building and IoT – DE-MUC-BO1,active
+GUEST-DE-MUC-BO1,1000,DE-MUC-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – DE-MUC-BO1,active
+DEVICE-MGMT-DE-FRA-BO1,10,DE-FRA-BO1-VLANS,Infrastructure,Device Management – DE-FRA-BO1,active
+USERS-DE-FRA-BO1,100,DE-FRA-BO1-VLANS,User-Data,Corporate User Access – DE-FRA-BO1,active
+VOICE-DE-FRA-BO1,110,DE-FRA-BO1-VLANS,Voice,IP Telephony – DE-FRA-BO1,active
+USR-WIFI-DE-FRA-BO1,120,DE-FRA-BO1-VLANS,User-Data,Corporate Wireless Data – DE-FRA-BO1,active
+IOT-DE-FRA-BO1,200,DE-FRA-BO1-VLANS,IoT,Smart Building and IoT – DE-FRA-BO1,active
+GUEST-DE-FRA-BO1,1000,DE-FRA-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – DE-FRA-BO1,active
+DEVICE-MGMT-ES-MAD-BO1,10,ES-MAD-BO1-VLANS,Infrastructure,Device Management – ES-MAD-BO1,active
+USERS-ES-MAD-BO1,100,ES-MAD-BO1-VLANS,User-Data,Corporate User Access – ES-MAD-BO1,active
+VOICE-ES-MAD-BO1,110,ES-MAD-BO1-VLANS,Voice,IP Telephony – ES-MAD-BO1,active
+USR-WIFI-ES-MAD-BO1,120,ES-MAD-BO1-VLANS,User-Data,Corporate Wireless Data – ES-MAD-BO1,active
+IOT-ES-MAD-BO1,200,ES-MAD-BO1-VLANS,IoT,Smart Building and IoT – ES-MAD-BO1,active
+GUEST-ES-MAD-BO1,1000,ES-MAD-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – ES-MAD-BO1,active
+DEVICE-MGMT-IT-MIL-BO1,10,IT-MIL-BO1-VLANS,Infrastructure,Device Management – IT-MIL-BO1,active
+USERS-IT-MIL-BO1,100,IT-MIL-BO1-VLANS,User-Data,Corporate User Access – IT-MIL-BO1,active
+VOICE-IT-MIL-BO1,110,IT-MIL-BO1-VLANS,Voice,IP Telephony – IT-MIL-BO1,active
+USR-WIFI-IT-MIL-BO1,120,IT-MIL-BO1-VLANS,User-Data,Corporate Wireless Data – IT-MIL-BO1,active
+IOT-IT-MIL-BO1,200,IT-MIL-BO1-VLANS,IoT,Smart Building and IoT – IT-MIL-BO1,active
+GUEST-IT-MIL-BO1,1000,IT-MIL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IT-MIL-BO1,active
+DEVICE-MGMT-IT-ROM-BO1,10,IT-ROM-BO1-VLANS,Infrastructure,Device Management – IT-ROM-BO1,active
+USERS-IT-ROM-BO1,100,IT-ROM-BO1-VLANS,User-Data,Corporate User Access – IT-ROM-BO1,active
+VOICE-IT-ROM-BO1,110,IT-ROM-BO1-VLANS,Voice,IP Telephony – IT-ROM-BO1,active
+USR-WIFI-IT-ROM-BO1,120,IT-ROM-BO1-VLANS,User-Data,Corporate Wireless Data – IT-ROM-BO1,active
+IOT-IT-ROM-BO1,200,IT-ROM-BO1-VLANS,IoT,Smart Building and IoT – IT-ROM-BO1,active
+GUEST-IT-ROM-BO1,1000,IT-ROM-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IT-ROM-BO1,active
+DEVICE-MGMT-CH-ZRH-BO1,10,CH-ZRH-BO1-VLANS,Infrastructure,Device Management – CH-ZRH-BO1,active
+USERS-CH-ZRH-BO1,100,CH-ZRH-BO1-VLANS,User-Data,Corporate User Access – CH-ZRH-BO1,active
+VOICE-CH-ZRH-BO1,110,CH-ZRH-BO1-VLANS,Voice,IP Telephony – CH-ZRH-BO1,active
+USR-WIFI-CH-ZRH-BO1,120,CH-ZRH-BO1-VLANS,User-Data,Corporate Wireless Data – CH-ZRH-BO1,active
+IOT-CH-ZRH-BO1,200,CH-ZRH-BO1-VLANS,IoT,Smart Building and IoT – CH-ZRH-BO1,active
+GUEST-CH-ZRH-BO1,1000,CH-ZRH-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CH-ZRH-BO1,active
+DEVICE-MGMT-IE-DUB-BO1,10,IE-DUB-BO1-VLANS,Infrastructure,Device Management – IE-DUB-BO1,active
+USERS-IE-DUB-BO1,100,IE-DUB-BO1-VLANS,User-Data,Corporate User Access – IE-DUB-BO1,active
+VOICE-IE-DUB-BO1,110,IE-DUB-BO1-VLANS,Voice,IP Telephony – IE-DUB-BO1,active
+USR-WIFI-IE-DUB-BO1,120,IE-DUB-BO1-VLANS,User-Data,Corporate Wireless Data – IE-DUB-BO1,active
+IOT-IE-DUB-BO1,200,IE-DUB-BO1-VLANS,IoT,Smart Building and IoT – IE-DUB-BO1,active
+GUEST-IE-DUB-BO1,1000,IE-DUB-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IE-DUB-BO1,active
+DEVICE-MGMT-BE-BRU-BO1,10,BE-BRU-BO1-VLANS,Infrastructure,Device Management – BE-BRU-BO1,active
+USERS-BE-BRU-BO1,100,BE-BRU-BO1-VLANS,User-Data,Corporate User Access – BE-BRU-BO1,active
+VOICE-BE-BRU-BO1,110,BE-BRU-BO1-VLANS,Voice,IP Telephony – BE-BRU-BO1,active
+USR-WIFI-BE-BRU-BO1,120,BE-BRU-BO1-VLANS,User-Data,Corporate Wireless Data – BE-BRU-BO1,active
+IOT-BE-BRU-BO1,200,BE-BRU-BO1-VLANS,IoT,Smart Building and IoT – BE-BRU-BO1,active
+GUEST-BE-BRU-BO1,1000,BE-BRU-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – BE-BRU-BO1,active
+DEVICE-MGMT-AT-VIE-BO1,10,AT-VIE-BO1-VLANS,Infrastructure,Device Management – AT-VIE-BO1,active
+USERS-AT-VIE-BO1,100,AT-VIE-BO1-VLANS,User-Data,Corporate User Access – AT-VIE-BO1,active
+VOICE-AT-VIE-BO1,110,AT-VIE-BO1-VLANS,Voice,IP Telephony – AT-VIE-BO1,active
+USR-WIFI-AT-VIE-BO1,120,AT-VIE-BO1-VLANS,User-Data,Corporate Wireless Data – AT-VIE-BO1,active
+IOT-AT-VIE-BO1,200,AT-VIE-BO1-VLANS,IoT,Smart Building and IoT – AT-VIE-BO1,active
+GUEST-AT-VIE-BO1,1000,AT-VIE-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – AT-VIE-BO1,active
+DEVICE-MGMT-PT-LIS-BO1,10,PT-LIS-BO1-VLANS,Infrastructure,Device Management – PT-LIS-BO1,active
+USERS-PT-LIS-BO1,100,PT-LIS-BO1-VLANS,User-Data,Corporate User Access – PT-LIS-BO1,active
+VOICE-PT-LIS-BO1,110,PT-LIS-BO1-VLANS,Voice,IP Telephony – PT-LIS-BO1,active
+USR-WIFI-PT-LIS-BO1,120,PT-LIS-BO1-VLANS,User-Data,Corporate Wireless Data – PT-LIS-BO1,active
+IOT-PT-LIS-BO1,200,PT-LIS-BO1-VLANS,IoT,Smart Building and IoT – PT-LIS-BO1,active
+GUEST-PT-LIS-BO1,1000,PT-LIS-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – PT-LIS-BO1,active
+DEVICE-MGMT-SE-STO-BO1,10,SE-STO-BO1-VLANS,Infrastructure,Device Management – SE-STO-BO1,active
+USERS-SE-STO-BO1,100,SE-STO-BO1-VLANS,User-Data,Corporate User Access – SE-STO-BO1,active
+VOICE-SE-STO-BO1,110,SE-STO-BO1-VLANS,Voice,IP Telephony – SE-STO-BO1,active
+USR-WIFI-SE-STO-BO1,120,SE-STO-BO1-VLANS,User-Data,Corporate Wireless Data – SE-STO-BO1,active
+IOT-SE-STO-BO1,200,SE-STO-BO1-VLANS,IoT,Smart Building and IoT – SE-STO-BO1,active
+GUEST-SE-STO-BO1,1000,SE-STO-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – SE-STO-BO1,active
+DEVICE-MGMT-PL-WAW-BO1,10,PL-WAW-BO1-VLANS,Infrastructure,Device Management – PL-WAW-BO1,active
+USERS-PL-WAW-BO1,100,PL-WAW-BO1-VLANS,User-Data,Corporate User Access – PL-WAW-BO1,active
+VOICE-PL-WAW-BO1,110,PL-WAW-BO1-VLANS,Voice,IP Telephony – PL-WAW-BO1,active
+USR-WIFI-PL-WAW-BO1,120,PL-WAW-BO1-VLANS,User-Data,Corporate Wireless Data – PL-WAW-BO1,active
+IOT-PL-WAW-BO1,200,PL-WAW-BO1-VLANS,IoT,Smart Building and IoT – PL-WAW-BO1,active
+GUEST-PL-WAW-BO1,1000,PL-WAW-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – PL-WAW-BO1,active
+DEVICE-MGMT-NO-OSL-BO1,10,NO-OSL-BO1-VLANS,Infrastructure,Device Management – NO-OSL-BO1,active
+USERS-NO-OSL-BO1,100,NO-OSL-BO1-VLANS,User-Data,Corporate User Access – NO-OSL-BO1,active
+VOICE-NO-OSL-BO1,110,NO-OSL-BO1-VLANS,Voice,IP Telephony – NO-OSL-BO1,active
+USR-WIFI-NO-OSL-BO1,120,NO-OSL-BO1-VLANS,User-Data,Corporate Wireless Data – NO-OSL-BO1,active
+IOT-NO-OSL-BO1,200,NO-OSL-BO1-VLANS,IoT,Smart Building and IoT – NO-OSL-BO1,active
+GUEST-NO-OSL-BO1,1000,NO-OSL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – NO-OSL-BO1,active
+DEVICE-MGMT-AE-DXB-DC1,10,AE-DXB-DC1-VLANS,Infrastructure,Device Management – AE-DXB-DC1,active
+USERS-AE-DXB-DC1,100,AE-DXB-DC1-VLANS,User-Data,Corporate User Access – AE-DXB-DC1,active
+VOICE-AE-DXB-DC1,110,AE-DXB-DC1-VLANS,Voice,IP Telephony – AE-DXB-DC1,active
+USR-WIFI-AE-DXB-DC1,120,AE-DXB-DC1-VLANS,User-Data,Corporate Wireless Data – AE-DXB-DC1,active
+IOT-AE-DXB-DC1,200,AE-DXB-DC1-VLANS,IoT,Smart Building and IoT – AE-DXB-DC1,active
+GUEST-AE-DXB-DC1,1000,AE-DXB-DC1-VLANS,Guest-Data,Guest WiFi – Internet Only – AE-DXB-DC1,active
+VM-SERVERS-AE-DXB-DC1,20,AE-DXB-DC1-VLANS,Servers,VM and Server Network – AE-DXB-DC1,active
+DEVICE-MGMT-AE-DXB-BO1,10,AE-DXB-BO1-VLANS,Infrastructure,Device Management – AE-DXB-BO1,active
+USERS-AE-DXB-BO1,100,AE-DXB-BO1-VLANS,User-Data,Corporate User Access – AE-DXB-BO1,active
+VOICE-AE-DXB-BO1,110,AE-DXB-BO1-VLANS,Voice,IP Telephony – AE-DXB-BO1,active
+USR-WIFI-AE-DXB-BO1,120,AE-DXB-BO1-VLANS,User-Data,Corporate Wireless Data – AE-DXB-BO1,active
+IOT-AE-DXB-BO1,200,AE-DXB-BO1-VLANS,IoT,Smart Building and IoT – AE-DXB-BO1,active
+GUEST-AE-DXB-BO1,1000,AE-DXB-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – AE-DXB-BO1,active
+DEVICE-MGMT-SA-RUH-BO1,10,SA-RUH-BO1-VLANS,Infrastructure,Device Management – SA-RUH-BO1,active
+USERS-SA-RUH-BO1,100,SA-RUH-BO1-VLANS,User-Data,Corporate User Access – SA-RUH-BO1,active
+VOICE-SA-RUH-BO1,110,SA-RUH-BO1-VLANS,Voice,IP Telephony – SA-RUH-BO1,active
+USR-WIFI-SA-RUH-BO1,120,SA-RUH-BO1-VLANS,User-Data,Corporate Wireless Data – SA-RUH-BO1,active
+IOT-SA-RUH-BO1,200,SA-RUH-BO1-VLANS,IoT,Smart Building and IoT – SA-RUH-BO1,active
+GUEST-SA-RUH-BO1,1000,SA-RUH-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – SA-RUH-BO1,active
+DEVICE-MGMT-EG-CAI-BO1,10,EG-CAI-BO1-VLANS,Infrastructure,Device Management – EG-CAI-BO1,active
+USERS-EG-CAI-BO1,100,EG-CAI-BO1-VLANS,User-Data,Corporate User Access – EG-CAI-BO1,active
+VOICE-EG-CAI-BO1,110,EG-CAI-BO1-VLANS,Voice,IP Telephony – EG-CAI-BO1,active
+USR-WIFI-EG-CAI-BO1,120,EG-CAI-BO1-VLANS,User-Data,Corporate Wireless Data – EG-CAI-BO1,active
+IOT-EG-CAI-BO1,200,EG-CAI-BO1-VLANS,IoT,Smart Building and IoT – EG-CAI-BO1,active
+GUEST-EG-CAI-BO1,1000,EG-CAI-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – EG-CAI-BO1,active
+DEVICE-MGMT-ZA-JNB-DC1,10,ZA-JNB-DC1-VLANS,Infrastructure,Device Management – ZA-JNB-DC1,active
+USERS-ZA-JNB-DC1,100,ZA-JNB-DC1-VLANS,User-Data,Corporate User Access – ZA-JNB-DC1,active
+VOICE-ZA-JNB-DC1,110,ZA-JNB-DC1-VLANS,Voice,IP Telephony – ZA-JNB-DC1,active
+USR-WIFI-ZA-JNB-DC1,120,ZA-JNB-DC1-VLANS,User-Data,Corporate Wireless Data – ZA-JNB-DC1,active
+IOT-ZA-JNB-DC1,200,ZA-JNB-DC1-VLANS,IoT,Smart Building and IoT – ZA-JNB-DC1,active
+GUEST-ZA-JNB-DC1,1000,ZA-JNB-DC1-VLANS,Guest-Data,Guest WiFi – Internet Only – ZA-JNB-DC1,active
+VM-SERVERS-ZA-JNB-DC1,20,ZA-JNB-DC1-VLANS,Servers,VM and Server Network – ZA-JNB-DC1,active
+DEVICE-MGMT-NG-LOS-BO1,10,NG-LOS-BO1-VLANS,Infrastructure,Device Management – NG-LOS-BO1,active
+USERS-NG-LOS-BO1,100,NG-LOS-BO1-VLANS,User-Data,Corporate User Access – NG-LOS-BO1,active
+VOICE-NG-LOS-BO1,110,NG-LOS-BO1-VLANS,Voice,IP Telephony – NG-LOS-BO1,active
+USR-WIFI-NG-LOS-BO1,120,NG-LOS-BO1-VLANS,User-Data,Corporate Wireless Data – NG-LOS-BO1,active
+IOT-NG-LOS-BO1,200,NG-LOS-BO1-VLANS,IoT,Smart Building and IoT – NG-LOS-BO1,active
+GUEST-NG-LOS-BO1,1000,NG-LOS-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – NG-LOS-BO1,active
+DEVICE-MGMT-KE-NBO-BO1,10,KE-NBO-BO1-VLANS,Infrastructure,Device Management – KE-NBO-BO1,active
+USERS-KE-NBO-BO1,100,KE-NBO-BO1-VLANS,User-Data,Corporate User Access – KE-NBO-BO1,active
+VOICE-KE-NBO-BO1,110,KE-NBO-BO1-VLANS,Voice,IP Telephony – KE-NBO-BO1,active
+USR-WIFI-KE-NBO-BO1,120,KE-NBO-BO1-VLANS,User-Data,Corporate Wireless Data – KE-NBO-BO1,active
+IOT-KE-NBO-BO1,200,KE-NBO-BO1-VLANS,IoT,Smart Building and IoT – KE-NBO-BO1,active
+GUEST-KE-NBO-BO1,1000,KE-NBO-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – KE-NBO-BO1,active
+DEVICE-MGMT-HK-HKG-DC1,10,HK-HKG-DC1-VLANS,Infrastructure,Device Management – HK-HKG-DC1,active
+USERS-HK-HKG-DC1,100,HK-HKG-DC1-VLANS,User-Data,Corporate User Access – HK-HKG-DC1,active
+VOICE-HK-HKG-DC1,110,HK-HKG-DC1-VLANS,Voice,IP Telephony – HK-HKG-DC1,active
+USR-WIFI-HK-HKG-DC1,120,HK-HKG-DC1-VLANS,User-Data,Corporate Wireless Data – HK-HKG-DC1,active
+IOT-HK-HKG-DC1,200,HK-HKG-DC1-VLANS,IoT,Smart Building and IoT – HK-HKG-DC1,active
+GUEST-HK-HKG-DC1,1000,HK-HKG-DC1-VLANS,Guest-Data,Guest WiFi – Internet Only – HK-HKG-DC1,active
+VM-SERVERS-HK-HKG-DC1,20,HK-HKG-DC1-VLANS,Servers,VM and Server Network – HK-HKG-DC1,active
+DEVICE-MGMT-HK-HKG-BO1,10,HK-HKG-BO1-VLANS,Infrastructure,Device Management – HK-HKG-BO1,active
+USERS-HK-HKG-BO1,100,HK-HKG-BO1-VLANS,User-Data,Corporate User Access – HK-HKG-BO1,active
+VOICE-HK-HKG-BO1,110,HK-HKG-BO1-VLANS,Voice,IP Telephony – HK-HKG-BO1,active
+USR-WIFI-HK-HKG-BO1,120,HK-HKG-BO1-VLANS,User-Data,Corporate Wireless Data – HK-HKG-BO1,active
+IOT-HK-HKG-BO1,200,HK-HKG-BO1-VLANS,IoT,Smart Building and IoT – HK-HKG-BO1,active
+GUEST-HK-HKG-BO1,1000,HK-HKG-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – HK-HKG-BO1,active
+DEVICE-MGMT-CN-SHA-BO1,10,CN-SHA-BO1-VLANS,Infrastructure,Device Management – CN-SHA-BO1,active
+USERS-CN-SHA-BO1,100,CN-SHA-BO1-VLANS,User-Data,Corporate User Access – CN-SHA-BO1,active
+VOICE-CN-SHA-BO1,110,CN-SHA-BO1-VLANS,Voice,IP Telephony – CN-SHA-BO1,active
+USR-WIFI-CN-SHA-BO1,120,CN-SHA-BO1-VLANS,User-Data,Corporate Wireless Data – CN-SHA-BO1,active
+IOT-CN-SHA-BO1,200,CN-SHA-BO1-VLANS,IoT,Smart Building and IoT – CN-SHA-BO1,active
+GUEST-CN-SHA-BO1,1000,CN-SHA-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CN-SHA-BO1,active
+DEVICE-MGMT-CN-BEJ-BO1,10,CN-BEJ-BO1-VLANS,Infrastructure,Device Management – CN-BEJ-BO1,active
+USERS-CN-BEJ-BO1,100,CN-BEJ-BO1-VLANS,User-Data,Corporate User Access – CN-BEJ-BO1,active
+VOICE-CN-BEJ-BO1,110,CN-BEJ-BO1-VLANS,Voice,IP Telephony – CN-BEJ-BO1,active
+USR-WIFI-CN-BEJ-BO1,120,CN-BEJ-BO1-VLANS,User-Data,Corporate Wireless Data – CN-BEJ-BO1,active
+IOT-CN-BEJ-BO1,200,CN-BEJ-BO1-VLANS,IoT,Smart Building and IoT – CN-BEJ-BO1,active
+GUEST-CN-BEJ-BO1,1000,CN-BEJ-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – CN-BEJ-BO1,active
+DEVICE-MGMT-TW-TPE-BO1,10,TW-TPE-BO1-VLANS,Infrastructure,Device Management – TW-TPE-BO1,active
+USERS-TW-TPE-BO1,100,TW-TPE-BO1-VLANS,User-Data,Corporate User Access – TW-TPE-BO1,active
+VOICE-TW-TPE-BO1,110,TW-TPE-BO1-VLANS,Voice,IP Telephony – TW-TPE-BO1,active
+USR-WIFI-TW-TPE-BO1,120,TW-TPE-BO1-VLANS,User-Data,Corporate Wireless Data – TW-TPE-BO1,active
+IOT-TW-TPE-BO1,200,TW-TPE-BO1-VLANS,IoT,Smart Building and IoT – TW-TPE-BO1,active
+GUEST-TW-TPE-BO1,1000,TW-TPE-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – TW-TPE-BO1,active
+DEVICE-MGMT-TH-BKK-BO1,10,TH-BKK-BO1-VLANS,Infrastructure,Device Management – TH-BKK-BO1,active
+USERS-TH-BKK-BO1,100,TH-BKK-BO1-VLANS,User-Data,Corporate User Access – TH-BKK-BO1,active
+VOICE-TH-BKK-BO1,110,TH-BKK-BO1-VLANS,Voice,IP Telephony – TH-BKK-BO1,active
+USR-WIFI-TH-BKK-BO1,120,TH-BKK-BO1-VLANS,User-Data,Corporate Wireless Data – TH-BKK-BO1,active
+IOT-TH-BKK-BO1,200,TH-BKK-BO1-VLANS,IoT,Smart Building and IoT – TH-BKK-BO1,active
+GUEST-TH-BKK-BO1,1000,TH-BKK-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – TH-BKK-BO1,active
+DEVICE-MGMT-ID-JKT-BO1,10,ID-JKT-BO1-VLANS,Infrastructure,Device Management – ID-JKT-BO1,active
+USERS-ID-JKT-BO1,100,ID-JKT-BO1-VLANS,User-Data,Corporate User Access – ID-JKT-BO1,active
+VOICE-ID-JKT-BO1,110,ID-JKT-BO1-VLANS,Voice,IP Telephony – ID-JKT-BO1,active
+USR-WIFI-ID-JKT-BO1,120,ID-JKT-BO1-VLANS,User-Data,Corporate Wireless Data – ID-JKT-BO1,active
+IOT-ID-JKT-BO1,200,ID-JKT-BO1-VLANS,IoT,Smart Building and IoT – ID-JKT-BO1,active
+GUEST-ID-JKT-BO1,1000,ID-JKT-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – ID-JKT-BO1,active
+DEVICE-MGMT-PH-MNL-BO1,10,PH-MNL-BO1-VLANS,Infrastructure,Device Management – PH-MNL-BO1,active
+USERS-PH-MNL-BO1,100,PH-MNL-BO1-VLANS,User-Data,Corporate User Access – PH-MNL-BO1,active
+VOICE-PH-MNL-BO1,110,PH-MNL-BO1-VLANS,Voice,IP Telephony – PH-MNL-BO1,active
+USR-WIFI-PH-MNL-BO1,120,PH-MNL-BO1-VLANS,User-Data,Corporate Wireless Data – PH-MNL-BO1,active
+IOT-PH-MNL-BO1,200,PH-MNL-BO1-VLANS,IoT,Smart Building and IoT – PH-MNL-BO1,active
+GUEST-PH-MNL-BO1,1000,PH-MNL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – PH-MNL-BO1,active
+DEVICE-MGMT-VN-HAN-BO1,10,VN-HAN-BO1-VLANS,Infrastructure,Device Management – VN-HAN-BO1,active
+USERS-VN-HAN-BO1,100,VN-HAN-BO1-VLANS,User-Data,Corporate User Access – VN-HAN-BO1,active
+VOICE-VN-HAN-BO1,110,VN-HAN-BO1-VLANS,Voice,IP Telephony – VN-HAN-BO1,active
+USR-WIFI-VN-HAN-BO1,120,VN-HAN-BO1-VLANS,User-Data,Corporate Wireless Data – VN-HAN-BO1,active
+IOT-VN-HAN-BO1,200,VN-HAN-BO1-VLANS,IoT,Smart Building and IoT – VN-HAN-BO1,active
+GUEST-VN-HAN-BO1,1000,VN-HAN-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – VN-HAN-BO1,active
+DEVICE-MGMT-JP-TYO-DC1,10,JP-TYO-DC1-VLANS,Infrastructure,Device Management – JP-TYO-DC1,active
+USERS-JP-TYO-DC1,100,JP-TYO-DC1-VLANS,User-Data,Corporate User Access – JP-TYO-DC1,active
+VOICE-JP-TYO-DC1,110,JP-TYO-DC1-VLANS,Voice,IP Telephony – JP-TYO-DC1,active
+USR-WIFI-JP-TYO-DC1,120,JP-TYO-DC1-VLANS,User-Data,Corporate Wireless Data – JP-TYO-DC1,active
+IOT-JP-TYO-DC1,200,JP-TYO-DC1-VLANS,IoT,Smart Building and IoT – JP-TYO-DC1,active
+GUEST-JP-TYO-DC1,1000,JP-TYO-DC1-VLANS,Guest-Data,Guest WiFi – Internet Only – JP-TYO-DC1,active
+VM-SERVERS-JP-TYO-DC1,20,JP-TYO-DC1-VLANS,Servers,VM and Server Network – JP-TYO-DC1,active
+DEVICE-MGMT-JP-TYO-BO1,10,JP-TYO-BO1-VLANS,Infrastructure,Device Management – JP-TYO-BO1,active
+USERS-JP-TYO-BO1,100,JP-TYO-BO1-VLANS,User-Data,Corporate User Access – JP-TYO-BO1,active
+VOICE-JP-TYO-BO1,110,JP-TYO-BO1-VLANS,Voice,IP Telephony – JP-TYO-BO1,active
+USR-WIFI-JP-TYO-BO1,120,JP-TYO-BO1-VLANS,User-Data,Corporate Wireless Data – JP-TYO-BO1,active
+IOT-JP-TYO-BO1,200,JP-TYO-BO1-VLANS,IoT,Smart Building and IoT – JP-TYO-BO1,active
+GUEST-JP-TYO-BO1,1000,JP-TYO-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – JP-TYO-BO1,active
+VM-SERVERS-JP-TYO-BO1,20,JP-TYO-BO1-VLANS,Servers,VM and Server Network – JP-TYO-BO1,active
+DEVICE-MGMT-JP-OSA-BO1,10,JP-OSA-BO1-VLANS,Infrastructure,Device Management – JP-OSA-BO1,active
+USERS-JP-OSA-BO1,100,JP-OSA-BO1-VLANS,User-Data,Corporate User Access – JP-OSA-BO1,active
+VOICE-JP-OSA-BO1,110,JP-OSA-BO1-VLANS,Voice,IP Telephony – JP-OSA-BO1,active
+USR-WIFI-JP-OSA-BO1,120,JP-OSA-BO1-VLANS,User-Data,Corporate Wireless Data – JP-OSA-BO1,active
+IOT-JP-OSA-BO1,200,JP-OSA-BO1-VLANS,IoT,Smart Building and IoT – JP-OSA-BO1,active
+GUEST-JP-OSA-BO1,1000,JP-OSA-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – JP-OSA-BO1,active
+DEVICE-MGMT-KR-SEL-BO1,10,KR-SEL-BO1-VLANS,Infrastructure,Device Management – KR-SEL-BO1,active
+USERS-KR-SEL-BO1,100,KR-SEL-BO1-VLANS,User-Data,Corporate User Access – KR-SEL-BO1,active
+VOICE-KR-SEL-BO1,110,KR-SEL-BO1-VLANS,Voice,IP Telephony – KR-SEL-BO1,active
+USR-WIFI-KR-SEL-BO1,120,KR-SEL-BO1-VLANS,User-Data,Corporate Wireless Data – KR-SEL-BO1,active
+IOT-KR-SEL-BO1,200,KR-SEL-BO1-VLANS,IoT,Smart Building and IoT – KR-SEL-BO1,active
+GUEST-KR-SEL-BO1,1000,KR-SEL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – KR-SEL-BO1,active
+DEVICE-MGMT-IN-DEL-BO1,10,IN-DEL-BO1-VLANS,Infrastructure,Device Management – IN-DEL-BO1,active
+USERS-IN-DEL-BO1,100,IN-DEL-BO1-VLANS,User-Data,Corporate User Access – IN-DEL-BO1,active
+VOICE-IN-DEL-BO1,110,IN-DEL-BO1-VLANS,Voice,IP Telephony – IN-DEL-BO1,active
+USR-WIFI-IN-DEL-BO1,120,IN-DEL-BO1-VLANS,User-Data,Corporate Wireless Data – IN-DEL-BO1,active
+IOT-IN-DEL-BO1,200,IN-DEL-BO1-VLANS,IoT,Smart Building and IoT – IN-DEL-BO1,active
+GUEST-IN-DEL-BO1,1000,IN-DEL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IN-DEL-BO1,active
+DEVICE-MGMT-IN-HYD-BO1,10,IN-HYD-BO1-VLANS,Infrastructure,Device Management – IN-HYD-BO1,active
+USERS-IN-HYD-BO1,100,IN-HYD-BO1-VLANS,User-Data,Corporate User Access – IN-HYD-BO1,active
+VOICE-IN-HYD-BO1,110,IN-HYD-BO1-VLANS,Voice,IP Telephony – IN-HYD-BO1,active
+USR-WIFI-IN-HYD-BO1,120,IN-HYD-BO1-VLANS,User-Data,Corporate Wireless Data – IN-HYD-BO1,active
+IOT-IN-HYD-BO1,200,IN-HYD-BO1-VLANS,IoT,Smart Building and IoT – IN-HYD-BO1,active
+GUEST-IN-HYD-BO1,1000,IN-HYD-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IN-HYD-BO1,active
+DEVICE-MGMT-IN-CHE-BO1,10,IN-CHE-BO1-VLANS,Infrastructure,Device Management – IN-CHE-BO1,active
+USERS-IN-CHE-BO1,100,IN-CHE-BO1-VLANS,User-Data,Corporate User Access – IN-CHE-BO1,active
+VOICE-IN-CHE-BO1,110,IN-CHE-BO1-VLANS,Voice,IP Telephony – IN-CHE-BO1,active
+USR-WIFI-IN-CHE-BO1,120,IN-CHE-BO1-VLANS,User-Data,Corporate Wireless Data – IN-CHE-BO1,active
+IOT-IN-CHE-BO1,200,IN-CHE-BO1-VLANS,IoT,Smart Building and IoT – IN-CHE-BO1,active
+GUEST-IN-CHE-BO1,1000,IN-CHE-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IN-CHE-BO1,active
+DEVICE-MGMT-IN-PUN-BO1,10,IN-PUN-BO1-VLANS,Infrastructure,Device Management – IN-PUN-BO1,active
+USERS-IN-PUN-BO1,100,IN-PUN-BO1-VLANS,User-Data,Corporate User Access – IN-PUN-BO1,active
+VOICE-IN-PUN-BO1,110,IN-PUN-BO1-VLANS,Voice,IP Telephony – IN-PUN-BO1,active
+USR-WIFI-IN-PUN-BO1,120,IN-PUN-BO1-VLANS,User-Data,Corporate Wireless Data – IN-PUN-BO1,active
+IOT-IN-PUN-BO1,200,IN-PUN-BO1-VLANS,IoT,Smart Building and IoT – IN-PUN-BO1,active
+GUEST-IN-PUN-BO1,1000,IN-PUN-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – IN-PUN-BO1,active
+DEVICE-MGMT-PK-KHI-BO1,10,PK-KHI-BO1-VLANS,Infrastructure,Device Management – PK-KHI-BO1,active
+USERS-PK-KHI-BO1,100,PK-KHI-BO1-VLANS,User-Data,Corporate User Access – PK-KHI-BO1,active
+VOICE-PK-KHI-BO1,110,PK-KHI-BO1-VLANS,Voice,IP Telephony – PK-KHI-BO1,active
+USR-WIFI-PK-KHI-BO1,120,PK-KHI-BO1-VLANS,User-Data,Corporate Wireless Data – PK-KHI-BO1,active
+IOT-PK-KHI-BO1,200,PK-KHI-BO1-VLANS,IoT,Smart Building and IoT – PK-KHI-BO1,active
+GUEST-PK-KHI-BO1,1000,PK-KHI-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – PK-KHI-BO1,active
+DEVICE-MGMT-NZ-AKL-BO1,10,NZ-AKL-BO1-VLANS,Infrastructure,Device Management – NZ-AKL-BO1,active
+USERS-NZ-AKL-BO1,100,NZ-AKL-BO1-VLANS,User-Data,Corporate User Access – NZ-AKL-BO1,active
+VOICE-NZ-AKL-BO1,110,NZ-AKL-BO1-VLANS,Voice,IP Telephony – NZ-AKL-BO1,active
+USR-WIFI-NZ-AKL-BO1,120,NZ-AKL-BO1-VLANS,User-Data,Corporate Wireless Data – NZ-AKL-BO1,active
+IOT-NZ-AKL-BO1,200,NZ-AKL-BO1-VLANS,IoT,Smart Building and IoT – NZ-AKL-BO1,active
+GUEST-NZ-AKL-BO1,1000,NZ-AKL-BO1-VLANS,Guest-Data,Guest WiFi – Internet Only – NZ-AKL-BO1,active

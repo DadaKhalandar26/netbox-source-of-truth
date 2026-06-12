@@ -1,21 +1,22 @@
 from urllib import response
-
+from dotenv import load_dotenv
 import pynetbox, os, requests, json
-from utils.logger import Setup_logging
+from utils.logger import setup_logging
 from docs.netbox_docs.API_DETAILS import API_LIST, SUB_API_LIST
+
 # below imports and variables are added for testing purpose, they will be removed once the client is ready to use in other modules
 # from dotenv import load_dotenv
 # from rich import print as r_print
 
-# load_dotenv()
+load_dotenv()
 
-# base_url = os.getenv('NETBOX_URL')
+base_url = os.getenv('NETBOX_URL')
 # v1_token_RO = os.getenv('NETBOX_V1_TOKEN_RO')
 # v1_token_Rw = os.getenv('NETBOX_V1_TOKEN_RW')
 # v2_token_RO = os.getenv('NETBOX_V2_TOKEN_RO')
 # v2_token_RW = os.getenv('NETBOX_V2_TOKEN_RW')
 
-logger = Setup_logging('logs/integrations/netbox.log')
+logger = setup_logging('logs/integrations/netbox.log')
 
 class NetBoxClient():
     '''
@@ -44,7 +45,7 @@ class NetBoxClient():
         self.netbox_auth_token = netbox_auth_token
         
 
-    def get_requests(self, url) -> dict:
+    def get_requests(self, url:str) -> dict:
         '''
         Generic GET method using requests library.
 
@@ -96,7 +97,6 @@ class NetBoxClient():
                 get_result['results'].extend(get_new_result['results'])
 
         except requests.exceptions.JSONDecodeError as J:
-            
             logger.error(f'There is issue with pasring header/Token/url error message:{J}')
         except requests.exceptions.HTTPError as e:
             logger.error(f'HTTP error occurred: {e}')
@@ -238,6 +238,7 @@ class NetBoxClient():
             response = requests.request('POST', url=self.netbox_base_url+url, headers=header, timeout=15, json=payload)
             response.raise_for_status()
             logger.debug(f'NetBox returned status code: {response.status_code}')
+            print(response)
             get_result = response.json()
 
             logger.info(f'Successfully created NetBox object using endpoint: {url}')
@@ -246,6 +247,7 @@ class NetBoxClient():
             logger.error(f'There is issue with pasring header/Token/url/payload error message:{J}')
         except requests.exceptions.HTTPError as e:
             logger.error(f'HTTP error occurred: {e}')
+            return response.json()
         except Exception as e:
             logger.error(f'Encountered Error: {e}')
 
@@ -512,13 +514,13 @@ if __name__ == "__main__":
     # # result = NetBoxClient.patch_pynetbox(api='dcim', sub_api='sites', obj_id=37, **paylaod)
     # # r_print(list(result))
 
-    # # header = {
-    # #             'Authorization': f"Bearer {v2_token_RW}",
-    # #             }
+    # header = {
+    #             'Authorization': f"Bearer {v2_token_RW}",
+    #             }
         
-    # # payload = {'id': 38}
+    # payload = {'id': 38}
 
-    # # response = requests.request('DELETE', url='http://34.131.182.113/api/dcim/sites/38/', headers=header, timeout=15, json=payload)
+    # # # response = requests.request('DELETE', url='http://34.131.182.113/api/dcim/sites/38/', headers=header, timeout=15, json=payload)
 
     # nb = NetBoxClient(netbox_base_url=base_url, netbox_auth_token=v2_token_RW)
     # result = nb.delete_requests(url_with_id=f'/api/dcim/sites/40/', obj_id=40)

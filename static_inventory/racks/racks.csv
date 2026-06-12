@@ -1,0 +1,210 @@
+site,name,status,location,tenant,role,rack_type
+US-SFO-DC1,RK-US-SFO-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+US-SFO-DC1,RK-US-SFO-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+US-SFO-DC1,RK-US-SFO-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+US-SFO-DC1,RK-US-SFO-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+US-SFO-DC1,RK-US-SFO-DC1-CMP-03,active,Data Hall 01,Internal,Compute,NetShelter SX 48U
+US-SFO-DC1,RK-US-SFO-DC1-STG-01,active,Staging Area,Internal,Staging,VR Rack 42U
+US-SFO-DC1,RK-US-SFO-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+US-SFO-DC1,RK-US-SFO-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+US-SFO-DC1,RK-US-SFO-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+US-NYC-CO1,RK-US-NYC-CO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+US-NYC-CO1,RK-US-NYC-CO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+US-NYC-CO1,RK-US-NYC-CO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+US-NYC-CO1,RK-US-NYC-CO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+US-NYC-CO1,RK-US-NYC-CO1-ACC-03,active,Floor 02,Internal,Edge Networking,12U Wall Mount Rack
+US-NYC-CO1,RK-US-NYC-CO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+CA-TOR-BO1,RK-CA-TOR-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+CA-TOR-BO1,RK-CA-TOR-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+CA-TOR-BO1,RK-CA-TOR-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+CA-TOR-BO1,RK-CA-TOR-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+CA-TOR-BO1,RK-CA-TOR-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+IN-MUM-CO1,RK-IN-MUM-CO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+IN-MUM-CO1,RK-IN-MUM-CO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+IN-MUM-CO1,RK-IN-MUM-CO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+IN-MUM-CO1,RK-IN-MUM-CO1-ACC-02,active,IDF 02,Internal,Edge Networking,12U Wall Mount Rack
+IN-MUM-CO1,RK-IN-MUM-CO1-ACC-03,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+IN-MUM-CO1,RK-IN-MUM-CO1-ACC-04,active,Floor 02,Internal,Edge Networking,12U Wall Mount Rack
+IN-MUM-CO1,RK-IN-MUM-CO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+IN-MUM-CO1,RK-IN-MUM-CO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+IN-MUM-DC1,RK-IN-MUM-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+IN-MUM-DC1,RK-IN-MUM-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+IN-MUM-DC1,RK-IN-MUM-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+IN-MUM-DC1,RK-IN-MUM-DC1-CMP-03,active,Data Hall 01,Internal,Compute,NetShelter SX 48U
+IN-MUM-DC1,RK-IN-MUM-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+IN-MUM-DC1,RK-IN-MUM-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+IN-MUM-DC1,RK-IN-MUM-DC1-STG-01,active,Staging Area,Internal,Staging,VR Rack 42U
+IN-MUM-DC1,RK-IN-MUM-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+IN-BLR-BO1,RK-IN-BLR-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+IN-BLR-BO1,RK-IN-BLR-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+IN-BLR-BO1,RK-IN-BLR-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+IN-BLR-BO1,RK-IN-BLR-BO1-ACC-02,active,IDF 02,Internal,Edge Networking,12U Wall Mount Rack
+IN-BLR-BO1,RK-IN-BLR-BO1-ACC-03,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+IN-BLR-BO1,RK-IN-BLR-BO1-ACC-04,active,Floor 02,Internal,Edge Networking,12U Wall Mount Rack
+IN-BLR-BO1,RK-IN-BLR-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+IN-BLR-BO1,RK-IN-BLR-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+IN-HYD-LAB1,RK-IN-HYD-LAB1-LAB-01,active,Lab Floor A,Internal,Lab,VR Rack 42U
+IN-HYD-LAB1,RK-IN-HYD-LAB1-LAB-02,active,Lab Floor A,Internal,Lab,VR Rack 42U
+IN-HYD-LAB1,RK-IN-HYD-LAB1-LAB-03,active,Lab Floor B,Internal,Lab,VX IT 42U
+IN-HYD-LAB1,RK-IN-HYD-LAB1-CMP-01,active,Server Lab,Internal,Compute,NetShelter SX 42U
+IN-HYD-LAB1,RK-IN-HYD-LAB1-CMP-02,active,Server Lab,Internal,Compute,NetShelter SX 48U
+IN-HYD-LAB1,RK-IN-HYD-LAB1-CORE-01,active,Network Lab,Internal,Core Networking,Net-Access S-Type 45U
+IN-HYD-LAB1,RK-IN-HYD-LAB1-MGT-01,active,Operations Room,Internal,Management,22U Network Cabinet
+IN-HYD-LAB1,RK-IN-HYD-LAB1-STG-01,active,Staging Area,Internal,Staging,VR Rack 42U
+SG-SIN-DC1,RK-SG-SIN-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+SG-SIN-DC1,RK-SG-SIN-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+SG-SIN-DC1,RK-SG-SIN-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+SG-SIN-DC1,RK-SG-SIN-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+SG-SIN-DC1,RK-SG-SIN-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+SG-SIN-DC1,RK-SG-SIN-DC1-CMP-04,active,Data Hall 02,Internal,Compute,VX IT 42U
+SG-SIN-DC1,RK-SG-SIN-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+SG-SIN-DC1,RK-SG-SIN-DC1-STO-02,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+SG-SIN-DC1,RK-SG-SIN-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+SG-SIN-DC1,RK-SG-SIN-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+SG-SIN-DC1,RK-SG-SIN-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+SG-SIN-DC1,RK-SG-SIN-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+SG-SIN-BO1,RK-SG-SIN-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+SG-SIN-BO1,RK-SG-SIN-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+SG-SIN-BO1,RK-SG-SIN-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+SG-SIN-BO1,RK-SG-SIN-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+SG-SIN-BO1,RK-SG-SIN-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+SG-SIN-BO1,RK-SG-SIN-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+AU-SYD-DC1,RK-AU-SYD-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+AU-SYD-DC1,RK-AU-SYD-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+AU-SYD-DC1,RK-AU-SYD-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+AU-SYD-DC1,RK-AU-SYD-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+AU-SYD-DC1,RK-AU-SYD-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+AU-SYD-DC1,RK-AU-SYD-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+AU-SYD-DC1,RK-AU-SYD-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+AU-SYD-DC1,RK-AU-SYD-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+AU-SYD-DC1,RK-AU-SYD-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+AU-SYD-DC1,RK-AU-SYD-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+UK-LON-CO1,RK-UK-LON-CO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+UK-LON-CO1,RK-UK-LON-CO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+UK-LON-CO1,RK-UK-LON-CO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+UK-LON-CO1,RK-UK-LON-CO1-ACC-02,active,IDF 02,Internal,Edge Networking,12U Wall Mount Rack
+UK-LON-CO1,RK-UK-LON-CO1-ACC-03,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+UK-LON-CO1,RK-UK-LON-CO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+UK-LON-CO1,RK-UK-LON-CO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+DE-BER-DC1,RK-DE-BER-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+DE-BER-DC1,RK-DE-BER-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+DE-BER-DC1,RK-DE-BER-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+DE-BER-DC1,RK-DE-BER-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+DE-BER-DC1,RK-DE-BER-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+DE-BER-DC1,RK-DE-BER-DC1-CMP-04,active,Data Hall 02,Internal,Compute,VX IT 42U
+DE-BER-DC1,RK-DE-BER-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+DE-BER-DC1,RK-DE-BER-DC1-STO-02,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+DE-BER-DC1,RK-DE-BER-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+DE-BER-DC1,RK-DE-BER-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+DE-BER-DC1,RK-DE-BER-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+DE-BER-DC1,RK-DE-BER-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+NL-AMS-BO1,RK-NL-AMS-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+NL-AMS-BO1,RK-NL-AMS-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+NL-AMS-BO1,RK-NL-AMS-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+NL-AMS-BO1,RK-NL-AMS-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+NL-AMS-BO1,RK-NL-AMS-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+NL-AMS-BO1,RK-NL-AMS-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+AE-DXB-DC1,RK-AE-DXB-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+AE-DXB-DC1,RK-AE-DXB-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+AE-DXB-DC1,RK-AE-DXB-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+AE-DXB-DC1,RK-AE-DXB-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+AE-DXB-DC1,RK-AE-DXB-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+AE-DXB-DC1,RK-AE-DXB-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+AE-DXB-DC1,RK-AE-DXB-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+AE-DXB-DC1,RK-AE-DXB-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+AE-DXB-DC1,RK-AE-DXB-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+AE-DXB-DC1,RK-AE-DXB-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+ZA-CPT-BO1,RK-ZA-CPT-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+ZA-CPT-BO1,RK-ZA-CPT-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+ZA-CPT-BO1,RK-ZA-CPT-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+ZA-CPT-BO1,RK-ZA-CPT-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+ZA-CPT-BO1,RK-ZA-CPT-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+ZA-CPT-BO1,RK-ZA-CPT-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+BR-SAO-BO1,RK-BR-SAO-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+BR-SAO-BO1,RK-BR-SAO-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+BR-SAO-BO1,RK-BR-SAO-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+BR-SAO-BO1,RK-BR-SAO-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+BR-SAO-BO1,RK-BR-SAO-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+BR-SAO-BO1,RK-BR-SAO-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+JP-TYO-DC1,RK-JP-TYO-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+JP-TYO-DC1,RK-JP-TYO-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+JP-TYO-DC1,RK-JP-TYO-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+JP-TYO-DC1,RK-JP-TYO-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+JP-TYO-DC1,RK-JP-TYO-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+JP-TYO-DC1,RK-JP-TYO-DC1-CMP-04,active,Data Hall 02,Internal,Compute,VX IT 42U
+JP-TYO-DC1,RK-JP-TYO-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+JP-TYO-DC1,RK-JP-TYO-DC1-STO-02,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+JP-TYO-DC1,RK-JP-TYO-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+JP-TYO-DC1,RK-JP-TYO-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+JP-TYO-DC1,RK-JP-TYO-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+JP-TYO-DC1,RK-JP-TYO-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+JP-TYO-CO1,RK-JP-TYO-CO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+JP-TYO-CO1,RK-JP-TYO-CO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+JP-TYO-CO1,RK-JP-TYO-CO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+JP-TYO-CO1,RK-JP-TYO-CO1-ACC-02,active,IDF 02,Internal,Edge Networking,12U Wall Mount Rack
+JP-TYO-CO1,RK-JP-TYO-CO1-ACC-03,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+JP-TYO-CO1,RK-JP-TYO-CO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+JP-TYO-CO1,RK-JP-TYO-CO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+KR-SEL-DC1,RK-KR-SEL-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+KR-SEL-DC1,RK-KR-SEL-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+KR-SEL-DC1,RK-KR-SEL-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+KR-SEL-DC1,RK-KR-SEL-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+KR-SEL-DC1,RK-KR-SEL-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+KR-SEL-DC1,RK-KR-SEL-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+KR-SEL-DC1,RK-KR-SEL-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+KR-SEL-DC1,RK-KR-SEL-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+KR-SEL-DC1,RK-KR-SEL-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+KR-SEL-DC1,RK-KR-SEL-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+ID-JKT-BO1,RK-ID-JKT-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+ID-JKT-BO1,RK-ID-JKT-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+ID-JKT-BO1,RK-ID-JKT-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+ID-JKT-BO1,RK-ID-JKT-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+ID-JKT-BO1,RK-ID-JKT-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+ID-JKT-BO1,RK-ID-JKT-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+FR-PAR-CO1,RK-FR-PAR-CO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+FR-PAR-CO1,RK-FR-PAR-CO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+FR-PAR-CO1,RK-FR-PAR-CO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+FR-PAR-CO1,RK-FR-PAR-CO1-ACC-02,active,IDF 02,Internal,Edge Networking,12U Wall Mount Rack
+FR-PAR-CO1,RK-FR-PAR-CO1-ACC-03,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+FR-PAR-CO1,RK-FR-PAR-CO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+FR-PAR-CO1,RK-FR-PAR-CO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+FR-PAR-DC1,RK-FR-PAR-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+FR-PAR-DC1,RK-FR-PAR-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+FR-PAR-DC1,RK-FR-PAR-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+FR-PAR-DC1,RK-FR-PAR-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+FR-PAR-DC1,RK-FR-PAR-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+FR-PAR-DC1,RK-FR-PAR-DC1-CMP-04,active,Data Hall 02,Internal,Compute,VX IT 42U
+FR-PAR-DC1,RK-FR-PAR-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+FR-PAR-DC1,RK-FR-PAR-DC1-STO-02,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+FR-PAR-DC1,RK-FR-PAR-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+FR-PAR-DC1,RK-FR-PAR-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+FR-PAR-DC1,RK-FR-PAR-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+FR-PAR-DC1,RK-FR-PAR-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+ES-MAD-BO1,RK-ES-MAD-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+ES-MAD-BO1,RK-ES-MAD-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+ES-MAD-BO1,RK-ES-MAD-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+ES-MAD-BO1,RK-ES-MAD-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+ES-MAD-BO1,RK-ES-MAD-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+ES-MAD-BO1,RK-ES-MAD-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+SA-RYD-DC1,RK-SA-RYD-DC1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+SA-RYD-DC1,RK-SA-RYD-DC1-CORE-02,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+SA-RYD-DC1,RK-SA-RYD-DC1-CMP-01,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+SA-RYD-DC1,RK-SA-RYD-DC1-CMP-02,active,Data Hall 01,Internal,Compute,NetShelter SX 42U
+SA-RYD-DC1,RK-SA-RYD-DC1-CMP-03,active,Data Hall 02,Internal,Compute,NetShelter SX 48U
+SA-RYD-DC1,RK-SA-RYD-DC1-STO-01,active,Storage Hall,Internal,Storage,NetShelter SX 48U
+SA-RYD-DC1,RK-SA-RYD-DC1-SEC-01,active,Security Room,Internal,Security,VX IT 42U
+SA-RYD-DC1,RK-SA-RYD-DC1-MGT-01,active,NOC Room,Internal,Management,VX IT 42U
+SA-RYD-DC1,RK-SA-RYD-DC1-ISP-01,active,Meet-Me Room,Internal,ISP Demarcation,Net-Access S-Type 45U
+SA-RYD-DC1,RK-SA-RYD-DC1-PWR-01,active,UPS Room,Internal,Power,Easy Rack 42U
+MX-MXC-BO1,RK-MX-MXC-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+MX-MXC-BO1,RK-MX-MXC-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+MX-MXC-BO1,RK-MX-MXC-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+MX-MXC-BO1,RK-MX-MXC-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+MX-MXC-BO1,RK-MX-MXC-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+MX-MXC-BO1,RK-MX-MXC-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet
+AR-BUE-BO1,RK-AR-BUE-BO1-SRV-01,active,MDF Room,Internal,Compute,NetShelter SX 42U
+AR-BUE-BO1,RK-AR-BUE-BO1-CORE-01,active,MDF Room,Internal,Core Networking,Net-Access S-Type 45U
+AR-BUE-BO1,RK-AR-BUE-BO1-ACC-01,active,IDF 01,Internal,Edge Networking,12U Wall Mount Rack
+AR-BUE-BO1,RK-AR-BUE-BO1-ACC-02,active,Floor 01,Internal,Edge Networking,12U Wall Mount Rack
+AR-BUE-BO1,RK-AR-BUE-BO1-MGT-01,active,IT Support Room,Internal,Management,22U Network Cabinet
+AR-BUE-BO1,RK-AR-BUE-BO1-PATCH-01,active,Patch Room,Internal,Patching,22U Network Cabinet

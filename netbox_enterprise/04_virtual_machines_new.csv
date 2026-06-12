@@ -1,0 +1,61 @@
+name,site,cluster,platform,vcpus,memory,disk,description,tenant
+US-CHI-DC1-AD-01,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Primary Active Directory / DNS,IT Operations
+US-CHI-DC1-AD-02,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Secondary Active Directory / DNS,IT Operations
+US-CHI-DC1-WEB-01,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 01,IT Operations
+US-CHI-DC1-WEB-02,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 02,IT Operations
+US-CHI-DC1-APP-01,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 01,IT Operations
+US-CHI-DC1-APP-02,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 02,IT Operations
+US-CHI-DC1-DB-01,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Primary,IT Operations
+US-CHI-DC1-DB-02,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Secondary,IT Operations
+US-CHI-DC1-MGMT-01,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1000000,Management and Jump Host,IT Operations
+US-CHI-DC1-LOG-01,US-CHI-DC1,US-CHI-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,12288,1000000,Centralised Logging and Telemetry,IT Operations
+FR-PAR-DC1-AD-01,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Primary Active Directory / DNS,IT Operations
+FR-PAR-DC1-AD-02,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Secondary Active Directory / DNS,IT Operations
+FR-PAR-DC1-WEB-01,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 01,IT Operations
+FR-PAR-DC1-WEB-02,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 02,IT Operations
+FR-PAR-DC1-APP-01,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 01,IT Operations
+FR-PAR-DC1-APP-02,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 02,IT Operations
+FR-PAR-DC1-DB-01,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Primary,IT Operations
+FR-PAR-DC1-DB-02,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Secondary,IT Operations
+FR-PAR-DC1-MGMT-01,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1000000,Management and Jump Host,IT Operations
+FR-PAR-DC1-LOG-01,FR-PAR-DC1,FR-PAR-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,12288,1000000,Centralised Logging and Telemetry,IT Operations
+AE-DXB-DC1-AD-01,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Primary Active Directory / DNS,IT Operations
+AE-DXB-DC1-AD-02,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Secondary Active Directory / DNS,IT Operations
+AE-DXB-DC1-WEB-01,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 01,IT Operations
+AE-DXB-DC1-WEB-02,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 02,IT Operations
+AE-DXB-DC1-APP-01,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 01,IT Operations
+AE-DXB-DC1-APP-02,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 02,IT Operations
+AE-DXB-DC1-DB-01,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Primary,IT Operations
+AE-DXB-DC1-DB-02,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Secondary,IT Operations
+AE-DXB-DC1-MGMT-01,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1000000,Management and Jump Host,IT Operations
+AE-DXB-DC1-LOG-01,AE-DXB-DC1,AE-DXB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,12288,1000000,Centralised Logging and Telemetry,IT Operations
+ZA-JNB-DC1-AD-01,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Primary Active Directory / DNS,IT Operations
+ZA-JNB-DC1-AD-02,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Secondary Active Directory / DNS,IT Operations
+ZA-JNB-DC1-WEB-01,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 01,IT Operations
+ZA-JNB-DC1-WEB-02,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 02,IT Operations
+ZA-JNB-DC1-APP-01,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 01,IT Operations
+ZA-JNB-DC1-APP-02,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 02,IT Operations
+ZA-JNB-DC1-DB-01,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Primary,IT Operations
+ZA-JNB-DC1-DB-02,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Secondary,IT Operations
+ZA-JNB-DC1-MGMT-01,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1000000,Management and Jump Host,IT Operations
+ZA-JNB-DC1-LOG-01,ZA-JNB-DC1,ZA-JNB-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,12288,1000000,Centralised Logging and Telemetry,IT Operations
+HK-HKG-DC1-AD-01,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Primary Active Directory / DNS,IT Operations
+HK-HKG-DC1-AD-02,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Secondary Active Directory / DNS,IT Operations
+HK-HKG-DC1-WEB-01,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 01,IT Operations
+HK-HKG-DC1-WEB-02,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 02,IT Operations
+HK-HKG-DC1-APP-01,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 01,IT Operations
+HK-HKG-DC1-APP-02,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 02,IT Operations
+HK-HKG-DC1-DB-01,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Primary,IT Operations
+HK-HKG-DC1-DB-02,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Secondary,IT Operations
+HK-HKG-DC1-MGMT-01,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1000000,Management and Jump Host,IT Operations
+HK-HKG-DC1-LOG-01,HK-HKG-DC1,HK-HKG-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,12288,1000000,Centralised Logging and Telemetry,IT Operations
+JP-TYO-DC1-AD-01,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Primary Active Directory / DNS,IT Operations
+JP-TYO-DC1-AD-02,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,windows-server-2025,8,16384,1000000,Secondary Active Directory / DNS,IT Operations
+JP-TYO-DC1-WEB-01,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 01,IT Operations
+JP-TYO-DC1-WEB-02,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,500000,Frontend Web Server 02,IT Operations
+JP-TYO-DC1-APP-01,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 01,IT Operations
+JP-TYO-DC1-APP-02,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1500000,Application Server 02,IT Operations
+JP-TYO-DC1-DB-01,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Primary,IT Operations
+JP-TYO-DC1-DB-02,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,centos-stream-9,16,32768,2000000,Database Server – Secondary,IT Operations
+JP-TYO-DC1-MGMT-01,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,16384,1000000,Management and Jump Host,IT Operations
+JP-TYO-DC1-LOG-01,JP-TYO-DC1,JP-TYO-DC1-ESX-CLUSTER,ubuntu-24-04-lts,8,12288,1000000,Centralised Logging and Telemetry,IT Operations

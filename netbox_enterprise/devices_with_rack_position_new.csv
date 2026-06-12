@@ -1,0 +1,19 @@
+name,role,description,device_type,manufacturer,site,location,rack,status,tenant,position,face
+US-CHI-DC1-ESX-01,vSphere Host,ESXi Host 01,ProLiant DL380 Gen10,HPE,US-CHI-DC1,Data Hall 01,RK-US-CHI-DC1-SRV-01,active,IT Operations,22,front
+US-CHI-DC1-ESX-02,vSphere Host,ESXi Host 02,ProLiant DL380 Gen10,HPE,US-CHI-DC1,Data Hall 01,RK-US-CHI-DC1-SRV-01,active,IT Operations,24,front
+US-CHI-DC1-ESX-03,vSphere Host,ESXi Host 03,ProLiant DL380 Gen10,HPE,US-CHI-DC1,Data Hall 01,RK-US-CHI-DC1-SRV-02,active,IT Operations,22,front
+FR-PAR-DC1-ESX-01,vSphere Host,ESXi Host 01,ProLiant DL380 Gen10,HPE,FR-PAR-DC1,Data Hall 01,RK-FR-PAR-DC1-SRV-01,active,IT Operations,22,front
+FR-PAR-DC1-ESX-02,vSphere Host,ESXi Host 02,ProLiant DL380 Gen10,HPE,FR-PAR-DC1,Data Hall 01,RK-FR-PAR-DC1-SRV-01,active,IT Operations,24,front
+FR-PAR-DC1-ESX-03,vSphere Host,ESXi Host 03,ProLiant DL380 Gen10,HPE,FR-PAR-DC1,Data Hall 01,RK-FR-PAR-DC1-SRV-02,active,IT Operations,22,front
+AE-DXB-DC1-ESX-01,vSphere Host,ESXi Host 01,ProLiant DL380 Gen10,HPE,AE-DXB-DC1,Data Hall 01,RK-AE-DXB-DC1-SRV-01,active,IT Operations,22,front
+AE-DXB-DC1-ESX-02,vSphere Host,ESXi Host 02,ProLiant DL380 Gen10,HPE,AE-DXB-DC1,Data Hall 01,RK-AE-DXB-DC1-SRV-01,active,IT Operations,24,front
+AE-DXB-DC1-ESX-03,vSphere Host,ESXi Host 03,ProLiant DL380 Gen10,HPE,AE-DXB-DC1,Data Hall 01,RK-AE-DXB-DC1-SRV-02,active,IT Operations,22,front
+ZA-JNB-DC1-ESX-01,vSphere Host,ESXi Host 01,ProLiant DL380 Gen10,HPE,ZA-JNB-DC1,Data Hall 01,RK-ZA-JNB-DC1-SRV-01,active,IT Operations,22,front
+ZA-JNB-DC1-ESX-02,vSphere Host,ESXi Host 02,ProLiant DL380 Gen10,HPE,ZA-JNB-DC1,Data Hall 01,RK-ZA-JNB-DC1-SRV-01,active,IT Operations,24,front
+ZA-JNB-DC1-ESX-03,vSphere Host,ESXi Host 03,ProLiant DL380 Gen10,HPE,ZA-JNB-DC1,Data Hall 01,RK-ZA-JNB-DC1-SRV-02,active,IT Operations,22,front
+HK-HKG-DC1-ESX-01,vSphere Host,ESXi Host 01,ProLiant DL380 Gen10,HPE,HK-HKG-DC1,Data Hall 01,RK-HK-HKG-DC1-SRV-01,active,IT Operations,22,front
+HK-HKG-DC1-ESX-02,vSphere Host,ESXi Host 02,ProLiant DL380 Gen10,HPE,HK-HKG-DC1,Data Hall 01,RK-HK-HKG-DC1-SRV-01,active,IT Operations,24,front
+HK-HKG-DC1-ESX-03,vSphere Host,ESXi Host 03,ProLiant DL380 Gen10,HPE,HK-HKG-DC1,Data Hall 01,RK-HK-HKG-DC1-SRV-02,active,IT Operations,22,front
+JP-TYO-DC1-ESX-01,vSphere Host,ESXi Host 01,ProLiant DL380 Gen10,HPE,JP-TYO-DC1,Data Hall 01,RK-JP-TYO-DC1-SRV-01,active,IT Operations,22,front
+JP-TYO-DC1-ESX-02,vSphere Host,ESXi Host 02,ProLiant DL380 Gen10,HPE,JP-TYO-DC1,Data Hall 01,RK-JP-TYO-DC1-SRV-01,active,IT Operations,24,front
+JP-TYO-DC1-ESX-03,vSphere Host,ESXi Host 03,ProLiant DL380 Gen10,HPE,JP-TYO-DC1,Data Hall 01,RK-JP-TYO-DC1-SRV-02,active,IT Operations,22,front

@@ -114,3 +114,97 @@ Cross Connect Room,DE-BER-DC1,,cross-connect-room-de-ber-dc1,active,Internal,Car
 Fire Control Room,DE-BER-DC1,,fire-control-room-de-ber-dc1,active,Internal,Fire suppression and environmental monitoring room
 Patch Room,ZA-CPT-BO1,,patch-room-za-cpt-bo1,active,Internal,Structured cabling and patch panel room
 Meeting Room,ZA-CPT-BO1,,meeting-room-za-cpt-bo1,active,Internal,Regional office meeting room
+MDF Room,IN-BLR-BO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,IN-BLR-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+IDF 02,IN-BLR-BO1,,idf-02,active,Internal,Intermediate distribution frame 02
+Floor 01,IN-BLR-BO1,,floor-01,active,Internal,First floor network area
+Floor 02,IN-BLR-BO1,,floor-02,active,Internal,Second floor network area
+IT Support Room,IN-BLR-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,IN-BLR-BO1,,patch-room,active,Internal,Structured cabling patch room
+Lab Floor A,IN-HYD-LAB1,,lab-floor-a,active,Internal,Engineering lab floor A
+Lab Floor B,IN-HYD-LAB1,,lab-floor-b,active,Internal,Engineering lab floor B
+Server Lab,IN-HYD-LAB1,,server-lab,active,Internal,Server testing laboratory
+Network Lab,IN-HYD-LAB1,,network-lab,active,Internal,Network engineering laboratory
+Operations Room,IN-HYD-LAB1,,operations-room,active,Internal,Lab operations room
+Staging Area,IN-HYD-LAB1,,staging-area,active,Internal,Hardware staging and testing area
+Data Hall 02,SG-SIN-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,SG-SIN-DC1,,storage-hall,active,Internal,Storage infrastructure area
+IT Support Room,SG-SIN-BO1,,it-support-room,active,Internal,Local IT operations room
+Data Hall 02,AU-SYD-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,AU-SYD-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Data Hall 02,DE-BER-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,DE-BER-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Security Room,DE-BER-DC1,,security-room,active,Internal,Security operations room
+MDF Room,NL-AMS-BO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,NL-AMS-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+Floor 01,NL-AMS-BO1,,floor-01,active,Internal,First floor network area
+IT Support Room,NL-AMS-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,NL-AMS-BO1,,patch-room,active,Internal,Structured cabling patch room
+MDF Room,AE-DXB-DC1,,mdf-room,active,Internal,Core network room
+Data Hall 01,AE-DXB-DC1,,data-hall-01,active,Internal,Primary compute hall
+Data Hall 02,AE-DXB-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,AE-DXB-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Security Room,AE-DXB-DC1,,security-room,active,Internal,Security operations room
+NOC Room,AE-DXB-DC1,,noc-room,active,Internal,Network operations center
+Meet-Me Room,AE-DXB-DC1,,meet-me-room,active,Internal,Carrier interconnection room
+UPS Room,AE-DXB-DC1,,ups-room,active,Internal,Power and UPS systems room
+MDF Room,ZA-CPT-BO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,ZA-CPT-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+Floor 01,ZA-CPT-BO1,,floor-01,active,Internal,First floor network area
+IT Support Room,ZA-CPT-BO1,,it-support-room,active,Internal,Local IT operations room
+MDF Room,BR-SAO-BO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,BR-SAO-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+Floor 01,BR-SAO-BO1,,floor-01,active,Internal,First floor network area
+IT Support Room,BR-SAO-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,BR-SAO-BO1,,patch-room,active,Internal,Structured cabling patch room
+Data Hall 02,JP-TYO-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,JP-TYO-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Security Room,JP-TYO-DC1,,security-room,active,Internal,Security operations room
+NOC Room,JP-TYO-DC1,,noc-room,active,Internal,Network operations center
+UPS Room,JP-TYO-DC1,,ups-room,active,Internal,Power and UPS systems room
+IDF 01,JP-TYO-CO1,,idf-01,active,Internal,Intermediate distribution frame 01
+IDF 02,JP-TYO-CO1,,idf-02,active,Internal,Intermediate distribution frame 02
+IT Support Room,JP-TYO-CO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,JP-TYO-CO1,,patch-room,active,Internal,Structured cabling patch room
+MDF Room,KR-SEL-DC1,,mdf-room,active,Internal,Core network room
+Data Hall 02,KR-SEL-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,KR-SEL-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Security Room,KR-SEL-DC1,,security-room,active,Internal,Security operations room
+NOC Room,KR-SEL-DC1,,noc-room,active,Internal,Network operations center
+UPS Room,KR-SEL-DC1,,ups-room,active,Internal,Power and UPS systems room
+IDF 01,ID-JKT-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+IT Support Room,ID-JKT-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,ID-JKT-BO1,,patch-room,active,Internal,Structured cabling patch room
+MDF Room,FR-PAR-CO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,FR-PAR-CO1,,idf-01,active,Internal,Intermediate distribution frame 01
+IDF 02,FR-PAR-CO1,,idf-02,active,Internal,Intermediate distribution frame 02
+Floor 01,FR-PAR-CO1,,floor-01,active,Internal,First floor network area
+IT Support Room,FR-PAR-CO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,FR-PAR-CO1,,patch-room,active,Internal,Structured cabling patch room
+MDF Room,FR-PAR-DC1,,mdf-room,active,Internal,Core network room
+Data Hall 02,FR-PAR-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,FR-PAR-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Security Room,FR-PAR-DC1,,security-room,active,Internal,Security operations room
+NOC Room,FR-PAR-DC1,,noc-room,active,Internal,Network operations center
+UPS Room,FR-PAR-DC1,,ups-room,active,Internal,Power and UPS systems room
+MDF Room,ES-MAD-BO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,ES-MAD-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+Floor 01,ES-MAD-BO1,,floor-01,active,Internal,First floor network area
+IT Support Room,ES-MAD-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,ES-MAD-BO1,,patch-room,active,Internal,Structured cabling patch room
+MDF Room,SA-RYD-DC1,,mdf-room,active,Internal,Core network room
+Data Hall 01,SA-RYD-DC1,,data-hall-01,active,Internal,Primary compute hall
+Data Hall 02,SA-RYD-DC1,,data-hall-02,active,Internal,Secondary compute hall
+Storage Hall,SA-RYD-DC1,,storage-hall,active,Internal,Storage infrastructure area
+Security Room,SA-RYD-DC1,,security-room,active,Internal,Security operations room
+NOC Room,SA-RYD-DC1,,noc-room,active,Internal,Network operations center
+Meet-Me Room,SA-RYD-DC1,,meet-me-room,active,Internal,Carrier interconnection room
+UPS Room,SA-RYD-DC1,,ups-room,active,Internal,Power and UPS systems room
+IDF 01,MX-MXC-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+IT Support Room,MX-MXC-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,MX-MXC-BO1,,patch-room,active,Internal,Structured cabling patch room
+MDF Room,AR-BUE-BO1,,mdf-room,active,Internal,Main distribution frame room
+IDF 01,AR-BUE-BO1,,idf-01,active,Internal,Intermediate distribution frame 01
+Floor 01,AR-BUE-BO1,,floor-01,active,Internal,First floor network area
+IT Support Room,AR-BUE-BO1,,it-support-room,active,Internal,Local IT operations room
+Patch Room,AR-BUE-BO1,,patch-room,active,Internal,Structured cabling patch room

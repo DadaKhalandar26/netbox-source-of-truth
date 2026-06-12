@@ -1,0 +1,2 @@
+name,slug,is_private,description
+RFC 1918,rfc-1918,true,Internal IP address space (Private)

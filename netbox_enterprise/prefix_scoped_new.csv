@@ -1,0 +1,25 @@
+prefix,vrf,status,scope_type,scope_id,description
+10.1.0.0/16,CORP-VRF,container,,,Region 1 corporate supernet (United States)
+172.17.0.0/16,GUEST-VRF,container,,,Region 1 guest supernet
+10.2.0.0/16,CORP-VRF,container,,,Region 2 corporate supernet (North America)
+172.18.0.0/16,GUEST-VRF,container,,,Region 2 guest supernet
+10.3.0.0/16,CORP-VRF,container,,,Region 3 corporate supernet (South America)
+172.19.0.0/16,GUEST-VRF,container,,,Region 3 guest supernet
+10.4.0.0/16,CORP-VRF,container,,,Region 4 corporate supernet (Europe)
+172.20.0.0/16,GUEST-VRF,container,,,Region 4 guest supernet
+10.5.0.0/16,CORP-VRF,container,,,Region 5 corporate supernet (Europe)
+172.21.0.0/16,GUEST-VRF,container,,,Region 5 guest supernet
+10.6.0.0/16,CORP-VRF,container,,,Region 6 corporate supernet (Middle East)
+172.22.0.0/16,GUEST-VRF,container,,,Region 6 guest supernet
+10.7.0.0/16,CORP-VRF,container,,,Region 7 corporate supernet (Africa)
+172.23.0.0/16,GUEST-VRF,container,,,Region 7 guest supernet
+10.8.0.0/16,CORP-VRF,container,,,Region 8 corporate supernet (Asia Pacific)
+172.24.0.0/16,GUEST-VRF,container,,,Region 8 guest supernet
+10.9.0.0/16,CORP-VRF,container,,,Region 9 corporate supernet (Asia Pacific)
+172.25.0.0/16,GUEST-VRF,container,,,Region 9 guest supernet
+10.11.0.0/16,CORP-VRF,container,,,Region 11 corporate supernet (Asia Pacific)
+172.27.0.0/16,GUEST-VRF,container,,,Region 11 guest supernet
+10.12.0.0/16,CORP-VRF,container,,,Region 12 corporate supernet (Asia Pacific)
+172.28.0.0/16,GUEST-VRF,container,,,Region 12 guest supernet
+10.13.0.0/16,CORP-VRF,container,,,Region 13 corporate supernet (Asia Pacific)
+172.29.0.0/16,GUEST-VRF,container,,,Region 13 guest supernet

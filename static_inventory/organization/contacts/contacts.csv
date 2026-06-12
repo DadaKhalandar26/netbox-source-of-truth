@@ -1,0 +1,151 @@
+name,groups,title,email,phone
+Michael Anderson,infra-eng,Infrastructure Director,michael.anderson@corp.example,+1-555-1001
+Jessica Rodriguez,infra-eng,Senior Infrastructure Engineer,jessica.rodriguez@corp.example,+1-555-1002
+Carlos Mendoza,infra-eng,Infrastructure Engineer,carlos.mendoza@corp.example,+1-555-1003
+David Thompson,infra-eng,Platform Engineer,david.thompson@corp.example,+1-555-1004
+Emily Carter,infra-eng,Enterprise Architect,emily.carter@corp.example,+1-555-1005
+Lucas Martin,infra-eng,Infrastructure Manager,lucas.martin@corp.example,+1-555-1006
+Olivia Brooks,infra-eng,Infrastructure Specialist,olivia.brooks@corp.example,+1-555-1007
+Ryan Cooper,infra-eng,Platform Engineer,ryan.cooper@corp.example,+1-555-1008
+Sophia Bennett,infra-eng,Infrastructure Engineer,sophia.bennett@corp.example,+1-555-1009
+Daniel Walker,infra-eng,Infrastructure Engineer,daniel.walker@corp.example,+1-555-1010
+Priya Sharma,network-eng,Network Engineering Manager,priya.sharma@corp.example,+91-80-555-1011
+Rahul Verma,network-eng,Senior Network Engineer,rahul.verma@corp.example,+91-80-555-1012
+Ananya Reddy,network-eng,Network Architect,ananya.reddy@corp.example,+91-80-555-1013
+Karthik Narayanan,network-eng,Network Engineer,karthik.narayanan@corp.example,+91-80-555-1014
+Meera Nair,network-eng,WAN Engineer,meera.nair@corp.example,+91-80-555-1015
+Rohit Kulkarni,network-eng,Campus Network Engineer,rohit.kulkarni@corp.example,+91-80-555-1016
+Pooja Desai,network-eng,Routing Specialist,pooja.desai@corp.example,+91-80-555-1017
+Arjun Patel,network-eng,Senior Network Engineer,arjun.patel@corp.example,+91-80-555-1018
+Sneha Gupta,network-eng,Network Operations Engineer,sneha.gupta@corp.example,+91-80-555-1019
+Vikram Singh,network-eng,Principal Network Architect,vikram.singh@corp.example,+91-80-555-1020
+Hiroshi Tanaka,noc,NOC Director,hiroshi.tanaka@corp.example,+81-3-555-1021
+Yuki Nakamura,noc,NOC Manager,yuki.nakamura@corp.example,+81-3-555-1022
+Kenji Sato,noc,Senior NOC Engineer,kenji.sato@corp.example,+81-3-555-1023
+Aiko Yamamoto,noc,NOC Engineer,aiko.yamamoto@corp.example,+81-3-555-1024
+Takumi Suzuki,noc,Incident Manager,takumi.suzuki@corp.example,+81-3-555-1025
+Haruka Ito,noc,Major Incident Coordinator,haruka.ito@corp.example,+81-3-555-1026
+Riku Kobayashi,noc,NOC Engineer,riku.kobayashi@corp.example,+81-3-555-1027
+Mio Watanabe,noc,NOC Engineer,mio.watanabe@corp.example,+81-3-555-1028
+Daichi Mori,noc,Service Operations Engineer,daichi.mori@corp.example,+81-3-555-1029
+Yuna Takahashi,noc,NOC Analyst,yuna.takahashi@corp.example,+81-3-555-1030
+Ahmed Al-Farsi,cloud-ops,Cloud Infrastructure Lead,ahmed.alfarsi@corp.example,+971-4-555-1031
+Omar Al-Harbi,cloud-ops,Cloud Architect,omar.alharbi@corp.example,+966-11-555-1032
+Fatima Al-Mansoori,cloud-ops,Cloud Engineer,fatima.almansoori@corp.example,+971-4-555-1033
+Yousef Al-Qahtani,cloud-ops,Cloud Operations Engineer,yousef.alqahtani@corp.example,+966-11-555-1034
+Ali Al-Mutairi,cloud-ops,Azure Engineer,ali.almutairi@corp.example,+965-2-555-1035
+Sara Al-Najjar,cloud-ops,AWS Engineer,sara.alnajjar@corp.example,+973-1-555-1036
+Tariq Al-Rashid,cloud-ops,Cloud Security Engineer,tariq.alrashid@corp.example,+974-4-555-1037
+Mariam Al-Khalifa,cloud-ops,Cloud Platform Engineer,mariam.alkhalifa@corp.example,+973-1-555-1038
+Lukas Schneider,server-ops,Senior Systems Engineer,lukas.schneider@corp.example,+49-30-555-1039
+Anna Muller,server-ops,Systems Engineer,anna.muller@corp.example,+49-30-555-1040
+Oliver Fischer,server-ops,Linux Platform Lead,oliver.fischer@corp.example,+49-30-555-1041
+Sophie Laurent,server-ops,Windows Platform Lead,sophie.laurent@corp.example,+33-1-555-1042
+Pierre Dubois,server-ops,System Administrator,pierre.dubois@corp.example,+33-1-555-1043
+Marco Rossi,server-ops,Senior Systems Engineer,marco.rossi@corp.example,+39-06-555-1044
+Giulia Bianchi,server-ops,Virtualization Engineer,giulia.bianchi@corp.example,+39-06-555-1045
+Johan Svensson,server-ops,Systems Engineer,johan.svensson@corp.example,+46-8-555-1046
+Emma Eriksson,server-ops,Infrastructure Systems Engineer,emma.eriksson@corp.example,+46-8-555-1047
+Tomas Novak,server-ops,System Administrator,tomas.novak@corp.example,+420-2-555-1048
+Wei Zhang,soc,SOC Director,wei.zhang@corp.example,+86-10-555-1049
+Liang Chen,soc,Senior Security Analyst,liang.chen@corp.example,+86-10-555-1050
+Xiaoyu Wang,soc,Security Analyst,xiaoyu.wang@corp.example,+86-10-555-1051
+Minjun Kim,soc,Threat Response Engineer,minjun.kim@corp.example,+82-2-555-1052
+Jihoon Park,soc,Security Operations Engineer,jihoon.park@corp.example,+82-2-555-1053
+Seoyeon Lee,soc,Vulnerability Analyst,seoyeon.lee@corp.example,+82-2-555-1054
+Yichen Liu,soc,Security Engineer,yichen.liu@corp.example,+86-10-555-1055
+Haoran Xu,soc,Incident Response Specialist,haoran.xu@corp.example,+86-10-555-1056
+Kwame Mensah,dc-ops,Data Center Manager,kwame.mensah@corp.example,+233-30-555-1057
+Ama Boateng,dc-ops,Data Center Engineer,ama.boateng@corp.example,+233-30-555-1058
+Thabo Nkosi,dc-ops,Facility Operations Engineer,thabo.nkosi@corp.example,+27-11-555-1059
+Naledi Molefe,dc-ops,Critical Infrastructure Engineer,naledi.molefe@corp.example,+27-11-555-1060
+David Okafor,dc-ops,Data Center Operations Lead,david.okafor@corp.example,+234-1-555-1061
+Chioma Eze,dc-ops,Data Center Engineer,chioma.eze@corp.example,+234-1-555-1062
+Samuel Adeyemi,dc-facilities,Facilities Manager,samuel.adeyemi@corp.example,+234-1-555-1063
+Amina Bello,dc-facilities,Facilities Engineer,amina.bello@corp.example,+234-1-555-1064
+Peter Mbeki,dc-facilities,Critical Power Engineer,peter.mbeki@corp.example,+27-21-555-1065
+Lerato Dlamini,dc-facilities,Mechanical Systems Engineer,lerato.dlamini@corp.example,+27-21-555-1066
+John Kamau,dc-facilities,Environmental Controls Specialist,john.kamau@corp.example,+254-20-555-1067
+Maria Santos,isp-t3,Carrier Escalation Manager,maria.santos@carrier.example,+63-2-555-1068
+Jose Dela Cruz,isp-t3,Senior Provider Support Engineer,jose.delacruz@carrier.example,+63-2-555-1069
+Ramon Villanueva,isp-t3,Circuit Provisioning Specialist,ramon.villanueva@carrier.example,+63-2-555-1070
+Angela Reyes,isp-t3,Carrier Support Engineer,angela.reyes@carrier.example,+63-2-555-1071
+Farid Rahman,isp-t3,ISP Account Executive,farid.rahman@carrier.example,+60-3-555-1072
+Nurul Abdullah,isp-t3,Provider Escalation Engineer,nurul.abdullah@carrier.example,+60-3-555-1073
+Camila Garcia,pmo,Senior Project Manager,camila.garcia@corp.example,+52-55-555-1074
+Mateo Hernandez,pmo,Project Manager,mateo.hernandez@corp.example,+52-55-555-1075
+Sofia Ramirez,pmo,Program Coordinator,sofia.ramirez@corp.example,+52-55-555-1076
+Diego Torres,pmo,Deployment Manager,diego.torres@corp.example,+52-55-555-1077
+Valentina Cruz,pmo,Project Analyst,valentina.cruz@corp.example,+57-1-555-1078
+Gabriel Silva,pmo,PMO Specialist,gabriel.silva@corp.example,+55-11-555-1079
+Nguyen Minh Anh,field-services,Regional Field Engineer,nguyen.minhanh@corp.example,+84-24-555-1080
+Tran Quang Huy,field-services,Field Service Engineer,tran.quanghuy@corp.example,+84-24-555-1081
+Le Thi Hoa,field-services,Remote Hands Technician,le.thihoa@corp.example,+84-24-555-1082
+Budi Santoso,field-services,Site Support Engineer,budi.santoso@corp.example,+62-21-555-1083
+Siti Nurhaliza,field-services,Hardware Installation Engineer,siti.nurhaliza@corp.example,+62-21-555-1084
+Muhammad Hafiz,field-services,Cabling Specialist,muhammad.hafiz@corp.example,+60-3-555-1085
+Victor Alvarez,vendor-mgmt,Vendor Relationship Manager,victor.alvarez@corp.example,+34-91-555-1086
+Elena Martinez,vendor-mgmt,Strategic Vendor Manager,elena.martinez@corp.example,+34-91-555-1087
+Ricardo Costa,vendor-mgmt,Technology Partner Manager,ricardo.costa@corp.example,+351-21-555-1088
+Beatriz Ferreira,vendor-mgmt,Vendor Operations Manager,beatriz.ferreira@corp.example,+351-21-555-1089
+Andre Oliveira,vendor-mgmt,Supplier Relationship Lead,andre.oliveira@corp.example,+55-11-555-1090
+Helena Sousa,vendor-mgmt,Contract Manager,helena.sousa@corp.example,+351-21-555-1091
+Chen Wei,dba,Lead Database Administrator,chen.wei@corp.example,+86-21-555-1092
+Wang Lei,dba,Senior DBA,wang.lei@corp.example,+86-21-555-1093
+Liu Fang,dba,Oracle Database Administrator,liu.fang@corp.example,+86-21-555-1094
+Zhao Ming,dba,SQL Database Administrator,zhao.ming@corp.example,+86-21-555-1095
+Park Jiwoo,storage-ops,Storage Architect,park.jiwoo@corp.example,+82-2-555-1096
+Kim Seojun,storage-ops,Storage Engineer,kim.seojun@corp.example,+82-2-555-1097
+Lee Minseo,storage-ops,SAN Administrator,lee.minseo@corp.example,+82-2-555-1098
+Choi Hyunwoo,storage-ops,Backup Infrastructure Engineer,choi.hyunwoo@corp.example,+82-2-555-1099
+Tan Jia Hao,wireless-eng,Wireless Architect,tan.jiahao@corp.example,+65-6-555-1100
+Lim Wei Jie,wireless-eng,Senior Wireless Engineer,lim.weijie@corp.example,+65-6-555-1101
+Goh Xin Yi,wireless-eng,Wireless Network Engineer,goh.xinyi@corp.example,+65-6-555-1102
+Lee Kai Wen,wireless-eng,Enterprise WiFi Specialist,lee.kaiwen@corp.example,+65-6-555-1103
+Christopher Brown,uc-team,Unified Communications Manager,christopher.brown@corp.example,+1-555-1104
+Amanda Wilson,uc-team,Voice Infrastructure Engineer,amanda.wilson@corp.example,+1-555-1105
+Nathan Taylor,uc-team,Collaboration Platform Engineer,nathan.taylor@corp.example,+1-555-1106
+Rebecca Moore,uc-team,UC Systems Engineer,rebecca.moore@corp.example,+1-555-1107
+George Petrov,facilities-mgmt,Facilities Coordinator,george.petrov@corp.example,+359-2-555-1108
+Ivana Markovic,facilities-mgmt,Regional Facilities Manager,ivana.markovic@corp.example,+381-11-555-1109
+Marek Kowalski,facilities-mgmt,Site Facilities Lead,marek.kowalski@corp.example,+48-22-555-1110
+Agnieszka Nowak,compliance-risk,Compliance Officer,agnieszka.nowak@corp.example,+48-22-555-1111
+Katarzyna Wisniewska,compliance-risk,Risk Analyst,katarzyna.wisniewska@corp.example,+48-22-555-1112
+Piotr Zielinski,compliance-risk,Governance Specialist,piotr.zielinski@corp.example,+48-22-555-1113
+Alexander Novak,change-mgmt,Change Manager,alexander.novak@corp.example,+420-2-555-1114
+Petra Svobodova,change-mgmt,Change Advisory Board Lead,petra.svobodova@corp.example,+420-2-555-1115
+Milan Horak,change-mgmt,Release Manager,milan.horak@corp.example,+420-2-555-1116
+Lucie Prochazkova,change-mgmt,IT Change Coordinator,lucie.prochazkova@corp.example,+420-2-555-1117
+Moses Otieno,bcp,Business Continuity Manager,moses.otieno@corp.example,+254-20-555-1118
+Grace Wanjiku,bcp,Disaster Recovery Specialist,grace.wanjiku@corp.example,+254-20-555-1119
+Daniel Kiprotich,bcp,Continuity Planning Analyst,daniel.kiprotich@corp.example,+254-20-555-1120
+Faith Njeri,bcp,Crisis Response Coordinator,faith.njeri@corp.example,+254-20-555-1121
+Fernando Morales,app-ops,Application Operations Manager,fernando.morales@corp.example,+52-55-555-1122
+Isabella Romero,app-ops,Application Support Lead,isabella.romero@corp.example,+52-55-555-1123
+Javier Castillo,app-ops,Senior Application Engineer,javier.castillo@corp.example,+52-55-555-1124
+Lucia Navarro,app-ops,Business Applications Specialist,lucia.navarro@corp.example,+52-55-555-1125
+Aravind Krishnan,devops,DevOps Manager,aravind.krishnan@corp.example,+91-44-555-1126
+Nisha Menon,devops,Senior DevOps Engineer,nisha.menon@corp.example,+91-44-555-1127
+Suresh Iyer,devops,Platform Automation Engineer,suresh.iyer@corp.example,+91-44-555-1128
+Deepika Rao,devops,CI CD Engineer,deepika.rao@corp.example,+91-44-555-1129
+Manoj Chandra,devops,Infrastructure Automation Engineer,manoj.chandra@corp.example,+91-44-555-1130
+Benjamin Carter,infra-eng,Global Infrastructure Director,benjamin.carter@corp.example,+1-555-1131
+Melissa Grant,infra-eng,Infrastructure Program Manager,melissa.grant@corp.example,+1-555-1132
+Tyler Hughes,infra-eng,Senior Platform Architect,tyler.hughes@corp.example,+1-555-1133
+Courtney Price,infra-eng,Infrastructure Operations Lead,courtney.price@corp.example,+1-555-1134
+Brandon Reed,infra-eng,Infrastructure Services Manager,brandon.reed@corp.example,+1-555-1135
+Vanessa Morgan,network-eng,Global Network Architect,vanessa.morgan@corp.example,+1-555-1136
+Trevor Simmons,network-eng,Senior WAN Engineer,trevor.simmons@corp.example,+1-555-1137
+Nicole Bailey,network-eng,Enterprise Network Engineer,nicole.bailey@corp.example,+1-555-1138
+Jordan Phillips,network-eng,Network Services Manager,jordan.phillips@corp.example,+1-555-1139
+Cameron Foster,network-eng,Principal Routing Architect,cameron.foster@corp.example,+1-555-1140
+Richard Montgomery,infra-eng,Chief Infrastructure Officer,richard.montgomery@corp.example,+1-555-1141
+Patricia Livingston,infra-eng,VP Infrastructure Services,patricia.livingston@corp.example,+1-555-1142
+Jonathan Edwards,network-eng,VP Global Networking,jonathan.edwards@corp.example,+1-555-1143
+Catherine Holmes,soc,Chief Information Security Officer,catherine.holmes@corp.example,+1-555-1144
+Steven Richardson,cloud-ops,Director Cloud Platforms,steven.richardson@corp.example,+1-555-1145
+Deborah Franklin,server-ops,Director Compute Services,debora.franklin@corp.example,+1-555-1146
+Mohammed Al-Zahrani,isp-t3,Senior Carrier Account Manager,mohammed.alzahrani@carrier.example,+966-11-555-1147
+Abdullah Al-Saud,isp-t3,Carrier Escalation Director,abdullah.alsaud@carrier.example,+966-11-555-1148
+Farah Al-Haddad,vendor-mgmt,Strategic Vendor Director,farah.alhaddad@corp.example,+971-4-555-1149
+Hassan Al-Nuaimi,vendor-mgmt,Technology Partnerships Lead,hassan.alnuaimi@corp.example,+971-4-555-1150

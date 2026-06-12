@@ -1,0 +1,2 @@
+
+def create_multiple_devices_request(base_url:str, payload:dir, )

@@ -1,0 +1,138 @@
+---
+module_types:
+  Cisco:
+
+    # Nexus 9508 Supervisors
+    - N9K-SUP-A+
+    - N9K-SUP-B+
+
+    # Nexus 9508 Line Cards
+    - N9K-X9736C-FX
+    - N9K-X97160YC-EX
+    - N9K-X97160YC-FX
+    - N9K-X9732C-EX
+    - N9K-X9716D-GX
+
+    # Nexus Fabric Modules
+    - N9K-C9508-FM-E
+    - N9K-C9508-FM-R
+
+    # Catalyst 9600 Supervisors
+    - C9600-SUP-1
+    - C9600-SUP-2
+
+    # Catalyst 9600 Line Cards
+    - C9600-LC-24C
+    - C9600-LC-48YL
+    - C9600-LC-48TX
+    - C9600-LC-48HX
+
+    # Catalyst 9600 Power Supplies
+    - C9600-PWR-2KWAC
+    - C9600-PWR-3KWAC
+
+    # Catalyst 9300 Network Modules
+    - C9300-NM-8X
+    - C9300-NM-4M
+    - C9300-NM-2Q
+    - C9300-NM-2Y
+
+    # Catalyst 9300 Stack Modules
+    - C9300-STACK-KIT
+
+    # ASR1001-X Modules
+    - ASR1000-ESP20
+    - ASR1000-ESP40
+    - ASR1000-RP2
+
+    # ISR4451-X NIM Modules
+    - NIM-2GE-CU-SFP
+    - NIM-ES2-8
+    - NIM-4FXO
+    - NIM-8MFT-T1E1
+
+    # Catalyst 8300 NIM Modules
+    - NIM-1GE-CU-SFP
+    - NIM-2GE-CU-SFP
+    - NIM-4G-LTE-GA
+
+    # Firepower Modules
+    - FPR-NM-8X1G
+    - FPR-NM-4X10G
+    - FPR-NM-2Q
+
+    # Wireless Controller Modules
+    - C9800-DNA-A
+    - C9800-DNA-P
+
+  Arista:
+
+    # 7050 / 7280 FlexRoute Modules
+    - DCS-7280-FM
+    - DCS-7050SX-FAN
+
+  Juniper:
+
+    # MX480 Routing Engines
+    - RE-S-1800X4
+    - RE-MX480-1800X4
+
+    # MX480 MPC Cards
+    - MPC7E-10G
+    - MPC8E-40G
+    - MPC9E-100G
+
+    # MX480 SCBs
+    - SCBE2-MX
+
+    # EX Series Uplink Modules
+    - EX-UM-4X4SFP
+
+  Palo Alto:
+
+    # PA-5450 Interface Cards
+    - PAN-PA-5400-100G-NPC-A
+    - PAN-PA-5400-100G-NPC-B
+
+  Fortinet:
+
+    # FortiGate Expansion Modules
+    - FG-TRAN-SFP+SR
+    - FG-TRAN-QSFP28-LR4
+
+  HPE:
+
+    # Aruba CX Modules
+    - JL083A
+    - JL084A
+
+  Dell:
+
+    # Server Network Adapters
+    - Intel-X710-DA2
+    - Broadcom-57414
+
+    # Server Storage Controllers
+    - PERC-H755
+    - PERC-H965
+
+  NetApp:
+
+    # Storage Controllers
+    - X1154A
+    - X1155A
+
+    # NVMe Shelves
+    - NS224
+
+  APC:
+
+    # Monitoring Cards
+    - AP9640
+    - AP9641
+
+  Vertiv:
+
+    # Environmental Monitoring
+    - IS-UNITY-DP
+    - RDU101

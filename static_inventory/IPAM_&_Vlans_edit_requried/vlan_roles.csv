@@ -1,0 +1,8 @@
+name,slug,weight
+Infrastructure,infrastructure,1000
+User-Data,user-data,1000
+Guest-Data,guest-data,1000
+IoT,iot,1000
+Voice,voice,1000
+Security-Camera,security-camera,1000
+Servers,servers,1000
